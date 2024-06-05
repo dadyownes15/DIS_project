@@ -5,7 +5,9 @@ import psycopg2
 from dotenv import load_dotenv
 from psycopg2.extras import RealDictCursor
 
+# Load environment variables
 load_dotenv()
+
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
@@ -19,3 +21,4 @@ conn = psycopg2.connect(
 
 #Helps formatting the data retrieved from the database
 db_cursor = conn.cursor(cursor_factory=RealDictCursor)
+
