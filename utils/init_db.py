@@ -9,7 +9,6 @@ load_dotenv()
 def get_db_connection():
      conn = psycopg2.connect(
         host="localhost"
-        
     )
      return conn
 def init_db():
