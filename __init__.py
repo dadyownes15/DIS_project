@@ -3,6 +3,7 @@ import os
 from flask import Flask
 import psycopg2
 from dotenv import load_dotenv
+from psycopg2.extras import RealDictCursor
 
 load_dotenv()
 
@@ -16,3 +17,5 @@ conn = psycopg2.connect(
     password=os.getenv('DB_PASSWORD')
 )
 
+#Helps formatting the data retrieved from the database
+db_cursor = conn.cursor(cursor_factory=RealDictCursor)
