@@ -8,10 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 def get_db_connection():
      conn = psycopg2.connect(
-        host="localhost",
-        database=os.getenv('DB_NAME'),
-        user=os.getenv('DB_USERNAME'),
-        password=os.getenv('DB_PASSWORD')
+        host="localhost"
+        
     )
      return conn
 def init_db():
