@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select University</title>
+</head>
+<body>
+    <h1>Select a University</h1>
+    <form action="/" method="post">
+        <select name="university">
+            {% for uni in universities %}
+            <option value="{{ uni[0] }}">{{ uni[0] }}</option>  <!-- Assuming uni[0] is the university_text -->
+            {% endfor %}
+        </select>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Major</title>
+</head>
+<body>
+    <h1>Majors at {{ university }}</h1>
+    <form action="/" method="post">
+        <select name="semester">
+            {% for semester in semester_text %}
+            <option value="{{ semester[0] }}">{{ semester[0] }}</option>
+            {% endfor %}
+        </select>
+        
+        <!-- Hidden input field for university -->
+        <input type="hidden" name="university_hidden" value="{{ university }}">
+        <input type="hidden" name="major_hidden" value="{{ major }}">
+    
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,604 +1,1386 @@
-STUDY_ID,STUDY_TEXT,SUBJECT_ID,SUBJECT_TEXT,SEMESTER_TEXT
-803,Audiologopædi,Psykolingvistik og statistik,Psykolingvistik og statistik,Bachelor
-810,Danish culture courses,Søren Kierkegaard and the Challenge of Existence,Søren Kierkegaard and the Challenge of Existence,Bachelor
-812,Dansk,Sprog og kontekst,Sprog og kontekst,1.år/2.sem/Bach
-812,Dansk,Danskfagets teori og metoder,Danskfagets teori og metoder,2.år/4.sem/Bach
-812,Dansk,Sociolingvistikkens nye tendenser,Sociolingvistikkens nye tendenser,3.år/6.sem/Bach
-812,Dansk,"Kommunikation: Ledelse, organisation og kommunikat","Kommunikation: Ledelse, organisation og kommunikat",Bachelor
-812,Dansk,Danskfagets didaktik,Danskfagets didaktik,Kandidat
-812,Dansk,"Hav, kyst og klima i dansk og nordisk litteratur:","Hav, kyst og klima i dansk og nordisk litteratur:",Kandidat
-812,Dansk,Kommunikationsrådgivning og rådgiverens rolle,Kommunikationsrådgivning og rådgiverens rolle,Kandidat
-813,Dansk som andetsprog,Andetsprogstilegnelse,Andetsprogstilegnelse,Bachelor
-892,"EnGeRom - Engelsk, Germansk, Romanske Studier",Transatlantic Feminisms,Transatlantic Feminisms,Bachelor
-892,"EnGeRom - Engelsk, Germansk, Romanske Studier","Fremmedsprogstilegnelse, kultur og didaktik","Fremmedsprogstilegnelse, kultur og didaktik",Kandidat
-892,"EnGeRom - Engelsk, Germansk, Romanske Studier",Writing in English: Creative Non-Fiction in Englis,Writing in English: Creative Non-Fiction in Englis,Master.
-815,Engelsk,"Culture 2: Literature, History and Culture","Culture 2: Literature, History and Culture",1.år/2.sem/Bach
-815,Engelsk,"Sprog 2: fonetik, grammatik og oversættelse","Sprog 2: fonetik, grammatik og oversættelse",1.år/2.sem/Bach
-815,Engelsk,"American Studies, American Politics, and American","American Studies, American Politics, and American",2.år/4.sem/Bach
-815,Engelsk,The Fantastic in Literature: From Book to Film,The Fantastic in Literature: From Book to Film,2.år/4.sem/Bach
-815,Engelsk,"Elective Subject, topic 1: Literature and Emotions","Elective Subject, topic 1: Literature and Emotions",Bachelor
-815,Engelsk,"Global English: Accents, intelligibility and compr","Global English: Accents, intelligibility and compr",Bachelor
-815,Engelsk,At Sixes and Sevens: The US and the UK in an age..,At Sixes and Sevens: The US and the UK in an age..,Kandidat
-815,Engelsk,"Literature, history and culture","Literature, history and culture",Kandidat
-815,Engelsk,Mirror of Modernity: Sensation and 19th-Cent. Fict,Mirror of Modernity: Sensation and 19th-Cent. Fict,Kandidat
-815,Engelsk,Mirror of Modernity: Sensation and 19th-Cent.Fict.,Mirror of Modernity: Sensation and 19th-Cent.Fict.,Kandidat
-815,Engelsk,The Self and the World in 21th.Cent. U.S fiction,The Self and the World in 21th.Cent. U.S fiction,Kandidat
-815,Engelsk,Writing Africa: Four Perspectives on Nigerian and,Writing Africa: Four Perspectives on Nigerian and,Kandidat
-818,Film- og medievidenskab,Digital Strategic Communication,Digital Strategic Communication,Bachelor
-818,Film- og medievidenskab,Digital strategisk kommunikation,Digital strategisk kommunikation,Bachelor
-818,Film- og medievidenskab,Kvalitative og kvantitative metoder i film- og...,Kvalitative og kvantitative metoder i film- og...,Bachelor
-819,Filosofi,"Argumentationsteori, logik og sprogfilosofi","Argumentationsteori, logik og sprogfilosofi",1.år/2.sem/Bach
-819,Filosofi,Videnskabsfilosofi og anvendt filosofi,Videnskabsfilosofi og anvendt filosofi,2.år/4.sem/Bach
-819,Filosofi,Videnskabsfilosofi og anvendt filosofi (ÅU),Videnskabsfilosofi og anvendt filosofi (ÅU),Deltid/Åben uni
-822,Fransk sprog og kultur,Oversættelse: Fransk-dansk,Oversættelse: Fransk-dansk,Bachelor
-826,Historie,Hverdag og krig i Danmark 1940-1945 (Område 2),Hverdag og krig i Danmark 1940-1945 (Område 2),1.år/2.sem/Bach
-826,Historie,"Liberale, konservative og kampen om amerikansk j..","Liberale, konservative og kampen om amerikansk j..",1.år/2.sem/Bach
-826,Historie,Velfærdsstat og børneforsorg i Danmark i det 20. å,Velfærdsstat og børneforsorg i Danmark i det 20. å,1.år/2.sem/Bach
-826,Historie,HIS 76. Bibelen - en boghistorie,HIS 76. Bibelen - en boghistorie,2.år/4.sem/Bach
-826,Historie,"Radikalisering i oplysningstiden: køn, politik og","Radikalisering i oplysningstiden: køn, politik og",3.år/6.sem/Bach
-826,Historie,Efter den Kolde Krig var forbi. Fra Engagement til,Efter den Kolde Krig var forbi. Fra Engagement til,Bachelor
-826,Historie,Sporten og dens samfundsmæssige betydning i den se,Sporten og dens samfundsmæssige betydning i den se,Bachelor
-826,Historie,Go West. Historiske perspektiver på USA's kulturel,Go West. Historiske perspektiver på USA's kulturel,Deltid/Åben uni
-826,Historie,Oplysningstiden som ideal eller dystopi: 1700-tall,Oplysningstiden som ideal eller dystopi: 1700-tall,Kandidatfag
-831,Informationsstudier,Design og formidling,Design og formidling,Bachelor
-831,Informationsstudier,Internet og samfund,Internet og samfund,Bachelor
-831,Informationsstudier,Kulturens institutioner og aktører + TV,Kulturens institutioner og aktører + TV,Bachelor
-831,Informationsstudier,Videnskabsteori,Videnskabsteori,Bachelor
-840,Japanstudier,"Intro. to Japan's history, culture and society B/2","Intro. to Japan's history, culture and society B/2",Bachelor
-840,Japanstudier,Japansk Propædeutik 2,Japansk Propædeutik 2,Bachelor
-841,Kinastudier,Kinesisk Propædeutik 2 (OBS: Ikke  med CBS),Kinesisk Propædeutik 2 (OBS: Ikke  med CBS),Bachelor
-844,Kommunikation,Procesledelse og facilitering,Procesledelse og facilitering,Bachelor
-845,Kommunikation og IT,Empiriske Undersøgelsesmetoder 1,Empiriske Undersøgelsesmetoder 1,1.år/2.sem/Bach
-848,Kunsthistorie,Kunsthistorie 1800-1960 (ÅU),Kunsthistorie 1800-1960 (ÅU),Bachelor
-852,Lingvistik,Fonetik og fonologi,Fonetik og fonologi,1.år/2.sem/Bach
-853,Litteraturvidenskab,Den moderne litteraturs og kulturs historie 2,Den moderne litteraturs og kulturs historie 2,Bachelor
-853,Litteraturvidenskab,Litteraturteori og -analyse 2,Litteraturteori og -analyse 2,Bachelor
-853,Litteraturvidenskab,Moderne kultur: Kulturanalytisk emne: Sianne Ngai:,Moderne kultur: Kulturanalytisk emne: Sianne Ngai:,Kandidatfag
-855,Master in Applied Cultural Analysis (MACA),Fieldwork and Project Management (MACA 5),Fieldwork and Project Management (MACA 5),Kandidat
-855,Master in Applied Cultural Analysis (MACA),Methodologies for Cultural Analysis (MACA 4),Methodologies for Cultural Analysis (MACA 4),Master
-857,Mellemøstens sprog og samfund,Religion og samfund i Mellemøsten,Religion og samfund i Mellemøsten,1.år/2.sem/Bach
-873,Pædagogik,Pædagogisk sociologi og uddannelsessociologi,Pædagogisk sociologi og uddannelsessociologi,1.år/2.sem/Bach
-873,Pædagogik,Pædagogisk videnskabsteori og forskningsmetode,Pædagogisk videnskabsteori og forskningsmetode,Bachelor
-874,Religionsvidenskab,Kristendomshistorie,Kristendomshistorie,1.år/1.sem/Bach
-876,Retorik,Mundtlig retorik og rådgivning,Mundtlig retorik og rådgivning,2.år/4.sem/Bach
-876,Retorik,"Retorisk skrivning, sprog og stil","Retorisk skrivning, sprog og stil",2.år/4.sem/Bach
-893,"SAXO Arkæologi, Etnologi, Historie, Græsk og Latin",Græsk-romersk arkæologi og kunsthistorie,Græsk-romersk arkæologi og kunsthistorie,1.år/2.sem/Bach
-893,"SAXO Arkæologi, Etnologi, Historie, Græsk og Latin",Human Osteoarchaeology,Human Osteoarchaeology,Bachelor
-893,"SAXO Arkæologi, Etnologi, Historie, Græsk og Latin",Københavnernes historie 1700-1850,Københavnernes historie 1700-1850,Bachelor
-893,"SAXO Arkæologi, Etnologi, Historie, Græsk og Latin",Rejsen i middelalderen,Rejsen i middelalderen,Bachelor
-882,Teater- og performancestudier,Forestillingsanalyse,Forestillingsanalyse,Bachelor
-885,Tværkulturelle studier,Humaniora i praksis: Feltarbejde,Humaniora i praksis: Feltarbejde,BA/Kand. Tilvalg
-885,Tværkulturelle studier,Kinesisk Propædeutik 2 (OBS: Ikke  med CBS),Kinesisk Propædeutik 2 (OBS: Ikke  med CBS),Bachelor
-887,Tysk sprog og kultur,Kultur 2: tysk historie og litteraturhistorie,Kultur 2: tysk historie og litteraturhistorie,1.år/2.sem/Bach
-887,Tysk sprog og kultur,"Tyskfagligt emne, inkl. mundtlig og skriftlig...","Tyskfagligt emne, inkl. mundtlig og skriftlig...",Bachelor
-888,Visuel kultur,Visuel praksis,Visuel praksis,Kandidat
-891,Østeuropastudier,Oversættelse til dansk,Oversættelse til dansk,Kandidat
-900,Jura Bachelor,Erstatning og Kontrakt,Erstatning og Kontrakt,1.år/2.sem/Bach
-900,Jura Bachelor,Individets grundlæggende rettigheder,Individets grundlæggende rettigheder,1.år/2.sem/Bach
-900,Jura Bachelor,Institutionel forfatningsret og EU-forfatningsret,Institutionel forfatningsret og EU-forfatningsret,1.år/2.sem/Bach
-900,Jura Bachelor,Forvaltningsret,Forvaltningsret,2.år/4.sem/Bach
-900,Jura Bachelor,Tings- og kreditorret,Tings- og kreditorret,2.år/4.sem/Bach
-900,Jura Bachelor,BA-PROJEKT - Bachelorprojekt,BA-PROJEKT - Bachelorprojekt,3.år/6.sem/Bach
-900,Jura Bachelor,Retsfilosofi og retssociologi,Retsfilosofi og retssociologi,3.år/6.sem/Bach
-900,Jura Bachelor,Retshistorie,Retshistorie,3.år/6.sem/Bach
-901,Jura Kandidat,Arbejdsmarkedsret (Cand. soc. i jura),Arbejdsmarkedsret (Cand. soc. i jura),Cand.Soc.
-901,Jura Kandidat,"Erhvervsret - selskaber, finan (Cand. soc. i jura)","Erhvervsret - selskaber, finan (Cand. soc. i jura)",Cand.Soc.
-901,Jura Kandidat,Juridisk Kommunikation i Teori og Praksis,Juridisk Kommunikation i Teori og Praksis,Cand.Soc.
-901,Jura Kandidat,Ansættelsesret,Ansættelsesret,Kandidatfag
-901,Jura Kandidat,Arbejdsret (KA-valgfag),Arbejdsret (KA-valgfag),Kandidatfag
-901,Jura Kandidat,Art Crime and the Law,Art Crime and the Law,Kandidatfag
-901,Jura Kandidat,Bank- og Finansret,Bank- og Finansret,Kandidatfag
-901,Jura Kandidat,Bevisret,Bevisret,Kandidatfag
-901,Jura Kandidat,Civilprocesret (obligatorisk 2017-studieordning),Civilprocesret (obligatorisk 2017-studieordning),Kandidatfag
-901,Jura Kandidat,Criminological Theory,Criminological Theory,Kandidatfag
-901,Jura Kandidat,Databeskyttelsesret,Databeskyttelsesret,Kandidatfag
-901,Jura Kandidat,Drafting and Negotiating International Contracts,Drafting and Negotiating International Contracts,Kandidatfag
-901,Jura Kandidat,EU Competition Law,EU Competition Law,Kandidatfag
-901,Jura Kandidat,Entrepriseret (Byggeret),Entrepriseret (Byggeret),Kandidatfag
-901,Jura Kandidat,Finansieringsret,Finansieringsret,Kandidatfag
-901,Jura Kandidat,IT-ret,IT-ret,Kandidatfag
-901,Jura Kandidat,Immaterialret,Immaterialret,Kandidatfag
-901,Jura Kandidat,Insolvensret,Insolvensret,Kandidatfag
-901,Jura Kandidat,International Criminal Law and Procedure.,International Criminal Law and Procedure.,Kandidatfag
-901,Jura Kandidat,International Migration Law,International Migration Law,Kandidatfag
-901,Jura Kandidat,It-kontraktret,It-kontraktret,Kandidatfag
-901,Jura Kandidat,Juridisk metode   argumentation,Juridisk metode   argumentation,Kandidatfag
-901,Jura Kandidat,Konfliktmægling (Mediation),Konfliktmægling (Mediation),Kandidatfag
-901,Jura Kandidat,Latin for Jurister,Latin for Jurister,Kandidatfag
-901,Jura Kandidat,Legal English,Legal English,Kandidatfag
-901,Jura Kandidat,Legal Negotiation in Theory and Practice,Legal Negotiation in Theory and Practice,Kandidatfag
-901,Jura Kandidat,Mediation in Legal Contexts,Mediation in Legal Contexts,Kandidatfag
-901,Jura Kandidat,Medieret,Medieret,Kandidatfag
-901,Jura Kandidat,Peaceful Settlement of International Disputes,Peaceful Settlement of International Disputes,Kandidatfag
-901,Jura Kandidat,Pensionsret,Pensionsret,Kandidatfag
-901,Jura Kandidat,Praktisk Aftaleret,Praktisk Aftaleret,Kandidatfag
-901,Jura Kandidat,Selskabsret,Selskabsret,Kandidatfag
-901,Jura Kandidat,Skatteret (Obligatorisk),Skatteret (Obligatorisk),Kandidatfag
-901,Jura Kandidat,Socialret,Socialret,Kandidatfag
-901,Jura Kandidat,Speciale - Jurastudiet,Speciale - Jurastudiet,Kandidatfag
-901,Jura Kandidat,Specialiseret erstatningsret,Specialiseret erstatningsret,Kandidatfag
-901,Jura Kandidat,Specialiseret familieret,Specialiseret familieret,Kandidatfag
-901,Jura Kandidat,Specialstrafferet,Specialstrafferet,Kandidatfag
-901,Jura Kandidat,Straffeprocesret,Straffeprocesret,Kandidatfag
-901,Jura Kandidat,Straffuldbyrdelsesret,Straffuldbyrdelsesret,Kandidatfag
-901,Jura Kandidat,Sundhedsret,Sundhedsret,Kandidatfag
-901,Jura Kandidat,Udbudsret,Udbudsret,Kandidatfag
-901,Jura Kandidat,Udlændingeret,Udlændingeret,Kandidatfag
-901,Jura Kandidat,Udvidet skatteret (obligatorisk),Udvidet skatteret (obligatorisk),Kandidatfag
-904,Jura Masteruddannelse,Konfliktmægling (Master),Konfliktmægling (Master),Master.
-903,Politiskolen - Grunduddannelsen,Politiskolen - Grundbøger,Politiskolen - Grundbøger,Polti Grundudd
-421,Agricultural Economics,Incentives and Regulation - agro.eco,Incentives and Regulation - agro.eco,Kandidat blok 3
-421,Agricultural Economics,Applied Environmental and Natural Resource-agri ec,Applied Environmental and Natural Resource-agri ec,Kandidat blok 4
-422,Agriculture  Agronom,Geographical Information Systems (GIS) agronom,Geographical Information Systems (GIS) agronom,Kandidat blok 3
-422,Agriculture  Agronom,Incentives and Regulation - agronom,Incentives and Regulation - agronom,Kandidat blok 3
-422,Agriculture  Agronom,Molecular Plant-Microbe Interactions - agronom,Molecular Plant-Microbe Interactions - agronom,Kandidat blok 3
-422,Agriculture  Agronom,Cool Climate Viticulture and Enology,Cool Climate Viticulture and Enology,Kandidat blok 4
-422,Agriculture  Agronom,Working as a Consultant - agronom,Working as a Consultant - agronom,Kandidat blok 4
-653,Biokemi,Cellebiologi for biokemikere BIOKEMI,Cellebiologi for biokemikere BIOKEMI,Bach.2.år blok 4
-654,Biologi,Almen biokemi 1 (BioK1) BIOLOGI,Almen biokemi 1 (BioK1) BIOLOGI,Bach.1.år blok 4
-654,Biologi,"Feltbiologi I, II og III (Feltbio) BIOLOGI","Feltbiologi I, II og III (Feltbio) BIOLOGI",Bach.1.år blok 4
-654,Biologi,Evolutionsbiologi BIOLOGI,Evolutionsbiologi BIOLOGI,Bach.2.år blok 4
-654,Biologi,Zoofysiologi (Zoofys) BIOLOGI,Zoofysiologi (Zoofys) BIOLOGI,Bach.3.år blok 4
-654,Biologi,Botanik BIOLOGI,Botanik BIOLOGI,Bachelor blok 4
-654,Biologi,Cellular and Molecular Immunology BIO,Cellular and Molecular Immunology BIO,Bachelor blok 4
-654,Biologi,Danmarks fauna - Hvirveldyr (DanFauna) BIOLOGI,Danmarks fauna - Hvirveldyr (DanFauna) BIOLOGI,Bachelor blok 4
-654,Biologi,Grundkursus i de naturvidenskabelige fags.. BIOLOG,Grundkursus i de naturvidenskabelige fags.. BIOLOG,Bachelor blok 4
-654,Biologi,Invasion Biology BIOLOGI,Invasion Biology BIOLOGI,Kandidat blok 4
-654,Biologi,Mammalian Genomics BIOLOGI,Mammalian Genomics BIOLOGI,Kandidat blok 4
-654,Biologi,Terrestrial Ecosystem Processes BIOLOGI,Terrestrial Ecosystem Processes BIOLOGI,Kandidat blok 4
-400,Biologi - bioteknologi,Mikrobiologi - biotek,Mikrobiologi - biotek,Bach.1.år blok 3
-400,Biologi - bioteknologi,Organisk Kemi for biovidenskab - biotek,Organisk Kemi for biovidenskab - biotek,Bach.1.år blok 3
-400,Biologi - bioteknologi,Molekylær genetik - biotek,Molekylær genetik - biotek,Bach.1.år blok 4
-400,Biologi - bioteknologi,Experimental Molecular Biology - biotek,Experimental Molecular Biology - biotek,Bach.2.år blok 3
-400,Biologi - bioteknologi,Dyrs og Planters Diversitet - biotek,Dyrs og Planters Diversitet - biotek,Bach.2.år blok 4
-400,Biologi - bioteknologi,Grundkursus i de naturvidenskabelige fags  - biote,Grundkursus i de naturvidenskabelige fags  - biote,Bach.2.år blok 4
-400,Biologi - bioteknologi,Almen Økologi (Økologi) - biotek,Almen Økologi (Økologi) - biotek,Bach.3.år blok 3
-400,Biologi - bioteknologi,Bioteknologiens videnskabsteori - biotek,Bioteknologiens videnskabsteori - biotek,Bach.3.år blok 3
-400,Biologi - bioteknologi,Analytical Chemistry - biotek,Analytical Chemistry - biotek,Bachelor blok 3
-400,Biologi - bioteknologi,Uorganisk kemi 2 (KemiU2) Biotek,Uorganisk kemi 2 (KemiU2) Biotek,Bachelor blok 3
-400,Biologi - bioteknologi,Videregående plantebiologi - biotek,Videregående plantebiologi - biotek,Bachelor blok 3
-400,Biologi - bioteknologi,Genetik - Biotek,Genetik - Biotek,Bachelor blok 4
-400,Biologi - bioteknologi,Mammalian genomics,Mammalian genomics,Bachelor blok 4
-424,Biology-Biotechnology,Analytical Chemistry biotek,Analytical Chemistry biotek,Kandidat blok 3
-424,Biology-Biotechnology,Anvendt matematik for kemikere (AnvMatKem) biotek,Anvendt matematik for kemikere (AnvMatKem) biotek,Kandidat blok 3
-424,Biology-Biotechnology,Medical Bacteriology - biotek,Medical Bacteriology - biotek,Kandidat blok 3
-424,Biology-Biotechnology,Molecular Plant-Microbe Interactions - biotek,Molecular Plant-Microbe Interactions - biotek,Kandidat blok 3
-424,Biology-Biotechnology,"Sygdomslære, og farmakologi - biotek","Sygdomslære, og farmakologi - biotek",Kandidat blok 3
-424,Biology-Biotechnology,Advanced Biotechnology and Intellectual Property R,Advanced Biotechnology and Intellectual Property R,Kandidat blok 4
-424,Biology-Biotechnology,Anvendt spektroskopi ( AnvSPEK) - biotek,Anvendt spektroskopi ( AnvSPEK) - biotek,Kandidat blok 4
-424,Biology-Biotechnology,"Feltbiologi I, II og III (Feltbio) biotek","Feltbiologi I, II og III (Feltbio) biotek",Kandidat blok 4
-424,Biology-Biotechnology,Kemisk binding (KemiBin) biotek,Kemisk binding (KemiBin) biotek,Kandidat blok 4
-424,Biology-Biotechnology,Laboratory Animal Science  Function ABD -BIOTEK,Laboratory Animal Science  Function ABD -BIOTEK,Kandidat blok 4
-440,Climate Change,Climate change mechanisms and tipping points cli.,Climate change mechanisms and tipping points cli.,Kandidat blok 3
-440,Climate Change,Global Environmental Governance - cli.change,Global Environmental Governance - cli.change,Kandidat blok 3
-440,Climate Change,The Economics of Climate Change - climate change,The Economics of Climate Change - climate change,Kandidat blok 3
-440,Climate Change,Energy Systems and Climate Mitigation- CLI-CHA,Energy Systems and Climate Mitigation- CLI-CHA,Kandidat blok 4
-655,Datalogi,Lineær algebra i datalogi (LinAlgDat) DAT,Lineær algebra i datalogi (LinAlgDat) DAT,Bach.1.år blok 4
-655,Datalogi,Implementering af programmeringssprog (IPS) DATA,Implementering af programmeringssprog (IPS) DATA,Bach.2.år blok 4
-655,Datalogi,Grundkursus i de naturvidenskabelige fags.. DATA,Grundkursus i de naturvidenskabelige fags.. DATA,Bach.3.år blok 4
-655,Datalogi,Approximation Algorithms (APX) DATA,Approximation Algorithms (APX) DATA,Kandidat blok 4
-617,Datalogi-Økonomi,Lineær Algebra i Datalogi (LinAlgDat) MACHINE,Lineær Algebra i Datalogi (LinAlgDat) MACHINE,Bach.1.år blok 4
-617,Datalogi-Økonomi,Mikroøkonomi A (MikØkA) DAT-ØK,Mikroøkonomi A (MikØkA) DAT-ØK,Bach.1.år blok 4
-617,Datalogi-Økonomi,Mikroøkonomi B (MikØkB) DAT-ØK,Mikroøkonomi B (MikØkB) DAT-ØK,Bach.2.år blok 4
-617,Datalogi-Økonomi,Macroeconomics B (MakØkB) DAT-ØK,Macroeconomics B (MakØkB) DAT-ØK,Bach.3.år blok 4
-617,Datalogi-Økonomi,Databases and Information Systems (DIS) DAT-ØK,Databases and Information Systems (DIS) DAT-ØK,Bachelor blok 4
-656,De fysiske fag,Geometri 1 (Geom1) FYSIK,Geometri 1 (Geom1) FYSIK,Bach.1.år blok 4
-656,De fysiske fag,Matematik F2 (MatF2) FYSIK,Matematik F2 (MatF2) FYSIK,Bach.1.år blok 4
-656,De fysiske fag,Kvantemekanik 2 (KM2) FYSIK,Kvantemekanik 2 (KM2) FYSIK,Bach.2.år blok 4
-656,De fysiske fag,Statistisk Fysik (StatFys) FYSIK,Statistisk Fysik (StatFys) FYSIK,Bach.2.år blok 4
-656,De fysiske fag,Almen biokemi 1 (BioK1) FYSIK,Almen biokemi 1 (BioK1) FYSIK,Bachelor blok 4
-656,De fysiske fag,Analyse 1 (An1) FYSIK,Analyse 1 (An1) FYSIK,Bachelor blok 4
-656,De fysiske fag,Grundkursus i de naturvidenskabelige fags.. FYSIK,Grundkursus i de naturvidenskabelige fags.. FYSIK,Bachelor blok 4
-656,De fysiske fag,Grundkursus i de naturvidenskabelige fags.. FYSIK,Grundkursus i de naturvidenskabelige fags.. FYSIK,Kandidat blok 4
-656,De fysiske fag,Grundkursus i de naturvidenskabelige fags.. KEMI,Grundkursus i de naturvidenskabelige fags.. KEMI,Kandidat blok 4
-657,De kemiske fag,Anvendt Spektroskopi (AnvSpek) KEMI,Anvendt Spektroskopi (AnvSpek) KEMI,Bach.1.år blok 4
-657,De kemiske fag,Kemisk binding (KemiBin) KEMI,Kemisk binding (KemiBin) KEMI,Bach.1.år blok 4
-657,De kemiske fag,Advanced Quantum Chemistry (KemiVK) KEMI,Advanced Quantum Chemistry (KemiVK) KEMI,Bachelor blok 4
-657,De kemiske fag,Grundkursus i de naturvidenskabelige fags.. KEMI,Grundkursus i de naturvidenskabelige fags.. KEMI,Bachelor blok 4
-657,De kemiske fag,Molekylær statistik (MolStat) KEMI,Molekylær statistik (MolStat) KEMI,Kandidat blok 4
-426,Environmental & Natural Resource Economics,Economic Valuation Methods & Cost-Benefit - env.na,Economic Valuation Methods & Cost-Benefit - env.na,Kandidat blok 3
-426,Environmental & Natural Resource Economics,Incentives and Regulation - env.nat rec,Incentives and Regulation - env.nat rec,Kandidat blok 3
-426,Environmental & Natural Resource Economics,Applied Environmental and Natural Resource Env. na,Applied Environmental and Natural Resource Env. na,Kandidat blok 4
-445,Environmental Science,Climate change mechanisms and tipping points agron,Climate change mechanisms and tipping points agron,Kandidat blok 3
-445,Environmental Science,Environmental Epidemiology,Environmental Epidemiology,Kandidat blok 3
-445,Environmental Science,Experimental Design and Statistical Methods env sc,Experimental Design and Statistical Methods env sc,Kandidat blok 3
-445,Environmental Science,Geographical Information Systems (GIS) env. sci,Geographical Information Systems (GIS) env. sci,Kandidat blok 3
-445,Environmental Science,Global Environmental Governance-env. sci.,Global Environmental Governance-env. sci.,Kandidat blok 3
-445,Environmental Science,Natural Resource Sampling and Modelling-env.sci,Natural Resource Sampling and Modelling-env.sci,Kandidat blok 3
-445,Environmental Science,The Economics of climate change - env. sci.,The Economics of climate change - env. sci.,Kandidat blok 3
-445,Environmental Science,Ecological Modelling - env sci,Ecological Modelling - env sci,Kandidat blok 4
-445,Environmental Science,Energy Systems and Climate Mitigation - ENV- SCI,Energy Systems and Climate Mitigation - ENV- SCI,Kandidat blok 4
-445,Environmental Science,Invasion Biology env sci,Invasion Biology env sci,Kandidat blok 4
-445,Environmental Science,Terrestrial Ecosystem Processes and Glob -env. sci,Terrestrial Ecosystem Processes and Glob -env. sci,Kandidat blok 4
-427,Food Science & Technology,Brewing Process and Technology,Brewing Process and Technology,Kandidat blok 3
-427,Food Science & Technology,Brewing Project in Practice - FOOD,Brewing Project in Practice - FOOD,Kandidat blok 3
-427,Food Science & Technology,Beer and Packaging Technology,Beer and Packaging Technology,Kandidat blok 4
-427,Food Science & Technology,Brewing Project in Practice - FOOD,Brewing Project in Practice - FOOD,Kandidat blok 4
-427,Food Science & Technology,Cool Climate Viticulture and Enology - FOOD,Cool Climate Viticulture and Enology - FOOD,Kandidat blok 4
-428,Forest & Nature Management,Economic Valuation Methods & Cost-Benefit - forest,Economic Valuation Methods & Cost-Benefit - forest,Kandidat blok 3
-428,Forest & Nature Management,Global Environmental Governance-forest,Global Environmental Governance-forest,Kandidat blok 3
-428,Forest & Nature Management,Natural Resource Sampling and Modelling,Natural Resource Sampling and Modelling,Kandidat blok 3
-428,Forest & Nature Management,Project Management - La,Project Management - La,Kandidat blok 3
-428,Forest & Nature Management,The Economics of climate change- Forest,The Economics of climate change- Forest,Kandidat blok 3
-659,Forsikringsmatematik,Analyse 1 (An1) FORSIKRING,Analyse 1 (An1) FORSIKRING,Bach.1.år blok 4
-659,Forsikringsmatematik,Forsikring og jura (Forsik&Jura1) FORSIKRING,Forsikring og jura (Forsik&Jura1) FORSIKRING,Bach.1.år blok 4
-659,Forsikringsmatematik,Basic Non-Life Insurance Mathematics (Skade1) MAT,Basic Non-Life Insurance Mathematics (Skade1) MAT,Bach.2.år blok 4
-659,Forsikringsmatematik,Matematisk statistik (MatStat) FORSIKRING,Matematisk statistik (MatStat) FORSIKRING,Bach.2.år blok 4
-401,Fødevarer og ernæring,Grundlæggende celle- og molekylærbiologi - fødevar,Grundlæggende celle- og molekylærbiologi - fødevar,Bach.1.år blok 3
-401,Fødevarer og ernæring,Organisk Kemi for biovidenskab - føde ern,Organisk Kemi for biovidenskab - føde ern,Bach.1.år blok 3
-401,Fødevarer og ernæring,Fødevarefremstilling og ernæring - fødevare-ern.,Fødevarefremstilling og ernæring - fødevare-ern.,Bach.1.år blok 4
-401,Fødevarer og ernæring,Exploratory Data Analysis / Chemometrics,Exploratory Data Analysis / Chemometrics,Bach.2.år blok 3
-401,Fødevarer og ernæring,Råvarekvalitet - fødevare,Råvarekvalitet - fødevare,Bach.2.år blok 3
-401,Fødevarer og ernæring,Fødevarekemi,Fødevarekemi,Bach.2.år blok 4
-401,Fødevarer og ernæring,Fødevarevidenskabsteori fød ern,Fødevarevidenskabsteori fød ern,Bach.2.år blok 4
-401,Fødevarer og ernæring,"Sundhed,ernæring og livskvalitet A føde-ern","Sundhed,ernæring og livskvalitet A føde-ern",Bach.3.år blok 3
-401,Fødevarer og ernæring,Analytical Chemistry - fød. ern,Analytical Chemistry - fød. ern,Bachelor blok 3
-401,Fødevarer og ernæring,Indledende økonomi - fødevare,Indledende økonomi - fødevare,Bachelor blok 3
-401,Fødevarer og ernæring,MIkrobiologi - føde ern.,MIkrobiologi - føde ern.,Bachelor blok 3
-401,Fødevarer og ernæring,"Sygdomslære, og farmakologi - fødevare","Sygdomslære, og farmakologi - fødevare",Bachelor blok 3
-401,Fødevarer og ernæring,Anvendt spektroskopi ( AnvSPEK) fødevare. ern,Anvendt spektroskopi ( AnvSPEK) fødevare. ern,Bachelor blok 4
-715,Geografi & geoinformatik,By og regional udvikling,By og regional udvikling,"1. år, 3. blok"
-715,Geografi & geoinformatik,Problemorienteret projektarbejde,Problemorienteret projektarbejde,"2. år, 3. blok"
-715,Geografi & geoinformatik,Kulturgeografisk feltkursus,Kulturgeografisk feltkursus,Bach.1.år blok 4
-715,Geografi & geoinformatik,Grundkursus i de naturvidenskabelige fags.. GEO,Grundkursus i de naturvidenskabelige fags.. GEO,Bachelor blok 4
-715,Geografi & geoinformatik,Introduktion til remote sensing,Introduktion til remote sensing,Valgfag
-716,Geologi & geoscience,Danmarks geologiske udvikling,Danmarks geologiske udvikling,"1. år, 4. blok"
-716,Geologi & geoscience,Geologiske kort og strukturer,Geologiske kort og strukturer,"2. år, 4. blok"
-716,Geologi & geoscience,Anvendt geofysik i geoscience,Anvendt geofysik i geoscience,Bach.1.år blok 4
-716,Geologi & geoscience,Aqueous geochemistry,Aqueous geochemistry,Valgfag
-666,Idræt og fysisk aktivitet,Idrætsfagets videnskabsteori (VtIdr) IDRÆT,Idrætsfagets videnskabsteori (VtIdr) IDRÆT,Bach.1.år blok 4
-666,Idræt og fysisk aktivitet,Idræt og bevægelse med udvalgte målgrupper IDRÆT,Idræt og bevægelse med udvalgte målgrupper IDRÆT,Bachelor blok 4
-666,Idræt og fysisk aktivitet,Motorisk udvikling og indlæring IDRÆT,Motorisk udvikling og indlæring IDRÆT,Bachelor blok 4
-448,Integrated Food Studies,Sustainable Food Systems and Diets- Int food,Sustainable Food Systems and Diets- Int food,Kandidat blok 4
-433,Landscape Architecture,"Eu Law - Environment, Agriculture & Food - LA","Eu Law - Environment, Agriculture & Food - LA",Kandidat blok 3
-433,Landscape Architecture,Health Design -LA,Health Design -LA,Kandidat blok 3
-433,Landscape Architecture,Planlægning i det åbne land - La,Planlægning i det åbne land - La,Kandidat blok 3
-406,Landskabsarkitektur og bydesign,Naturgrundlaget 2A -Vegetation og bioressourcer-la,Naturgrundlaget 2A -Vegetation og bioressourcer-la,Bach.1.år blok 3
-406,Landskabsarkitektur og bydesign,Naturgrundlaget 2B - Vegetation og økologi,Naturgrundlaget 2B - Vegetation og økologi,Bach.1.år blok 4
-406,Landskabsarkitektur og bydesign,Beplantningsdesign  - LA,Beplantningsdesign  - LA,Bachelor blok 4
-616,Machine learning og datavidenskab,Databases and Information Systems (DIS) MACHINE,Databases and Information Systems (DIS) MACHINE,Bach.1.år blok 4
-616,Machine learning og datavidenskab,Lineær Algebra i Datalogi (LinAlgDat) MACHINE,Lineær Algebra i Datalogi (LinAlgDat) MACHINE,Bach.1.år blok 4
-678,Matematik,Analyse 1 (An1) MATEMATIK,Analyse 1 (An1) MATEMATIK,Bach.1.år blok 4
-678,Matematik,Geometri 1 (Geom1) MATEMATIK,Geometri 1 (Geom1) MATEMATIK,Bach.1.år blok 4
-678,Matematik,Grundkursus i de naturvidenskabelige fags.. MAT,Grundkursus i de naturvidenskabelige fags.. MAT,Bach.2.år blok 4
-678,Matematik,Matematisk statistik (MatStat) MATEMATIK,Matematisk statistik (MatStat) MATEMATIK,Bach.2.år blok 4
-678,Matematik,Introduction to Dynamical Systems MAT,Introduction to Dynamical Systems MAT,Bachelor blok 4
-678,Matematik,Matematik i undervisningsmæ.. (UvMat) MATEMATIK,Matematik i undervisningsmæ.. (UvMat) MATEMATIK,Bachelor blok 4
-678,Matematik,Topology (Top) MATEMATIK,Topology (Top) MATEMATIK,Bachelor blok 4
-678,Matematik,Algebraic Number Theory (AlgNT) MAT,Algebraic Number Theory (AlgNT) MAT,Kandidat blok 4
-678,Matematik,Algebraic Topology 2 (AlgTop2) MAT,Algebraic Topology 2 (AlgTop2) MAT,Kandidat blok 4
-678,Matematik,K-theory MAT,K-theory MAT,Kandidat blok 4
-669,Matematik-Økonomi,Analyse 1 (An1) MAT-ØK,Analyse 1 (An1) MAT-ØK,Bach.1.år blok 4
-669,Matematik-Økonomi,Mikroøkonomi 1 (MikØk1). MAT-ØK,Mikroøkonomi 1 (MikØk1). MAT-ØK,Bach.1.år blok 4
-669,Matematik-Økonomi,Matematisk statistik (MatStat) MAT-ØK,Matematisk statistik (MatStat) MAT-ØK,Bach.2.år blok 4
-669,Matematik-Økonomi,Finance 2: Dynamic Portfolio (Fin2) MAT-ØK,Finance 2: Dynamic Portfolio (Fin2) MAT-ØK,Kandidat blok 4
-670,Medicinalkemi,Anvendt Spektroskopi (AnvSpek) MEDKEM,Anvendt Spektroskopi (AnvSpek) MEDKEM,Bach.1.år blok 4
-670,Medicinalkemi,Kemisk binding (KemiBin) MED CHEM,Kemisk binding (KemiBin) MED CHEM,Bach.1.år blok 4
-670,Medicinalkemi,Lægemiddelmetabolisme og toksicitet MEDKEM,Lægemiddelmetabolisme og toksicitet MEDKEM,Bachelor blok 4
-405,Miljø- og fødevareøkonomi,Produktionsøkonomi- JØ,Produktionsøkonomi- JØ,Bach.1.år blok 3
-405,Miljø- og fødevareøkonomi,Samfundsøkonomi - JØ,Samfundsøkonomi - JØ,Bach.1.år blok 3
-405,Miljø- og fødevareøkonomi,Development Economics - MIL-FØD,Development Economics - MIL-FØD,Bach.1.år blok 4
-405,Miljø- og fødevareøkonomi,International economics -MIL FØD,International economics -MIL FØD,Bach.1.år blok 4
-405,Miljø- og fødevareøkonomi,Økonometri - JØ,Økonometri - JØ,Bach.2.år blok 3
-405,Miljø- og fødevareøkonomi,Anvendt spilteori - MILJØ FØD,Anvendt spilteori - MILJØ FØD,Bach.2.år blok 4
-405,Miljø- og fødevareøkonomi,Fagets videnskabsteori - økonomi - JØ,Fagets videnskabsteori - økonomi - JØ,Bach.3.år blok 3
-673,Molekylær biomedicin,Cellular and Molecular Immunology MOL BIO,Cellular and Molecular Immunology MOL BIO,Bachelor blok 4
-673,Molekylær biomedicin,Signaltransduktion MOL BIO,Signaltransduktion MOL BIO,Bachelor blok 4
-673,Molekylær biomedicin,Laboratory Animal Science Function ABD MOL BIO,Laboratory Animal Science Function ABD MOL BIO,Kandidat blok 4
-674,Nanoscience,Elektromagnetisme og elektronik (NanoF2) NANO,Elektromagnetisme og elektronik (NanoF2) NANO,Bach.1.år blok 4
-674,Nanoscience,Elektrostatik og dataanalyse NANO,Elektrostatik og dataanalyse NANO,Bach.1.år blok 4
-674,Nanoscience,Mekanik for nanoscience,Mekanik for nanoscience,Bach.1.år blok 4
-674,Nanoscience,Advanced Quantum Chemistry (KemiVK) NANO,Advanced Quantum Chemistry (KemiVK) NANO,Bachelor blok 4
-674,Nanoscience,Kvantemekanik 2 (KM2) NANO,Kvantemekanik 2 (KM2) NANO,Bachelor blok 4
-674,Nanoscience,Molekylær statistik (MolStat) NANO,Molekylær statistik (MolStat) NANO,Bachelor blok 4
-674,Nanoscience,Statistisk Fysik (StatFys) NANO,Statistisk Fysik (StatFys) NANO,Bachelor blok 4
-441,Nature Management,Climate change mechanisms and tipping points nat.m,Climate change mechanisms and tipping points nat.m,Kandidat blok 3
-441,Nature Management,"Eu Law - Environment, Agriculture & Food nat man","Eu Law - Environment, Agriculture & Food nat man",Kandidat blok 3
-441,Nature Management,Geographical Information Systems (GIS) nat man,Geographical Information Systems (GIS) nat man,Kandidat blok 3
-441,Nature Management,Global Environmental Governance -nat.man,Global Environmental Governance -nat.man,Kandidat blok 3
-446,Naturforvaltning,Planlægning i det åbne land,Planlægning i det åbne land,Kandidat blok 3
-407,Naturressourcer,Indledende økonomi - NT,Indledende økonomi - NT,Bach.1.år blok 3
-407,Naturressourcer,Dyrs og Planters Diversitet -NT,Dyrs og Planters Diversitet -NT,Bach.1.år blok 4
-407,Naturressourcer,Biokemi for naturressourcer - NT,Biokemi for naturressourcer - NT,Bach.2.år blok 3
-407,Naturressourcer,Environmental and Natural Resource Economics - nt,Environmental and Natural Resource Economics - nt,Bach.2.år blok 3
-407,Naturressourcer,Mikrobiologi NT,Mikrobiologi NT,Bach.2.år blok 3
-407,Naturressourcer,Fagets videnskabsteori - NT,Fagets videnskabsteori - NT,Bach.3.år blok 3
-407,Naturressourcer,Økonometri - NT,Økonometri - NT,Bach.3.år blok 3
-407,Naturressourcer,Analytical Chemistry NT,Analytical Chemistry NT,Bachelor blok 3
-407,Naturressourcer,"Eu Law - Environment, Agriculture & Food - NT","Eu Law - Environment, Agriculture & Food - NT",Bachelor blok 3
-407,Naturressourcer,Fagets videnskabsteori - økonomi - NT,Fagets videnskabsteori - økonomi - NT,Bachelor blok 3
-407,Naturressourcer,Geographical Information Systems (GIS)-  NT,Geographical Information Systems (GIS)-  NT,Bachelor blok 3
-407,Naturressourcer,Samfundsøkonomi - NT,Samfundsøkonomi - NT,Bachelor blok 3
-407,Naturressourcer,Videregående plantebiologi,Videregående plantebiologi,Bachelor blok 3
-407,Naturressourcer,Anvendt spektroskopi ( AnvSPEK) - NT,Anvendt spektroskopi ( AnvSPEK) - NT,Bachelor blok 4
-407,Naturressourcer,Anvendt spilteori - NT',Anvendt spilteori - NT',Bachelor blok 4
-407,Naturressourcer,Botanik -NT,Botanik -NT,Bachelor blok 4
-407,Naturressourcer,Bæredygtig afgrødeproduktion,Bæredygtig afgrødeproduktion,Bachelor blok 4
-407,Naturressourcer,Development Economics - NT,Development Economics - NT,Bachelor blok 4
-407,Naturressourcer,Genetik -  NT,Genetik -  NT,Bachelor blok 4
-407,Naturressourcer,International economics -NT,International economics -NT,Bachelor blok 4
-408,Skov- og landskabsingeniør,Økologi,Økologi,Bachelor blok 3
-700,Antropologi,Faghistorie,Faghistorie,2. semester.
-700,Antropologi,Antropologisk projektdesign,Antropologisk projektdesign,Kandidat 2.sem.
-700,Antropologi,Economies of tech,Economies of tech,Valgfag
-700,Antropologi,The anthropology of migration,The anthropology of migration,Valgfag
-701,Psykologi,Biologisk psykologi & neuropsykologi,Biologisk psykologi & neuropsykologi,2. semester.
-701,Psykologi,Personlighedspsykologi,Personlighedspsykologi,2. semester.
-701,Psykologi,Statistik og kvantitative forskningsdesign II,Statistik og kvantitative forskningsdesign II,2. semester.
-701,Psykologi,Klinisk psykologi II,Klinisk psykologi II,4. semester.
-701,Psykologi,Pædagogisk psykologi,Pædagogisk psykologi,4. semester.
-701,Psykologi,Udviklingpsykologi,Udviklingpsykologi,4. semester.
-701,Psykologi,Videregående anvendt teori og metode,Videregående anvendt teori og metode,Klinisk
-701,Psykologi,Fænomenologisk metode,Fænomenologisk metode,Metodefag
-701,Psykologi,Klinisk psykologisk forskningsmetode,Klinisk psykologisk forskningsmetode,Metodefag
-701,Psykologi,Kvantitativ metode: Fra idé til analyse,Kvantitativ metode: Fra idé til analyse,Metodefag
-701,Psykologi,S2: Børneneuropsykologi,S2: Børneneuropsykologi,Neuro
-701,Psykologi,Videregående anvendt teori og metode,Videregående anvendt teori og metode,Neuro
-701,Psykologi,Praktikanalyse A&O v. Janne Skakon,Praktikanalyse A&O v. Janne Skakon,Projekt. forløb
-701,Psykologi,Praktikanalyse KLINISK v. Birgit Jørgensen,Praktikanalyse KLINISK v. Birgit Jørgensen,Projekt. forløb
-701,Psykologi,Praktikanalyse KLINISK v. Dea Siggaard Stenbæk,Praktikanalyse KLINISK v. Dea Siggaard Stenbæk,Projekt. forløb
-701,Psykologi,Praktikanalyse KLINISK v. Jan Nielsen,Praktikanalyse KLINISK v. Jan Nielsen,Projekt. forløb
-701,Psykologi,Praktikanalyse SUI v. Pernille Strøbæk,Praktikanalyse SUI v. Pernille Strøbæk,Projekt. forløb
-701,Psykologi,Videregående anvendt teori og metode,Videregående anvendt teori og metode,SUI
-701,Psykologi,Autisme og neurodiversitet,Autisme og neurodiversitet,Valgfag
-701,Psykologi,Forståelser af stress og interventioner mod stress,Forståelser af stress og interventioner mod stress,Valgfag
-701,Psykologi,Impact by design,Impact by design,Valgfag
-701,Psykologi,Krop og psyke,Krop og psyke,Valgfag
-701,Psykologi,Løsningsfokuseret procesfacilitering i praksis,Løsningsfokuseret procesfacilitering i praksis,Valgfag
-701,Psykologi,Mentaliseringsinspireret og kontekstuelt arbejde,Mentaliseringsinspireret og kontekstuelt arbejde,Valgfag
-701,Psykologi,Parforholdets psykologi,Parforholdets psykologi,Valgfag
-701,Psykologi,Psykoanalysens teori og praksis,Psykoanalysens teori og praksis,Valgfag
-701,Psykologi,Psykologiformidling,Psykologiformidling,Valgfag
-701,Psykologi,Psykotraumatologi,Psykotraumatologi,Valgfag
-701,Psykologi,Socialisationsteori,Socialisationsteori,Valgfag
-701,Psykologi,Supervision i teori og praksis,Supervision i teori og praksis,Valgfag
-701,Psykologi,The feeling of being,The feeling of being,Valgfag
-706,Samfundsfag,Metode 1,Metode 1,2. semester.
-706,Samfundsfag,Politisk teori 2,Politisk teori 2,2. semester.
-706,Samfundsfag,Sociologi 1,Sociologi 1,2. semester.
-706,Samfundsfag,International politik 2,International politik 2,4. semester.
-706,Samfundsfag,International politik 3,International politik 3,4. semester.
-706,Samfundsfag,Økonomi 2,Økonomi 2,4. semester.
-706,Samfundsfag,50 years of global environmental governance,50 years of global environmental governance,Valgfag
-706,Samfundsfag,Analysing public policy,Analysing public policy,Valgfag
-706,Samfundsfag,Dansk udenrigspolitik: Teori og empiri,Dansk udenrigspolitik: Teori og empiri,Valgfag
-706,Samfundsfag,Demokratiet i en klimakrise,Demokratiet i en klimakrise,Valgfag
-706,Samfundsfag,"Forgiveness, reconciliation, and apology in ...","Forgiveness, reconciliation, and apology in ...",Valgfag
-706,Samfundsfag,Hvad er juraen i international politik?,Hvad er juraen i international politik?,Valgfag
-706,Samfundsfag,Jean Monnet course: The EU as an international act,Jean Monnet course: The EU as an international act,Valgfag
-706,Samfundsfag,Kvalitativ metode,Kvalitativ metode,Valgfag
-706,Samfundsfag,Marx i det 21.århundrede,Marx i det 21.århundrede,Valgfag
-706,Samfundsfag,"Political advocacy, lobbying and the influence..","Political advocacy, lobbying and the influence..",Valgfag
-706,Samfundsfag,Politologisk projektdesign,Politologisk projektdesign,Valgfag
-706,Samfundsfag,Populism and the struggle for recognition,Populism and the struggle for recognition,Valgfag
-706,Samfundsfag,Propaganda and disinformation on social media,Propaganda and disinformation on social media,Valgfag
-706,Samfundsfag,Psykologisk bias i offentlig forvaltning,Psykologisk bias i offentlig forvaltning,Valgfag
-706,Samfundsfag,Securitization theory and its critics,Securitization theory and its critics,Valgfag
-706,Samfundsfag,"Security, uncertainty and politics of complexity","Security, uncertainty and politics of complexity",Valgfag
-706,Samfundsfag,Statistical models beyond linear regression,Statistical models beyond linear regression,Valgfag
-706,Samfundsfag,Theories of political representation,Theories of political representation,Valgfag
-706,Samfundsfag,Transnationalism in global climate politics,Transnationalism in global climate politics,Valgfag
-702,Sociologi,Basic statistics,Basic statistics,2. semester.
-702,Sociologi,Nyere statistiske analysestrategier,Nyere statistiske analysestrategier,2. semester.
-702,Sociologi,Sociologisk teori og faghistorie,Sociologisk teori og faghistorie,2. semester.
-702,Sociologi,Videnskab og samfund,Videnskab og samfund,2. semester.
-702,Sociologi,Kritisk læsning og re-analyse,Kritisk læsning og re-analyse,4. semester.
-702,Sociologi,Sociologiske teoriudviklinger,Sociologiske teoriudviklinger,4. semester.
-702,Sociologi,"Viden, organisation og politik","Viden, organisation og politik",4. semester.
-702,Sociologi,Anvendt case-analyse,Anvendt case-analyse,6. semester.
-702,Sociologi,Metodologi og undersøgelsesdesign,Metodologi og undersøgelsesdesign,6. semester.
-702,Sociologi,Critical theory,Critical theory,Valgfag
-702,Sociologi,Experimental sociology,Experimental sociology,Valgfag
-702,Sociologi,Sociologisk projektdesign,Sociologisk projektdesign,Valgfag
-703,Statskundskab,Metode 1,Metode 1,2. semester.
-703,Statskundskab,Politisk teori 2,Politisk teori 2,2. semester.
-703,Statskundskab,Sociologi 1,Sociologi 1,2. semester.
-703,Statskundskab,International politik 2,International politik 2,4. semester.
-703,Statskundskab,International politik 3,International politik 3,4. semester.
-703,Statskundskab,Økonomi 2,Økonomi 2,4. semester.
-703,Statskundskab,Offentlig politik,Offentlig politik,6. semester.
-703,Statskundskab,50 years of global environmental governance,50 years of global environmental governance,Valgfag
-703,Statskundskab,Analysing public policy,Analysing public policy,Valgfag
-703,Statskundskab,Dansk udenrigspolitik: Teori og empiri,Dansk udenrigspolitik: Teori og empiri,Valgfag
-703,Statskundskab,Demokratiet i en klimakrise,Demokratiet i en klimakrise,Valgfag
-703,Statskundskab,"Forgiveness, reconciliation, and apology in...","Forgiveness, reconciliation, and apology in...",Valgfag
-703,Statskundskab,Hvad er juraen i international politik?,Hvad er juraen i international politik?,Valgfag
-703,Statskundskab,Jean Monnet Course: The EU as an international act,Jean Monnet Course: The EU as an international act,Valgfag
-703,Statskundskab,Kvalitativ metode,Kvalitativ metode,Valgfag
-703,Statskundskab,Marx i det 21.århundrede,Marx i det 21.århundrede,Valgfag
-703,Statskundskab,"Political advocacy, lobbying and the influence...","Political advocacy, lobbying and the influence...",Valgfag
-703,Statskundskab,Politologisk projektdesign,Politologisk projektdesign,Valgfag
-703,Statskundskab,Populism and the struggle for recognition,Populism and the struggle for recognition,Valgfag
-703,Statskundskab,Propaganda and disinformation on social media,Propaganda and disinformation on social media,Valgfag
-703,Statskundskab,Psykologisk bias i offentlig forvaltning,Psykologisk bias i offentlig forvaltning,Valgfag
-703,Statskundskab,Securitization theory and its critics,Securitization theory and its critics,Valgfag
-703,Statskundskab,"Security, uncertainty and politics of complexity","Security, uncertainty and politics of complexity",Valgfag
-703,Statskundskab,Statistical models beyond linear regression,Statistical models beyond linear regression,Valgfag
-703,Statskundskab,Theories of political representation,Theories of political representation,Valgfag
-703,Statskundskab,Transnationalism in global climate politics,Transnationalism in global climate politics,Valgfag
-704,Økonomi,Erhvervsøkonomi,Erhvervsøkonomi,2. semester.
-704,Økonomi,Matematik B,Matematik B,2. semester.
-704,Økonomi,Samfundsbeskrivelse B,Samfundsbeskrivelse B,2. semester.
-704,Økonomi,Økonomiske principper B,Økonomiske principper B,2. semester.
-704,Økonomi,Makroøkonomi II,Makroøkonomi II,4. semester.
-704,Økonomi,Mikroøkonomi II,Mikroøkonomi II,4. semester.
-704,Økonomi,Videnskabsteori for økonomer,Videnskabsteori for økonomer,4. semester.
-704,Økonomi,Økonometri I,Økonometri I,4. semester.
-704,Økonomi,Økonomisk historie,Økonomisk historie,5. semester.
-704,Økonomi,Anvendt økonomi med konsulentmetode,Anvendt økonomi med konsulentmetode,Seminar
-704,Økonomi,Strategisk ledelse,Strategisk ledelse,Seminar
-704,Økonomi,Topics in sovereign debt,Topics in sovereign debt,Seminar
-704,Økonomi,Advanced development economics - micro aspects,Advanced development economics - micro aspects,Valgfag
-704,Økonomi,Advanced empirical finance,Advanced empirical finance,Valgfag
-704,Økonomi,Advanced macroeconomics: Business cycles,Advanced macroeconomics: Business cycles,Valgfag
-704,Økonomi,Advanced strategic management,Advanced strategic management,Valgfag
-704,Økonomi,Analyse og dynamisk optimering,Analyse og dynamisk optimering,Valgfag
-704,Økonomi,Applied econometric policy evaluation,Applied econometric policy evaluation,Valgfag
-704,Økonomi,Demography,Demography,Valgfag
-704,Økonomi,Development economics,Development economics,Valgfag
-704,Økonomi,Econometrics II,Econometrics II,Valgfag
-704,Økonomi,Economic sociology,Economic sociology,Valgfag
-704,Økonomi,Economics of banking,Economics of banking,Valgfag
-704,Økonomi,Economics of the environment and climate change,Economics of the environment and climate change,Valgfag
-704,Økonomi,Erhvervsret,Erhvervsret,Valgfag
-704,Økonomi,Field experiments,Field experiments,Valgfag
-704,Økonomi,Health economic evaluations,Health economic evaluations,Valgfag
-704,Økonomi,Industrial organization,Industrial organization,Valgfag
-704,Økonomi,International economics,International economics,Valgfag
-704,Økonomi,Pricing financial assets,Pricing financial assets,Valgfag
-704,Økonomi,Tax policy,Tax policy,Valgfag
-423,Animal Science,Quantitative Genomics and Breeding-ANI SCI,Quantitative Genomics and Breeding-ANI SCI,Kandidat blok 4
-620,Farmaceutuddannelsen,Lægemiddelmetabolisme og toksicitet FARMA,Lægemiddelmetabolisme og toksicitet FARMA,Bachelor blok 4
-620,Farmaceutuddannelsen,Farmaceutisk biologi FARMA,Farmaceutisk biologi FARMA,Bachelor sem. 2
-620,Farmaceutuddannelsen,Farmaceutisk fysisk kemi I - thermodynamik... FARM,Farmaceutisk fysisk kemi I - thermodynamik... FARM,Bachelor sem. 2
-620,Farmaceutuddannelsen,Kvalitetsvurdering af farmaceutiske råvarer FARMA,Kvalitetsvurdering af farmaceutiske råvarer FARMA,Bachelor sem. 2
-620,Farmaceutuddannelsen,Organisk kemi II FARMA,Organisk kemi II FARMA,Bachelor sem. 2
-620,Farmaceutuddannelsen,Farmaceutisk analytisk kemi FARMA,Farmaceutisk analytisk kemi FARMA,Bachelor sem. 4
-620,Farmaceutuddannelsen,Farmaci I - flydende og halv-faste læge.. FARMA,Farmaci I - flydende og halv-faste læge.. FARMA,Bachelor sem. 4
-620,Farmaceutuddannelsen,Organfarmakologi FARMA,Organfarmakologi FARMA,Bachelor sem. 4
-714,Folkesundhedsvidenskab,Epidemiologi 2,Epidemiologi 2,2. semester.
-714,Folkesundhedsvidenskab,Statistik,Statistik,2. semester.
-714,Folkesundhedsvidenskab,Sygdomslære for ikke-klinikere,Sygdomslære for ikke-klinikere,2. semester.
-714,Folkesundhedsvidenskab,Miljø og bæredygtighed,Miljø og bæredygtighed,4. semester.
-714,Folkesundhedsvidenskab,Sundhedsøkonomi,Sundhedsøkonomi,4. semester.
-714,Folkesundhedsvidenskab,Forvaltningslære og forvaltningsret,Forvaltningslære og forvaltningsret,6. semester.
-714,Folkesundhedsvidenskab,Epidemiology (PH.D),Epidemiology (PH.D),Ph.D
-714,Folkesundhedsvidenskab,Perinatal and early life epidemiology,Perinatal and early life epidemiology,Valgfag
-714,Folkesundhedsvidenskab,Reproductive technologies and family ties,Reproductive technologies and family ties,Valgfag
-714,Folkesundhedsvidenskab,Sundhedsprofessioner i forandring,Sundhedsprofessioner i forandring,Valgfag
-601,Humanbiologi,Pharmacology and Toxicology HUM BIO,Pharmacology and Toxicology HUM BIO,Kandidat blok 3
-601,Humanbiologi,Course in Laboratory Animal Science HUMBIO,Course in Laboratory Animal Science HUMBIO,Kandidat blok 4
-402,Husdyrvidenskab,Kemi (KemiBio) - husdyr,Kemi (KemiBio) - husdyr,Bach.1.år blok 3
-402,Husdyrvidenskab,Mikrobiologi - husdyr,Mikrobiologi - husdyr,Bach.1.år blok 3
-402,Husdyrvidenskab,Introduktion til Erhvervsøkonomi - Husdyr,Introduktion til Erhvervsøkonomi - Husdyr,Bach.1.år blok 4
-402,Husdyrvidenskab,Sundhed og Velfærd,Sundhed og Velfærd,Bach.2.år blok 3
-402,Husdyrvidenskab,Sundhed og Velfærd - HUSDYR,Sundhed og Velfærd - HUSDYR,Bach.2.år blok 4
-402,Husdyrvidenskab,Dyrs ernæring og præstation - husdyr,Dyrs ernæring og præstation - husdyr,Bach.3.år blok 3
-402,Husdyrvidenskab,Produktionsøkonomi - husdyr,Produktionsøkonomi - husdyr,Bachelor blok 3
-402,Husdyrvidenskab,Råvarekvalitet - husdyr,Råvarekvalitet - husdyr,Bachelor blok 3
-402,Husdyrvidenskab,Bæredygtig afgrødeproduktion,Bæredygtig afgrødeproduktion,Bachelor blok 4
-402,Husdyrvidenskab,Dyrs livsformer og funktion -husdyr,Dyrs livsformer og funktion -husdyr,Bachelor blok 4
-402,Husdyrvidenskab,Genetik - Husdyr,Genetik - Husdyr,Bachelor blok 4
-614,Immunology and inflammation,Skin Immunology IMMUNOLOGY,Skin Immunology IMMUNOLOGY,Kandidat blok 4
-600,Medicin,Kursus i basal humanbiologi og cellens kemiske kom,Kursus i basal humanbiologi og cellens kemiske kom,Bachelor sem. 1
-600,Medicin,Kursus i tidlig patientkontakt og førstehjælp MED,Kursus i tidlig patientkontakt og førstehjælp MED,Bachelor sem. 1
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 1
-600,Medicin,Kursus i excitable celler MEDICIN,Kursus i excitable celler MEDICIN,Bachelor sem. 2
-600,Medicin,Kursus i medicinsk celle- og vævsbiologi MED,Kursus i medicinsk celle- og vævsbiologi MED,Bachelor sem. 2
-600,Medicin,Kursus i medicinsk genetik MEDICIN,Kursus i medicinsk genetik MEDICIN,Bachelor sem. 2
-600,Medicin,Kursus i medicinsk psykologi og sundhedspsykologi,Kursus i medicinsk psykologi og sundhedspsykologi,Bachelor sem. 2
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 2
-600,Medicin,"Kursus i hoved,hals,bevægeapparatet MED","Kursus i hoved,hals,bevægeapparatet MED",Bachelor sem. 3
-600,Medicin,Tidlig klinisk ophold MEDICIN,Tidlig klinisk ophold MEDICIN,Bachelor sem. 3
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 3
-600,Medicin,"Kursus i mave, tarm og lever MEDICIN","Kursus i mave, tarm og lever MEDICIN",Bachelor sem. 4
-600,Medicin,Kursus i medicinsk etik og filosofi MEDICIN,Kursus i medicinsk etik og filosofi MEDICIN,Bachelor sem. 4
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 4
-600,Medicin,Forberedende kursus i bachelorprojekt MEDICIN,Forberedende kursus i bachelorprojekt MEDICIN,Bachelor sem. 5
-600,Medicin,Kursus i basal farmakologi MEDICIN,Kursus i basal farmakologi MEDICIN,Bachelor sem. 5
-600,Medicin,Kursus i basal patologi MEDICIN,Kursus i basal patologi MEDICIN,Bachelor sem. 5
-600,Medicin,"Kursus i endokrinologi, reproduktion og blod","Kursus i endokrinologi, reproduktion og blod",Bachelor sem. 5
-600,Medicin,Kursus i immunologi MEDICIN,Kursus i immunologi MEDICIN,Bachelor sem. 5
-600,Medicin,Kursus i nyrer- og urinveje MEDICIN,Kursus i nyrer- og urinveje MEDICIN,Bachelor sem. 5
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 5
-600,Medicin,CAMES: Ultralydsskanning og ledundersøgelse,CAMES: Ultralydsskanning og ledundersøgelse,Bachelor sem. 6
-600,Medicin,Kursus i diagnostiske fag MEDICIN,Kursus i diagnostiske fag MEDICIN,Bachelor sem. 6
-600,Medicin,Mikrobiologisk øvelseskursus MEDICIN,Mikrobiologisk øvelseskursus MEDICIN,Bachelor sem. 6
-600,Medicin,Tema A: Mikrobiologi,Tema A: Mikrobiologi,Bachelor sem. 6
-600,Medicin,Tema C: Endokrinologi MEDICIN,Tema C: Endokrinologi MEDICIN,Bachelor sem. 6
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 6
-600,Medicin,Grundlæggende klinik inkl. CAMES MEDICIN,Grundlæggende klinik inkl. CAMES MEDICIN,Kandidat sem. 1
-600,Medicin,"Tema G, Gastroenterologi MEDICIN","Tema G, Gastroenterologi MEDICIN",Kandidat sem. 1
-600,Medicin,Tema H:Nefro-urologi MEDICIN,Tema H:Nefro-urologi MEDICIN,Kandidat sem. 1
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Kandidat sem. 1
-600,Medicin,CAMES: Kommunikation & stuegang/fællesundervisning,CAMES: Kommunikation & stuegang/fællesundervisning,Kandidat sem. 2
-600,Medicin,Klinisk kursus i anæstesiologi MEDICIN,Klinisk kursus i anæstesiologi MEDICIN,Kandidat sem. 2
-600,Medicin,Klinisk kursus i intern medicin MEDICIN,Klinisk kursus i intern medicin MEDICIN,Kandidat sem. 2
-600,Medicin,Klinisk kursus i kirurgi MEDICIN,Klinisk kursus i kirurgi MEDICIN,Kandidat sem. 2
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Kandidat sem. 2
-600,Medicin,Klinisk kursus i oftalmologi MEDICIN,Klinisk kursus i oftalmologi MEDICIN,Kandidat sem. 3
-600,Medicin,Kursus i arbejds- og miljømedicin MEDICIN,Kursus i arbejds- og miljømedicin MEDICIN,Kandidat sem. 3
-600,Medicin,"SEMS, statistik, epidimiologi... MEDICIN","SEMS, statistik, epidimiologi... MEDICIN",Kandidat sem. 3
-600,Medicin,Klinisk kursus i neurologi og neurokirurgi,Klinisk kursus i neurologi og neurokirurgi,Kandidat sem. 4
-600,Medicin,Klinisk kursus i socialmedicin og rehab.. MEDICIN,Klinisk kursus i socialmedicin og rehab.. MEDICIN,Kandidat sem. 4
-600,Medicin,Kursus i retsmedicin,Kursus i retsmedicin,Kandidat sem. 4
-600,Medicin,Psykiatri inklusive børne- og unge... MEDICIN,Psykiatri inklusive børne- og unge... MEDICIN,Kandidat sem. 4
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Kandidat sem. 4
-600,Medicin,Kursus i basal og klinisk sexologi MEDICIN,Kursus i basal og klinisk sexologi MEDICIN,Kandidat sem. 5
-600,Medicin,Kursus i etiske dilemmaer indenfor medicin MEDICIN,Kursus i etiske dilemmaer indenfor medicin MEDICIN,Kandidat sem. 5
-600,Medicin,Kursus i gerontologi MEDICIN,Kursus i gerontologi MEDICIN,Kandidat sem. 5
-600,Medicin,Kursus og eksamen i klinisk beslutningslære,Kursus og eksamen i klinisk beslutningslære,Kandidat sem. 5
-600,Medicin,Klinisk kursus i almen medicin MEDICIN,Klinisk kursus i almen medicin MEDICIN,Kandidat sem. 6
-600,Medicin,Klinisk kursus i gynækologi og obstetrik MEDICIN,Klinisk kursus i gynækologi og obstetrik MEDICIN,Kandidat sem. 6
-600,Medicin,Klinisk kursus i pædiatri MEDICIN,Klinisk kursus i pædiatri MEDICIN,Kandidat sem. 6
-600,Medicin,Kursus i akut patient MEDICIN,Kursus i akut patient MEDICIN,Kandidat sem. 6
-600,Medicin,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Kandidat sem. 6
-607,Odontologi,Kursus i excitable celler ODONT,Kursus i excitable celler ODONT,Bachelor sem. 2
-607,Odontologi,Kursus i medicinsk celle- og vævsbiologi ODONT,Kursus i medicinsk celle- og vævsbiologi ODONT,Bachelor sem. 2
-607,Odontologi,Tændernes udvikling og struktur ODONT,Tændernes udvikling og struktur ODONT,Bachelor sem. 2
-607,Odontologi,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 2
-607,Odontologi,Biokemi ODONT,Biokemi ODONT,Bachelor sem. 4
-607,Odontologi,Kursus i klinisk introduktion ODONT,Kursus i klinisk introduktion ODONT,Bachelor sem. 4
-607,Odontologi,Kursus i oral mikrobiologi ODONT,Kursus i oral mikrobiologi ODONT,Bachelor sem. 4
-607,Odontologi,Kursus i sundhedsinformatik ODONT,Kursus i sundhedsinformatik ODONT,Bachelor sem. 4
-607,Odontologi,Præklinisk kursus i materialelære... ODONT,Præklinisk kursus i materialelære... ODONT,Bachelor sem. 4
-607,Odontologi,Radiologi 1 ODONT,Radiologi 1 ODONT,Bachelor sem. 4
-607,Odontologi,Studium Generale ODONT,Studium Generale ODONT,Bachelor sem. 4
-607,Odontologi,Boghandleren anbefaler også disse:,Boghandleren anbefaler også disse:,Bachelor sem. 4
-607,Odontologi,Klinisk oral fysiologi 2 ODONT,Klinisk oral fysiologi 2 ODONT,Bachelor sem. 6
-607,Odontologi,Kursus i basal endodonti ODONT,Kursus i basal endodonti ODONT,Bachelor sem. 6
-607,Odontologi,Kursus i basal parodontologi 2 ODONT,Kursus i basal parodontologi 2 ODONT,Bachelor sem. 6
-607,Odontologi,Kursus i indirekte enkelttandsrestaureringer ODONT,Kursus i indirekte enkelttandsrestaureringer ODONT,Bachelor sem. 6
-607,Odontologi,Kursus i plastiske restaureringer 2 ODONT,Kursus i plastiske restaureringer 2 ODONT,Bachelor sem. 6
-607,Odontologi,"Cariologi, plastiske restaureringer....  ODONT","Cariologi, plastiske restaureringer....  ODONT",Kandidat sem. 2
-607,Odontologi,Kursus i oral kirurgi 1 ODONT,Kursus i oral kirurgi 1 ODONT,Kandidat sem. 2
-607,Odontologi,Kursus i oral rehabilitering 2 ODONT,Kursus i oral rehabilitering 2 ODONT,Kandidat sem. 2
-607,Odontologi,Kursus i pædodonti og klinisk genetik 1 ODONT,Kursus i pædodonti og klinisk genetik 1 ODONT,Kandidat sem. 2
-607,Odontologi,Kursus i udvidet parodontologi 2 ODONT,Kursus i udvidet parodontologi 2 ODONT,Kandidat sem. 2
-607,Odontologi,Oral Patologi og medicin 1 ODONT,Oral Patologi og medicin 1 ODONT,Kandidat sem. 2
-607,Odontologi,Regenerativ parodontalkirurgi (valgfag) ODONT,Regenerativ parodontalkirurgi (valgfag) ODONT,Kandidat sem. 2
-607,Odontologi,Kursus i oral kirurgi 3 ODONT,Kursus i oral kirurgi 3 ODONT,Kandidat sem. 4
-607,Odontologi,Kursus i samfunds- og retsodontologi ODONT,Kursus i samfunds- og retsodontologi ODONT,Kandidat sem. 4
-607,Odontologi,Oral patologi og medicin 3 ODONT,Oral patologi og medicin 3 ODONT,Kandidat sem. 4
-602,Sundhed og Informatik (tidligere IT og Sundhed),Epidemiologi SUNDHED OG INFO,Epidemiologi SUNDHED OG INFO,Bachelor sem. 2
-602,Sundhed og Informatik (tidligere IT og Sundhed),Organisationsanalyse SUNDHED OG INFO,Organisationsanalyse SUNDHED OG INFO,Bachelor sem. 2
-602,Sundhed og Informatik (tidligere IT og Sundhed),Kvantitative & kvalitative undersøge.. SUNDHED,Kvantitative & kvalitative undersøge.. SUNDHED,Bachelor sem. 4
-602,Sundhed og Informatik (tidligere IT og Sundhed),"Sygdomslære for ikke-klinikere, SUNDHED & INFO","Sygdomslære for ikke-klinikere, SUNDHED & INFO",Bachelor sem. 4
-608,Sundhedsfaglig kandidat,Kvalitative metoder.,Kvalitative metoder.,Kandidat 2.sem.
-608,Sundhedsfaglig kandidat,Forandringsledelse i sundhedsvæsenet,Forandringsledelse i sundhedsvæsenet,Kandidat Valgfag
-608,Sundhedsfaglig kandidat,"Psykologi, sundhedspsykologi: SUNDFAG KAND","Psykologi, sundhedspsykologi: SUNDFAG KAND",Kandidat sem. 2
-609,Tandklinikassistent - SKT,Basislitteratur Grundforløb TANDKLINIKASS.,Basislitteratur Grundforløb TANDKLINIKASS.,Grundforløb
-609,Tandklinikassistent - SKT,Basislitteratur Hovedforløb - Tandklinikass. SKT,Basislitteratur Hovedforløb - Tandklinikass. SKT,Hovedforløb
-609,Tandklinikassistent - SKT,Specialevalgfag Hovedforløb TANDKLINIKASS.,Specialevalgfag Hovedforløb TANDKLINIKASS.,Hovedforløb
-610,Tandplejer - SKT,Oral radiologi TANDPLEJE,Oral radiologi TANDPLEJE,2. semester
-610,Tandplejer - SKT,"Sundhedsfremme, forebyggelse og relationer TANDPLE","Sundhedsfremme, forebyggelse og relationer TANDPLE",2. semester
-610,Tandplejer - SKT,Tandpleje 1   Grundlæggende klinisk virksomhed,Tandpleje 1   Grundlæggende klinisk virksomhed,2. semester
-610,Tandplejer - SKT,Videnskabsteori og metode TANDPLEJE,Videnskabsteori og metode TANDPLEJE,2. semester
-610,Tandplejer - SKT,Tandpleje Modul 11,Tandpleje Modul 11,Modul 11
-610,Tandplejer - SKT,Tandpleje Modul 7,Tandpleje Modul 7,Modul 7
-610,Tandplejer - SKT,Tandpleje Modul 8,Tandpleje Modul 8,Modul 8
-409,Veterinærmedicin -  Bachelor,Veterinær genetik - vet.,Veterinær genetik - vet.,Bach.1.år blok 3
-409,Veterinærmedicin -  Bachelor,Veterinær Anatomi og fysiologi - 2 VET,Veterinær Anatomi og fysiologi - 2 VET,Bach.1.år blok 4
-409,Veterinærmedicin -  Bachelor,Basal Statistik og Epidemiologi,Basal Statistik og Epidemiologi,Bach.2.år blok 3
-409,Veterinærmedicin -  Bachelor,Veterinær farmakologi og toksikologi - Vet,Veterinær farmakologi og toksikologi - Vet,Bach.2.år blok 3
-409,Veterinærmedicin -  Bachelor,Mikrobiel fødevaresikkerhed - VET,Mikrobiel fødevaresikkerhed - VET,Bach.2.år blok 4
-409,Veterinærmedicin -  Bachelor,Veterinær farmakologi og toksikologi VET,Veterinær farmakologi og toksikologi VET,Bach.2.år blok 4
-409,Veterinærmedicin -  Bachelor,Anvendt Etologi,Anvendt Etologi,Bach.3.år blok 3
-409,Veterinærmedicin -  Bachelor,Basal klinisk teori hos store husdyr,Basal klinisk teori hos store husdyr,Bach.3.år blok 3
-409,Veterinærmedicin -  Bachelor,Retsmedicin og Forsøgsdyrskundskab,Retsmedicin og Forsøgsdyrskundskab,Bach.3.år blok 4
-409,Veterinærmedicin -  Bachelor,Speciel patologi og fjerkræsygdomme - Praktisk vet,Speciel patologi og fjerkræsygdomme - Praktisk vet,Bach.3.år blok 4
-409,Veterinærmedicin -  Bachelor,Veterinær retsmedicin og dyrevelfærdsvurdering-VET,Veterinær retsmedicin og dyrevelfærdsvurdering-VET,Bach.3.år blok 4
-437,Veterinærmedicin - Kandidat,Besætningsrådgivning og Veterinær Folkesundhed,Besætningsrådgivning og Veterinær Folkesundhed,Kandidat blok 3
-437,Veterinærmedicin - Kandidat,"Akutmedicin, obstetrik, intensiv terapi og kl. vet","Akutmedicin, obstetrik, intensiv terapi og kl. vet",Kandidat blok 4
-437,Veterinærmedicin - Kandidat,Biomedicine - VET,Biomedicine - VET,Kandidat blok 4
-437,Veterinærmedicin - Kandidat,Hestedifferentiering - klinisk praksis -VET,Hestedifferentiering - klinisk praksis -VET,Kandidat blok 4
-437,Veterinærmedicin - Kandidat,Laboratory Animal Science  Function ABD -VET,Laboratory Animal Science  Function ABD -VET,Kandidat blok 4
-437,Veterinærmedicin - Kandidat,Praktisk besætningsrådgivning og kødkontrol - VET,Praktisk besætningsrådgivning og kødkontrol - VET,Kandidat blok 4
-437,Veterinærmedicin - Kandidat,Veterinary Paraclinics -VET,Veterinary Paraclinics -VET,Kandidat blok 4
-437,Veterinærmedicin - Kandidat,Veterinary imaging -VET,Veterinary imaging -VET,Kandidat blok 4
-910,Teologi Bachelor,BA-2. semester: Etik og Religionsfilosofi 1,BA-2. semester: Etik og Religionsfilosofi 1,1.år/2.sem/Bach
-910,Teologi Bachelor,"BA-4. semester: Hebraisk 1 - Hold A, B","BA-4. semester: Hebraisk 1 - Hold A, B",2.år/4.sem/Bach
-910,Teologi Bachelor,BA-4. semester: Kirke- og Teologihistorie 2 - B,BA-4. semester: Kirke- og Teologihistorie 2 - B,2.år/4.sem/Bach
-910,Teologi Bachelor,BA-6. semester: Det Gamle Testamentes Eksegese 1,BA-6. semester: Det Gamle Testamentes Eksegese 1,3.år/6.sem/Bach
-910,Teologi Bachelor,BA-6. semester: Dogmatik med Økumenisk Teologi 2 -,BA-6. semester: Dogmatik med Økumenisk Teologi 2 -,3.år/6.sem/Bach
-911,Teologi Kandidat,VF Philosophy of Mental Health,VF Philosophy of Mental Health,Kandidatfag
+subject_text,university_text
+"BSc BLC Area Studies 2 - German: Markets, institut",CBS - Copenhagen Business School
+BSc BLC Macroeconomics,CBS - Copenhagen Business School
+BSc BLC Quantitative business research (2. sem.),CBS - Copenhagen Business School
+BSc BLC Corporate finance,CBS - Copenhagen Business School
+BSc BLC German Studies 4,CBS - Copenhagen Business School
+BSc BLC The Corporation in Society,CBS - Copenhagen Business School
+BSc BLC Politics of Sustainability,CBS - Copenhagen Business School
+BSc BLC Interdisciplinary research methods,CBS - Copenhagen Business School
+BSc BLC Marketing the essentials & the trend,CBS - Copenhagen Business School
+BSc SM Managerial economics,CBS - Copenhagen Business School
+BSc SM Corporate finance,CBS - Copenhagen Business School
+"BSc DM Business data analytics, Quant.methods",CBS - Copenhagen Business School
+BSc DM Economics in the digital age,CBS - Copenhagen Business School
+BSc IBA Japanese Propaedeutics 2,CBS - Copenhagen Business School
+BSc IBA Advanced Topics in Int. Bus. in Asian Mar.,CBS - Copenhagen Business School
+BSc IBA Marketing,CBS - Copenhagen Business School
+BSc IB Principles of International Marketing,CBS - Copenhagen Business School
+BSc IB Corporate Finance,CBS - Copenhagen Business School
+BSC IBP Research Design and Qualitative Methods,CBS - Copenhagen Business School
+BSc IBP Financial Accounting & reporting,CBS - Copenhagen Business School
+BSc IBP Macroeconomics,CBS - Copenhagen Business School
+BSc IBP Management and Organization,CBS - Copenhagen Business School
+BSc IBP Advanced Topics in Quantitative Methods,CBS - Copenhagen Business School
+BSc IBP Corporate finance,CBS - Copenhagen Business School
+BSc SOC Financial Accounting,CBS - Copenhagen Business School
+BSc SOC Research design & quantitative methods I,CBS - Copenhagen Business School
+BSc SOC Consumer Culture and Marketing,CBS - Copenhagen Business School
+BSc SOC Philosophy of science,CBS - Copenhagen Business School
+BSc SOC Quantitative methods II,CBS - Copenhagen Business School
+BSc IST Corporate finance,CBS - Copenhagen Business School
+BSc IST Financial accounting,CBS - Copenhagen Business School
+BSc IST Principles of international marketing,CBS - Copenhagen Business School
+BHAAV1581U Virksomhedshandel,CBS - Copenhagen Business School
+BHAAV4491U Financial derivatives and their applica,CBS - Copenhagen Business School
+BHAAV6021U Global people management,CBS - Copenhagen Business School
+BINBV1106U Danish integrated skills,CBS - Copenhagen Business School
+BPSYV1035  Language of negotiations,CBS - Copenhagen Business School
+CM FIR Corporate finance CFIRO1050U,CBS - Copenhagen Business School
+CM FIR Kapitalselskaber; selskabsret og skatteret,CBS - Copenhagen Business School
+CM FIR Økonomistyring,CBS - Copenhagen Business School
+CCMVV1483U Køb og salg af virksomheder,CBS - Copenhagen Business School
+CMECV1247U Predictive Modeling og Machine Learning,CBS - Copenhagen Business School
+CM EMF Performance management & Marketing,CBS - Copenhagen Business School
+CM EMF Strategisk markedsføringsplanlægning,CBS - Copenhagen Business School
+CM AUD Erhvervsret 2,CBS - Copenhagen Business School
+CM AUD Regnskab 2 CCMAO1026U,CBS - Copenhagen Business School
+CM AUD Revision II CCMA2O1027U,CBS - Copenhagen Business School
+CM AUD Skatteret 2,CBS - Copenhagen Business School
+CM AUD Intern revision CCMAV3000U,CBS - Copenhagen Business School
+CJURV1601U Regulering af markeder,CBS - Copenhagen Business School
+CJURV2102U Strategisk kontrahering i et internatio,CBS - Copenhagen Business School
+CMATV1014U Kreditrisiko - modeller med anvendelser,CBS - Copenhagen Business School
+CMECV1022U Statistisk analyse af finansielle data,CBS - Copenhagen Business School
+CM PSYK Organisationsudvikling i praksis,CBS - Copenhagen Business School
+HA IT IT projektledelse,CBS - Copenhagen Business School
+HA IT VØS 2 Regnskabsvæsen,CBS - Copenhagen Business School
+HA IT Analyse & design af brugervenlige informatio,CBS - Copenhagen Business School
+HA IT IT-strategi,CBS - Copenhagen Business School
+HA IT VØS 4 Virksomhedens Interne Økonomiske Org.,CBS - Copenhagen Business School
+HA IT IT kontrakter BINTU3001U,CBS - Copenhagen Business School
+HA IT Videnskabsteori,CBS - Copenhagen Business School
+HA EB Strategic management,CBS - Copenhagen Business School
+HA EB Danmark i et komparativt perspektiv,CBS - Copenhagen Business School
+HA EB Finansiering,CBS - Copenhagen Business School
+HA EB Internationalisering & kvalitativ metode,CBS - Copenhagen Business School
+HA EB Marketing,CBS - Copenhagen Business School
+HA MAK Global Marketing Audit BMAKO2003U,CBS - Copenhagen Business School
+HA MAK Mikroøkonomi,CBS - Copenhagen Business School
+HA MAK Kultur og kommunikation i organisationer,CBS - Copenhagen Business School
+HA Mak Forbrugerindsigt i Praksis,CBS - Copenhagen Business School
+HA MAK Kommunikation af kompleks data og viden,CBS - Copenhagen Business School
+HA PRO Beslutning risiko & usikkerhed,CBS - Copenhagen Business School
+HA PRO Metode projektstyringsværktøjer,CBS - Copenhagen Business School
+HA PRO Regnskab,CBS - Copenhagen Business School
+HA PRO Statistik,CBS - Copenhagen Business School
+HA PRO Afsætningsøkonomi,CBS - Copenhagen Business School
+HA PRO Projektsamfundet,CBS - Copenhagen Business School
+HA PRO Videnskabsteori & metode,CBS - Copenhagen Business School
+HA FIL ETIK,CBS - Copenhagen Business School
+HA FIL Eksternt regnskab,CBS - Copenhagen Business School
+HA(fil.) Statistik og sandsynlighedsregning,CBS - Copenhagen Business School
+HA JUR Forvaltningsret BJURO1505U,CBS - Copenhagen Business School
+HA JUR Makroøkonomi,CBS - Copenhagen Business School
+HA JUR Markedsret,CBS - Copenhagen Business School
+HA JUR Organisationsanalyse,CBS - Copenhagen Business School
+HA JUR retlig regulering af kreditter & sikkerhed,CBS - Copenhagen Business School
+HA JUR Eksternt regnskab,CBS - Copenhagen Business School
+HA JUR Finansiering,CBS - Copenhagen Business School
+HA JUR Selskabsret,CBS - Copenhagen Business School
+HA JUR Rets-og kontraktsøkonomi,CBS - Copenhagen Business School
+HA JUR Skatteret,CBS - Copenhagen Business School
+HA KOM Kvalitativ metode og videnskabsteori,CBS - Copenhagen Business School
+HA KOM Marketing,CBS - Copenhagen Business School
+HA KOM Organisationskommunikation,CBS - Copenhagen Business School
+HA KOM Ekstern kommunikation i praksis,CBS - Copenhagen Business School
+HA KOM Institutionelle perspektiver,CBS - Copenhagen Business School
+HA MAT Mikroøkonomi,CBS - Copenhagen Business School
+HA MAT Numerisk algoritmer,CBS - Copenhagen Business School
+HA Mat Eksternt Regnskab,CBS - Copenhagen Business School
+HA MAT Makroøkonomi II,CBS - Copenhagen Business School
+HA MAT Spilteori,CBS - Copenhagen Business School
+HA MAT Industriøkonomi,CBS - Copenhagen Business School
+HA MAT Organisation & ledelse,CBS - Copenhagen Business School
+HA PSYK Eksternt Regnskab,CBS - Copenhagen Business School
+HA PSYK Kvantitativ metode,CBS - Copenhagen Business School
+HA PSYK Digitalisering og organisering,CBS - Copenhagen Business School
+HA PSYK Finansiering,CBS - Copenhagen Business School
+HA PSYK Forbrugeradfærd,CBS - Copenhagen Business School
+HA PSYK Videnskabsteori,CBS - Copenhagen Business School
+HA PSYK HRM & Psykologiske tests,CBS - Copenhagen Business School
+HA ALMEN Makroøkonomi,CBS - Copenhagen Business School
+HA ALMEN Statistik fortsat,CBS - Copenhagen Business School
+HA ALMEN Eksternt regnskab,CBS - Copenhagen Business School
+HA ALMEN Erhvervsret,CBS - Copenhagen Business School
+HA ALMEN Strategi,CBS - Copenhagen Business School
+HA ALMEN Erhvervsøkonomiens videnskabsteori,CBS - Copenhagen Business School
+BHAAV1058U Management accounting & control systems,CBS - Copenhagen Business School
+BHAAV1082U Økonomistyret marketing & strategi,CBS - Copenhagen Business School
+BHAAV1366U Strategic management,CBS - Copenhagen Business School
+BHAAV1988 Retail marketing,CBS - Copenhagen Business School
+BHAAV6006U Corporate strategy,CBS - Copenhagen Business School
+HD1 Forår Erhvervsøkonomi og forretningsforståelse,CBS - Copenhagen Business School
+HD1 Forår Organisering i terori og praksis,CBS - Copenhagen Business School
+Boghandleren anbefaler også disse:,CBS - Copenhagen Business School
+HD 1 Forår Design af undersøgelser og analyser,CBS - Copenhagen Business School
+HD 1 Forår Virksomhedens Økonomiske planlægning,CBS - Copenhagen Business School
+HD1 Forår Business Intelligence,CBS - Copenhagen Business School
+HD 1 Forår Strategisk erhvervsret,CBS - Copenhagen Business School
+HD1 Forår Virksomhedens økonomiske og pol.omv.,CBS - Copenhagen Business School
+HD1 Forår Økonomisk teori og organisationsdesign,CBS - Copenhagen Business School
+HD 1 Strategisk Ledelseskommunikation,CBS - Copenhagen Business School
+HD 1 Valgfag - Strategisk Erhvervsret II,CBS - Copenhagen Business School
+HD FR  Bogligøkonomi,CBS - Copenhagen Business School
+HD FR (FVPS): Frie midler,CBS - Copenhagen Business School
+HD FR Personbeskatning,CBS - Copenhagen Business School
+HD FR Retlig regulering,CBS - Copenhagen Business School
+HD F Corporate finance,CBS - Copenhagen Business School
+HD F Derivatives og Risk Management,CBS - Copenhagen Business School
+HD F International Finance,CBS - Copenhagen Business School
+HD O Organisation i forandring,CBS - Copenhagen Business School
+HD R Økonomistyring,CBS - Copenhagen Business School
+HD R Corporate finance policies,CBS - Copenhagen Business School
+HD R Risk & financial planning - valgfag,CBS - Copenhagen Business School
+HD R Skatteret,CBS - Copenhagen Business School
+HD R Transfer pricing,CBS - Copenhagen Business School
+HD R Valgfag Accounting information systems,CBS - Copenhagen Business School
+HD 2. del.The Digital Supply Chain,CBS - Copenhagen Business School
+HD B Business Projekt,CBS - Copenhagen Business School
+HD IB Risk Management,CBS - Copenhagen Business School
+HD SSM Data og kundeindsigt i Teori og Praksis,CBS - Copenhagen Business School
+HD SSM Kunderelationer,CBS - Copenhagen Business School
+HD SSM Moderne salgsledelse,CBS - Copenhagen Business School
+HD SSM Digital Mediestrategi,CBS - Copenhagen Business School
+HD SSM Strategisk brand management,CBS - Copenhagen Business School
+MBD F24  Organisation & forandring Hold LB,CBS - Copenhagen Business School
+MBD F24 Business development Hold LA,CBS - Copenhagen Business School
+MBD F24 Pricing Management,CBS - Copenhagen Business School
+MBD F24 Værdiskabende Supply Chains,CBS - Copenhagen Business School
+MSc AEF Advanced macroeconomics,CBS - Copenhagen Business School
+MSc AEF International finance,CBS - Copenhagen Business School
+MSc BLC The Eu as a global actor,CBS - Copenhagen Business School
+MSc BCM Applied strategic brand management,CBS - Copenhagen Business School
+MSc DS Data Economics,CBS - Copenhagen Business School
+MSc IS Information Economics and Business,CBS - Copenhagen Business School
+MSc IS Artificial intelligence & machine learning,CBS - Copenhagen Business School
+MSc IHC Innovation in clinical processes,CBS - Copenhagen Business School
+MSc EBUS Perspectives on Digital Business Research,CBS - Copenhagen Business School
+MSc FSM Corporate governance & finance,CBS - Copenhagen Business School
+MSc FSM Risk Management,CBS - Copenhagen Business School
+MSc IMM International Business and Strategy,CBS - Copenhagen Business School
+MSc IMM International Marketing,CBS - Copenhagen Business School
+MSc IMM Managing international operations,CBS - Copenhagen Business School
+MSc SCM Business analytics- data driven operations,CBS - Copenhagen Business School
+MSc SCM Supply chain business project,CBS - Copenhagen Business School
+MSc GMA Business Analytics,CBS - Copenhagen Business School
+CS HRM Arbejdsmarkedsteori & analyse,CBS - Copenhagen Business School
+CM OIE SDE Management Accounting for Design and In,CBS - Copenhagen Business School
+Master i Skat Erhvervsbeskatning,CBS - Copenhagen Business School
+Master i Skat Juridisk Metode,CBS - Copenhagen Business School
+Master i Skat Regnskab og skat,CBS - Copenhagen Business School
+Master i Skat Skatte- og afgiftsproces,CBS - Copenhagen Business School
+Master i skat International selskabsskatteret,CBS - Copenhagen Business School
+Master i skat Personbeskatning,CBS - Copenhagen Business School
+Master i skat Udbytte & aktieavance,CBS - Copenhagen Business School
+MPG F24 Hold 2023 - 2. semester,CBS - Copenhagen Business School
+MPG F24 Hold 2022 - 4.sem./Resultatorien.Lederskab,CBS - Copenhagen Business School
+MPG F24 Intro- og udviklingsforløb-Fleksi. MUF,CBS - Copenhagen Business School
+MPG F24 Ledelsesudviklingsforløb (LUF),CBS - Copenhagen Business School
+MPG F24  Strategisk Ledelse,CBS - Copenhagen Business School
+MPG F24 Forandringsledelse i en reform-og styr.,CBS - Copenhagen Business School
+MPG F24 Kommunikation & Ledelse,CBS - Copenhagen Business School
+MPG F24 Ledelse af diversitet og inklusion,CBS - Copenhagen Business School
+MPG F24 Ledelse i den eksperiment.organisation,CBS - Copenhagen Business School
+MPG F24 Resultatorienteret Lederskab,CBS - Copenhagen Business School
+MPG F24 De politiske budgetter,CBS - Copenhagen Business School
+MPG F24 Eksistens og ledelse,CBS - Copenhagen Business School
+MPG F24 Gentænk de kommunale velfærdsstrategier,CBS - Copenhagen Business School
+MPG F24 Ledelse af hybridarbejde,CBS - Copenhagen Business School
+MPG F24 Narrativ ledelse af tværgående samarbejde,CBS - Copenhagen Business School
+MPG F24 Opgaveskrivning og argumentation,CBS - Copenhagen Business School
+"MPG F24 Personligt lederskab, transformative dialo",CBS - Copenhagen Business School
+MPG F24 Strategiimplementering i praksis,CBS - Copenhagen Business School
+Kommunikation Bogpakke K1 DMJX/KBH,DMJX - København
+Videnskabsteori - Kommunikation DMJX/KBH,DMJX - København
+Medievidenskab MPL,DMJX - København
+MedievidenskabTVM,DMJX - København
+DMJX KBH Visuel Kommunikation,DMJX - København
+FYS Fysioterapi KP-Nordsjælland,Finanssektorens Arbejdsgiverforening (FA)
+PÆD NORDS. Pædagogik GK1,Finanssektorens Arbejdsgiverforening (FA)
+Linear Algebra and Probability,IT-Universitetet
+Applied Statistics,IT-Universitetet
+User Interface Design,IT-Universitetet
+Designing Digital Play,IT-Universitetet
+Global Project Management,IT-Universitetet
+Introduction to Database Systems,IT-Universitetet
+Algorithms and Data Structures,IT-Universitetet
+LÆRER Åben Uddannelse RE1,KP - Campus Carlsberg
+LÆR Natur og teknologi,KP - Campus Carlsberg
+LÆR Undervisning af tosprogede elever,KP - Campus Carlsberg
+LÆRER dansk som andetsprog,KP - Campus Carlsberg
+LÆRER lucf24enam,KP - Campus Carlsberg
+LÆRER Idrætluce20idu323o,KP - Campus Carlsberg
+LÆRER Historie,KP - Campus Carlsberg
+LÆRER specialpædagogik,KP - Campus Carlsberg
+LÆRER Fransk,KP - Campus Carlsberg
+LÆRER luce20sp42ao,KP - Campus Carlsberg
+LÆRER luce23dai1ao,KP - Campus Carlsberg
+LÆRER luce23daiam,KP - Campus Carlsberg
+LÆRER Idræt luce21id223o,KP - Campus Carlsberg
+PÆD dagtilbud,KP - Campus Carlsberg
+PÆD-VK Samlet,KP - Campus Carlsberg
+FYS Fysioterapi KP-Nordsjælland,KP - Campus Nordsjælland
+PÆD NORDS. Pædagogik GK1,KP - Campus Nordsjælland
+SYGE NORD Sygeplejerske,KP - Campus Nordsjælland
+Politik og samfund - Admin.Bach,KP - Campus Sigurdsgade & Tagensvej
+Metoder til opgaveløsning i offentlig administrati,KP - Campus Sigurdsgade & Tagensvej
+Styring og innovation i den offentlige sektor,KP - Campus Sigurdsgade & Tagensvej
+HR- og personalejura  modul7/8,KP - Campus Sigurdsgade & Tagensvej
+PBOA valgmodul Digital Forvaltning I,KP - Campus Sigurdsgade & Tagensvej
+Bioanalytikerpraksis og grundlæggende bioanalyse,KP - Campus Sigurdsgade & Tagensvej
+"Bioanalyse, basal biomedicin og diagnostik",KP - Campus Sigurdsgade & Tagensvej
+Kvalitetssikring ud fra et bioanalytisk perspektiv,KP - Campus Sigurdsgade & Tagensvej
+Bioanalytisk diagnostik,KP - Campus Sigurdsgade & Tagensvej
+Bioanalytisk diagnostik i et mono- og tværprofessi,KP - Campus Sigurdsgade & Tagensvej
+Bioanalytisk udvikling - BIOA,KP - Campus Sigurdsgade & Tagensvej
+"Bioanalytisk praksis-, udviklings- og forskningsvi",KP - Campus Sigurdsgade & Tagensvej
+Almen kemi (fysisk kemi),KP - Campus Sigurdsgade & Tagensvej
+Cutting Edge Bioteknologiske Analysemetoder,KP - Campus Sigurdsgade & Tagensvej
+"Projekt, -teamledelse og kommunikation",KP - Campus Sigurdsgade & Tagensvej
+Ergoterapautuddannelsen ERGO,KP - Campus Sigurdsgade & Tagensvej
+Anvendelse af ergoterapi teori og analyse i ERGO,KP - Campus Sigurdsgade & Tagensvej
+Ergoterapeutisk intervention ERGO,KP - Campus Sigurdsgade & Tagensvej
+Ergoterapi ERGO,KP - Campus Sigurdsgade & Tagensvej
+Arbejdsmiljø og arbejdsrehabilitering - Ergoterapi,KP - Campus Sigurdsgade & Tagensvej
+Bachelorforløb ergo,KP - Campus Sigurdsgade & Tagensvej
+Basis: Mad og sundhed   professionelle måltider ge,KP - Campus Sigurdsgade & Tagensvej
+Basis: Mad og sundhed   ernæringsvurdering til må,KP - Campus Sigurdsgade & Tagensvej
+"Mad, Sundhed og formidling SD - Ernæring",KP - Campus Sigurdsgade & Tagensvej
+"Sunde måltider: organisering, prod. og led. FL",KP - Campus Sigurdsgade & Tagensvej
+Klinisk diæterik.Diætetisk praksis-komplekse diæte,KP - Campus Sigurdsgade & Tagensvej
+Professionen i teori og praksis - Ernæring,KP - Campus Sigurdsgade & Tagensvej
+Fysioterapeut Sirgurdsgade,KP - Campus Sigurdsgade & Tagensvej
+Grundlæg. viden om ukompliceret graviditet - JM,KP - Campus Sigurdsgade & Tagensvej
+JM - Ukompliceret og kompliceret familiedannelse,KP - Campus Sigurdsgade & Tagensvej
+"Komp. i graviditet, fødsel og familiedannel - JM",KP - Campus Sigurdsgade & Tagensvej
+Beredskabsfaglig praksis og arbejdsmiljø KRM,KP - Campus Sigurdsgade & Tagensvej
+"Forebyggelse, beredskab og risikohåndtering KRM",KP - Campus Sigurdsgade & Tagensvej
+Beredskab - Kriseledelse og risikomanagement KRM,KP - Campus Sigurdsgade & Tagensvej
+Risikoledelse: sikkerhed og sikring KRM,KP - Campus Sigurdsgade & Tagensvej
+"Strat. foreb., inno. og risikoman. - Beredskab KRM",KP - Campus Sigurdsgade & Tagensvej
+Accepterede risici - Valgfag KRM,KP - Campus Sigurdsgade & Tagensvej
+Ledelse af forandring - Valgfag KRM,KP - Campus Sigurdsgade & Tagensvej
+"Videnskansteori, teori og kvalitet, Valgfag KRM",KP - Campus Sigurdsgade & Tagensvej
+Laborant basislittereatur,KP - Campus Sigurdsgade & Tagensvej
+SKAT Professionsbachelor i skat,KP - Campus Sigurdsgade & Tagensvej
+Professionsbachelor i skat SKAT,KP - Campus Sigurdsgade & Tagensvej
+Grundlæg. færdigh. og kompet. i radiografi RG,KP - Campus Sigurdsgade & Tagensvej
+Sundhedsadministrativ Koordinator uddannelse 1 sem,KP - Campus Sigurdsgade & Tagensvej
+Observation og vurdering af patient og borger - SP,KP - Campus Sigurdsgade & Tagensvej
+Klinisk beslutningstagen SYGE,KP - Campus Sigurdsgade & Tagensvej
+Situationsbestemt kommunikation SYGE,KP - Campus Sigurdsgade & Tagensvej
+Klinisk lederskab af patient-og borgerforløb SYGE,KP - Campus Sigurdsgade & Tagensvej
+Sygepleje,KP - Campus Sigurdsgade & Tagensvej
+Kundskabsbaseret praksis Sygepleje,KP - Campus Sigurdsgade & Tagensvej
+Kulturmøder og i sundhedsvæsnet SP,KP - Campus Sigurdsgade & Tagensvej
+"Perspektiver på udsathed, sårbarhed & skrøbelighed",KP - Campus Sigurdsgade & Tagensvej
+Psykolingvistik og statistik,KU - Det Humanistiske Fakultet
+Søren Kierkegaard and the Challenge of Existence,KU - Det Humanistiske Fakultet
+Sprog og kontekst,KU - Det Humanistiske Fakultet
+Danskfagets teori og metoder,KU - Det Humanistiske Fakultet
+Sociolingvistikkens nye tendenser,KU - Det Humanistiske Fakultet
+"Kommunikation: Ledelse, organisation og kommunikat",KU - Det Humanistiske Fakultet
+Danskfagets didaktik,KU - Det Humanistiske Fakultet
+"Hav, kyst og klima i dansk og nordisk litteratur:",KU - Det Humanistiske Fakultet
+Kommunikationsrådgivning og rådgiverens rolle,KU - Det Humanistiske Fakultet
+Andetsprogstilegnelse,KU - Det Humanistiske Fakultet
+Transatlantic Feminisms,KU - Det Humanistiske Fakultet
+"Fremmedsprogstilegnelse, kultur og didaktik",KU - Det Humanistiske Fakultet
+Writing in English: Creative Non-Fiction in Englis,KU - Det Humanistiske Fakultet
+"Culture 2: Literature, History and Culture",KU - Det Humanistiske Fakultet
+"Sprog 2: fonetik, grammatik og oversættelse",KU - Det Humanistiske Fakultet
+"American Studies, American Politics, and American",KU - Det Humanistiske Fakultet
+The Fantastic in Literature: From Book to Film,KU - Det Humanistiske Fakultet
+"Elective Subject, topic 1: Literature and Emotions",KU - Det Humanistiske Fakultet
+"Global English: Accents, intelligibility and compr",KU - Det Humanistiske Fakultet
+At Sixes and Sevens: The US and the UK in an age..,KU - Det Humanistiske Fakultet
+"Literature, history and culture",KU - Det Humanistiske Fakultet
+Mirror of Modernity: Sensation and 19th-Cent. Fict,KU - Det Humanistiske Fakultet
+Mirror of Modernity: Sensation and 19th-Cent.Fict.,KU - Det Humanistiske Fakultet
+The Self and the World in 21th.Cent. U.S fiction,KU - Det Humanistiske Fakultet
+Writing Africa: Four Perspectives on Nigerian and,KU - Det Humanistiske Fakultet
+Digital Strategic Communication,KU - Det Humanistiske Fakultet
+Digital strategisk kommunikation,KU - Det Humanistiske Fakultet
+Kvalitative og kvantitative metoder i film- og...,KU - Det Humanistiske Fakultet
+"Argumentationsteori, logik og sprogfilosofi",KU - Det Humanistiske Fakultet
+Videnskabsfilosofi og anvendt filosofi,KU - Det Humanistiske Fakultet
+Videnskabsfilosofi og anvendt filosofi (ÅU),KU - Det Humanistiske Fakultet
+Oversættelse: Fransk-dansk,KU - Det Humanistiske Fakultet
+Hverdag og krig i Danmark 1940-1945 (Område 2),KU - Det Humanistiske Fakultet
+"Liberale, konservative og kampen om amerikansk j..",KU - Det Humanistiske Fakultet
+Velfærdsstat og børneforsorg i Danmark i det 20. å,KU - Det Humanistiske Fakultet
+HIS 76. Bibelen - en boghistorie,KU - Det Humanistiske Fakultet
+"Radikalisering i oplysningstiden: køn, politik og",KU - Det Humanistiske Fakultet
+Efter den Kolde Krig var forbi. Fra Engagement til,KU - Det Humanistiske Fakultet
+Sporten og dens samfundsmæssige betydning i den se,KU - Det Humanistiske Fakultet
+Go West. Historiske perspektiver på USA's kulturel,KU - Det Humanistiske Fakultet
+Oplysningstiden som ideal eller dystopi: 1700-tall,KU - Det Humanistiske Fakultet
+Design og formidling,KU - Det Humanistiske Fakultet
+Internet og samfund,KU - Det Humanistiske Fakultet
+Kulturens institutioner og aktører + TV,KU - Det Humanistiske Fakultet
+Videnskabsteori,KU - Det Humanistiske Fakultet
+"Intro. to Japan's history, culture and society B/2",KU - Det Humanistiske Fakultet
+Japansk Propædeutik 2,KU - Det Humanistiske Fakultet
+Kinesisk Propædeutik 2 (OBS: Ikke  med CBS),KU - Det Humanistiske Fakultet
+Procesledelse og facilitering,KU - Det Humanistiske Fakultet
+Empiriske Undersøgelsesmetoder 1,KU - Det Humanistiske Fakultet
+Kunsthistorie 1800-1960 (ÅU),KU - Det Humanistiske Fakultet
+Fonetik og fonologi,KU - Det Humanistiske Fakultet
+Den moderne litteraturs og kulturs historie 2,KU - Det Humanistiske Fakultet
+Litteraturteori og -analyse 2,KU - Det Humanistiske Fakultet
+Moderne kultur: Kulturanalytisk emne: Sianne Ngai:,KU - Det Humanistiske Fakultet
+Fieldwork and Project Management (MACA 5),KU - Det Humanistiske Fakultet
+Methodologies for Cultural Analysis (MACA 4),KU - Det Humanistiske Fakultet
+Religion og samfund i Mellemøsten,KU - Det Humanistiske Fakultet
+Pædagogisk sociologi og uddannelsessociologi,KU - Det Humanistiske Fakultet
+Pædagogisk videnskabsteori og forskningsmetode,KU - Det Humanistiske Fakultet
+Kristendomshistorie,KU - Det Humanistiske Fakultet
+Mundtlig retorik og rådgivning,KU - Det Humanistiske Fakultet
+"Retorisk skrivning, sprog og stil",KU - Det Humanistiske Fakultet
+Græsk-romersk arkæologi og kunsthistorie,KU - Det Humanistiske Fakultet
+Human Osteoarchaeology,KU - Det Humanistiske Fakultet
+Københavnernes historie 1700-1850,KU - Det Humanistiske Fakultet
+Rejsen i middelalderen,KU - Det Humanistiske Fakultet
+Forestillingsanalyse,KU - Det Humanistiske Fakultet
+Humaniora i praksis: Feltarbejde,KU - Det Humanistiske Fakultet
+Kultur 2: tysk historie og litteraturhistorie,KU - Det Humanistiske Fakultet
+"Tyskfagligt emne, inkl. mundtlig og skriftlig...",KU - Det Humanistiske Fakultet
+Visuel praksis,KU - Det Humanistiske Fakultet
+Oversættelse til dansk,KU - Det Humanistiske Fakultet
+Erstatning og Kontrakt,KU - Det Juridiske Fakultet
+Individets grundlæggende rettigheder,KU - Det Juridiske Fakultet
+Institutionel forfatningsret og EU-forfatningsret,KU - Det Juridiske Fakultet
+Forvaltningsret,KU - Det Juridiske Fakultet
+Tings- og kreditorret,KU - Det Juridiske Fakultet
+BA-PROJEKT - Bachelorprojekt,KU - Det Juridiske Fakultet
+Retsfilosofi og retssociologi,KU - Det Juridiske Fakultet
+Retshistorie,KU - Det Juridiske Fakultet
+Arbejdsmarkedsret (Cand. soc. i jura),KU - Det Juridiske Fakultet
+"Erhvervsret - selskaber, finan (Cand. soc. i jura)",KU - Det Juridiske Fakultet
+Juridisk Kommunikation i Teori og Praksis,KU - Det Juridiske Fakultet
+Ansættelsesret,KU - Det Juridiske Fakultet
+Arbejdsret (KA-valgfag),KU - Det Juridiske Fakultet
+Art Crime and the Law,KU - Det Juridiske Fakultet
+Bank- og Finansret,KU - Det Juridiske Fakultet
+Bevisret,KU - Det Juridiske Fakultet
+Civilprocesret (obligatorisk 2017-studieordning),KU - Det Juridiske Fakultet
+Criminological Theory,KU - Det Juridiske Fakultet
+Databeskyttelsesret,KU - Det Juridiske Fakultet
+Drafting and Negotiating International Contracts,KU - Det Juridiske Fakultet
+EU Competition Law,KU - Det Juridiske Fakultet
+Entrepriseret (Byggeret),KU - Det Juridiske Fakultet
+Finansieringsret,KU - Det Juridiske Fakultet
+IT-ret,KU - Det Juridiske Fakultet
+Immaterialret,KU - Det Juridiske Fakultet
+Insolvensret,KU - Det Juridiske Fakultet
+International Criminal Law and Procedure.,KU - Det Juridiske Fakultet
+International Migration Law,KU - Det Juridiske Fakultet
+It-kontraktret,KU - Det Juridiske Fakultet
+Juridisk metode   argumentation,KU - Det Juridiske Fakultet
+Konfliktmægling (Mediation),KU - Det Juridiske Fakultet
+Latin for Jurister,KU - Det Juridiske Fakultet
+Legal English,KU - Det Juridiske Fakultet
+Legal Negotiation in Theory and Practice,KU - Det Juridiske Fakultet
+Mediation in Legal Contexts,KU - Det Juridiske Fakultet
+Medieret,KU - Det Juridiske Fakultet
+Peaceful Settlement of International Disputes,KU - Det Juridiske Fakultet
+Pensionsret,KU - Det Juridiske Fakultet
+Praktisk Aftaleret,KU - Det Juridiske Fakultet
+Selskabsret,KU - Det Juridiske Fakultet
+Skatteret (Obligatorisk),KU - Det Juridiske Fakultet
+Socialret,KU - Det Juridiske Fakultet
+Speciale - Jurastudiet,KU - Det Juridiske Fakultet
+Specialiseret erstatningsret,KU - Det Juridiske Fakultet
+Specialiseret familieret,KU - Det Juridiske Fakultet
+Specialstrafferet,KU - Det Juridiske Fakultet
+Straffeprocesret,KU - Det Juridiske Fakultet
+Straffuldbyrdelsesret,KU - Det Juridiske Fakultet
+Sundhedsret,KU - Det Juridiske Fakultet
+Udbudsret,KU - Det Juridiske Fakultet
+Udlændingeret,KU - Det Juridiske Fakultet
+Udvidet skatteret (obligatorisk),KU - Det Juridiske Fakultet
+Konfliktmægling (Master),KU - Det Juridiske Fakultet
+Politiskolen - Grundbøger,KU - Det Juridiske Fakultet
+Incentives and Regulation - agro.eco,KU - Det Natur- og Biovidenskabelige Fakultet
+Applied Environmental and Natural Resource-agri ec,KU - Det Natur- og Biovidenskabelige Fakultet
+Geographical Information Systems (GIS) agronom,KU - Det Natur- og Biovidenskabelige Fakultet
+Incentives and Regulation - agronom,KU - Det Natur- og Biovidenskabelige Fakultet
+Molecular Plant-Microbe Interactions - agronom,KU - Det Natur- og Biovidenskabelige Fakultet
+Cool Climate Viticulture and Enology,KU - Det Natur- og Biovidenskabelige Fakultet
+Working as a Consultant - agronom,KU - Det Natur- og Biovidenskabelige Fakultet
+Cellebiologi for biokemikere BIOKEMI,KU - Det Natur- og Biovidenskabelige Fakultet
+Almen biokemi 1 (BioK1) BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+"Feltbiologi I, II og III (Feltbio) BIOLOGI",KU - Det Natur- og Biovidenskabelige Fakultet
+Evolutionsbiologi BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Zoofysiologi (Zoofys) BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Botanik BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Cellular and Molecular Immunology BIO,KU - Det Natur- og Biovidenskabelige Fakultet
+Danmarks fauna - Hvirveldyr (DanFauna) BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags.. BIOLOG,KU - Det Natur- og Biovidenskabelige Fakultet
+Invasion Biology BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Mammalian Genomics BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Terrestrial Ecosystem Processes BIOLOGI,KU - Det Natur- og Biovidenskabelige Fakultet
+Mikrobiologi - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Organisk Kemi for biovidenskab - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Molekylær genetik - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Experimental Molecular Biology - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Dyrs og Planters Diversitet - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags  - biote,KU - Det Natur- og Biovidenskabelige Fakultet
+Almen Økologi (Økologi) - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Bioteknologiens videnskabsteori - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Analytical Chemistry - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Uorganisk kemi 2 (KemiU2) Biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Videregående plantebiologi - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Genetik - Biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Mammalian genomics,KU - Det Natur- og Biovidenskabelige Fakultet
+Analytical Chemistry biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt matematik for kemikere (AnvMatKem) biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Medical Bacteriology - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Molecular Plant-Microbe Interactions - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+"Sygdomslære, og farmakologi - biotek",KU - Det Natur- og Biovidenskabelige Fakultet
+Advanced Biotechnology and Intellectual Property R,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt spektroskopi ( AnvSPEK) - biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+"Feltbiologi I, II og III (Feltbio) biotek",KU - Det Natur- og Biovidenskabelige Fakultet
+Kemisk binding (KemiBin) biotek,KU - Det Natur- og Biovidenskabelige Fakultet
+Laboratory Animal Science  Function ABD -BIOTEK,KU - Det Natur- og Biovidenskabelige Fakultet
+Climate change mechanisms and tipping points cli.,KU - Det Natur- og Biovidenskabelige Fakultet
+Global Environmental Governance - cli.change,KU - Det Natur- og Biovidenskabelige Fakultet
+The Economics of Climate Change - climate change,KU - Det Natur- og Biovidenskabelige Fakultet
+Energy Systems and Climate Mitigation- CLI-CHA,KU - Det Natur- og Biovidenskabelige Fakultet
+Lineær algebra i datalogi (LinAlgDat) DAT,KU - Det Natur- og Biovidenskabelige Fakultet
+Implementering af programmeringssprog (IPS) DATA,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags.. DATA,KU - Det Natur- og Biovidenskabelige Fakultet
+Approximation Algorithms (APX) DATA,KU - Det Natur- og Biovidenskabelige Fakultet
+Lineær Algebra i Datalogi (LinAlgDat) MACHINE,KU - Det Natur- og Biovidenskabelige Fakultet
+Mikroøkonomi A (MikØkA) DAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Mikroøkonomi B (MikØkB) DAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Macroeconomics B (MakØkB) DAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Databases and Information Systems (DIS) DAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Geometri 1 (Geom1) FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Matematik F2 (MatF2) FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Kvantemekanik 2 (KM2) FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Statistisk Fysik (StatFys) FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Almen biokemi 1 (BioK1) FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Analyse 1 (An1) FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags.. FYSIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags.. KEMI,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt Spektroskopi (AnvSpek) KEMI,KU - Det Natur- og Biovidenskabelige Fakultet
+Kemisk binding (KemiBin) KEMI,KU - Det Natur- og Biovidenskabelige Fakultet
+Advanced Quantum Chemistry (KemiVK) KEMI,KU - Det Natur- og Biovidenskabelige Fakultet
+Molekylær statistik (MolStat) KEMI,KU - Det Natur- og Biovidenskabelige Fakultet
+Economic Valuation Methods & Cost-Benefit - env.na,KU - Det Natur- og Biovidenskabelige Fakultet
+Incentives and Regulation - env.nat rec,KU - Det Natur- og Biovidenskabelige Fakultet
+Applied Environmental and Natural Resource Env. na,KU - Det Natur- og Biovidenskabelige Fakultet
+Climate change mechanisms and tipping points agron,KU - Det Natur- og Biovidenskabelige Fakultet
+Environmental Epidemiology,KU - Det Natur- og Biovidenskabelige Fakultet
+Experimental Design and Statistical Methods env sc,KU - Det Natur- og Biovidenskabelige Fakultet
+Geographical Information Systems (GIS) env. sci,KU - Det Natur- og Biovidenskabelige Fakultet
+Global Environmental Governance-env. sci.,KU - Det Natur- og Biovidenskabelige Fakultet
+Natural Resource Sampling and Modelling-env.sci,KU - Det Natur- og Biovidenskabelige Fakultet
+The Economics of climate change - env. sci.,KU - Det Natur- og Biovidenskabelige Fakultet
+Ecological Modelling - env sci,KU - Det Natur- og Biovidenskabelige Fakultet
+Energy Systems and Climate Mitigation - ENV- SCI,KU - Det Natur- og Biovidenskabelige Fakultet
+Invasion Biology env sci,KU - Det Natur- og Biovidenskabelige Fakultet
+Terrestrial Ecosystem Processes and Glob -env. sci,KU - Det Natur- og Biovidenskabelige Fakultet
+Brewing Process and Technology,KU - Det Natur- og Biovidenskabelige Fakultet
+Brewing Project in Practice - FOOD,KU - Det Natur- og Biovidenskabelige Fakultet
+Beer and Packaging Technology,KU - Det Natur- og Biovidenskabelige Fakultet
+Cool Climate Viticulture and Enology - FOOD,KU - Det Natur- og Biovidenskabelige Fakultet
+Economic Valuation Methods & Cost-Benefit - forest,KU - Det Natur- og Biovidenskabelige Fakultet
+Global Environmental Governance-forest,KU - Det Natur- og Biovidenskabelige Fakultet
+Natural Resource Sampling and Modelling,KU - Det Natur- og Biovidenskabelige Fakultet
+Project Management - La,KU - Det Natur- og Biovidenskabelige Fakultet
+The Economics of climate change- Forest,KU - Det Natur- og Biovidenskabelige Fakultet
+Analyse 1 (An1) FORSIKRING,KU - Det Natur- og Biovidenskabelige Fakultet
+Forsikring og jura (Forsik&Jura1) FORSIKRING,KU - Det Natur- og Biovidenskabelige Fakultet
+Basic Non-Life Insurance Mathematics (Skade1) MAT,KU - Det Natur- og Biovidenskabelige Fakultet
+Matematisk statistik (MatStat) FORSIKRING,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundlæggende celle- og molekylærbiologi - fødevar,KU - Det Natur- og Biovidenskabelige Fakultet
+Organisk Kemi for biovidenskab - føde ern,KU - Det Natur- og Biovidenskabelige Fakultet
+Fødevarefremstilling og ernæring - fødevare-ern.,KU - Det Natur- og Biovidenskabelige Fakultet
+Exploratory Data Analysis / Chemometrics,KU - Det Natur- og Biovidenskabelige Fakultet
+Råvarekvalitet - fødevare,KU - Det Natur- og Biovidenskabelige Fakultet
+Fødevarekemi,KU - Det Natur- og Biovidenskabelige Fakultet
+Fødevarevidenskabsteori fød ern,KU - Det Natur- og Biovidenskabelige Fakultet
+"Sundhed,ernæring og livskvalitet A føde-ern",KU - Det Natur- og Biovidenskabelige Fakultet
+Analytical Chemistry - fød. ern,KU - Det Natur- og Biovidenskabelige Fakultet
+Indledende økonomi - fødevare,KU - Det Natur- og Biovidenskabelige Fakultet
+MIkrobiologi - føde ern.,KU - Det Natur- og Biovidenskabelige Fakultet
+"Sygdomslære, og farmakologi - fødevare",KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt spektroskopi ( AnvSPEK) fødevare. ern,KU - Det Natur- og Biovidenskabelige Fakultet
+By og regional udvikling,KU - Det Natur- og Biovidenskabelige Fakultet
+Problemorienteret projektarbejde,KU - Det Natur- og Biovidenskabelige Fakultet
+Kulturgeografisk feltkursus,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags.. GEO,KU - Det Natur- og Biovidenskabelige Fakultet
+Introduktion til remote sensing,KU - Det Natur- og Biovidenskabelige Fakultet
+Danmarks geologiske udvikling,KU - Det Natur- og Biovidenskabelige Fakultet
+Geologiske kort og strukturer,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt geofysik i geoscience,KU - Det Natur- og Biovidenskabelige Fakultet
+Aqueous geochemistry,KU - Det Natur- og Biovidenskabelige Fakultet
+Idrætsfagets videnskabsteori (VtIdr) IDRÆT,KU - Det Natur- og Biovidenskabelige Fakultet
+Idræt og bevægelse med udvalgte målgrupper IDRÆT,KU - Det Natur- og Biovidenskabelige Fakultet
+Motorisk udvikling og indlæring IDRÆT,KU - Det Natur- og Biovidenskabelige Fakultet
+Sustainable Food Systems and Diets- Int food,KU - Det Natur- og Biovidenskabelige Fakultet
+"Eu Law - Environment, Agriculture & Food - LA",KU - Det Natur- og Biovidenskabelige Fakultet
+Health Design -LA,KU - Det Natur- og Biovidenskabelige Fakultet
+Planlægning i det åbne land - La,KU - Det Natur- og Biovidenskabelige Fakultet
+Naturgrundlaget 2A -Vegetation og bioressourcer-la,KU - Det Natur- og Biovidenskabelige Fakultet
+Naturgrundlaget 2B - Vegetation og økologi,KU - Det Natur- og Biovidenskabelige Fakultet
+Beplantningsdesign  - LA,KU - Det Natur- og Biovidenskabelige Fakultet
+Databases and Information Systems (DIS) MACHINE,KU - Det Natur- og Biovidenskabelige Fakultet
+Analyse 1 (An1) MATEMATIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Geometri 1 (Geom1) MATEMATIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Grundkursus i de naturvidenskabelige fags.. MAT,KU - Det Natur- og Biovidenskabelige Fakultet
+Matematisk statistik (MatStat) MATEMATIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Introduction to Dynamical Systems MAT,KU - Det Natur- og Biovidenskabelige Fakultet
+Matematik i undervisningsmæ.. (UvMat) MATEMATIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Topology (Top) MATEMATIK,KU - Det Natur- og Biovidenskabelige Fakultet
+Algebraic Number Theory (AlgNT) MAT,KU - Det Natur- og Biovidenskabelige Fakultet
+Algebraic Topology 2 (AlgTop2) MAT,KU - Det Natur- og Biovidenskabelige Fakultet
+K-theory MAT,KU - Det Natur- og Biovidenskabelige Fakultet
+Analyse 1 (An1) MAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Mikroøkonomi 1 (MikØk1). MAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Matematisk statistik (MatStat) MAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Finance 2: Dynamic Portfolio (Fin2) MAT-ØK,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt Spektroskopi (AnvSpek) MEDKEM,KU - Det Natur- og Biovidenskabelige Fakultet
+Kemisk binding (KemiBin) MED CHEM,KU - Det Natur- og Biovidenskabelige Fakultet
+Lægemiddelmetabolisme og toksicitet MEDKEM,KU - Det Natur- og Biovidenskabelige Fakultet
+Produktionsøkonomi- JØ,KU - Det Natur- og Biovidenskabelige Fakultet
+Samfundsøkonomi - JØ,KU - Det Natur- og Biovidenskabelige Fakultet
+Development Economics - MIL-FØD,KU - Det Natur- og Biovidenskabelige Fakultet
+International economics -MIL FØD,KU - Det Natur- og Biovidenskabelige Fakultet
+Økonometri - JØ,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt spilteori - MILJØ FØD,KU - Det Natur- og Biovidenskabelige Fakultet
+Fagets videnskabsteori - økonomi - JØ,KU - Det Natur- og Biovidenskabelige Fakultet
+Cellular and Molecular Immunology MOL BIO,KU - Det Natur- og Biovidenskabelige Fakultet
+Signaltransduktion MOL BIO,KU - Det Natur- og Biovidenskabelige Fakultet
+Laboratory Animal Science Function ABD MOL BIO,KU - Det Natur- og Biovidenskabelige Fakultet
+Elektromagnetisme og elektronik (NanoF2) NANO,KU - Det Natur- og Biovidenskabelige Fakultet
+Elektrostatik og dataanalyse NANO,KU - Det Natur- og Biovidenskabelige Fakultet
+Mekanik for nanoscience,KU - Det Natur- og Biovidenskabelige Fakultet
+Advanced Quantum Chemistry (KemiVK) NANO,KU - Det Natur- og Biovidenskabelige Fakultet
+Kvantemekanik 2 (KM2) NANO,KU - Det Natur- og Biovidenskabelige Fakultet
+Molekylær statistik (MolStat) NANO,KU - Det Natur- og Biovidenskabelige Fakultet
+Statistisk Fysik (StatFys) NANO,KU - Det Natur- og Biovidenskabelige Fakultet
+Climate change mechanisms and tipping points nat.m,KU - Det Natur- og Biovidenskabelige Fakultet
+"Eu Law - Environment, Agriculture & Food nat man",KU - Det Natur- og Biovidenskabelige Fakultet
+Geographical Information Systems (GIS) nat man,KU - Det Natur- og Biovidenskabelige Fakultet
+Global Environmental Governance -nat.man,KU - Det Natur- og Biovidenskabelige Fakultet
+Planlægning i det åbne land,KU - Det Natur- og Biovidenskabelige Fakultet
+Indledende økonomi - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Dyrs og Planters Diversitet -NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Biokemi for naturressourcer - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Environmental and Natural Resource Economics - nt,KU - Det Natur- og Biovidenskabelige Fakultet
+Mikrobiologi NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Fagets videnskabsteori - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Økonometri - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Analytical Chemistry NT,KU - Det Natur- og Biovidenskabelige Fakultet
+"Eu Law - Environment, Agriculture & Food - NT",KU - Det Natur- og Biovidenskabelige Fakultet
+Fagets videnskabsteori - økonomi - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Geographical Information Systems (GIS)-  NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Samfundsøkonomi - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Videregående plantebiologi,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt spektroskopi ( AnvSPEK) - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Anvendt spilteori - NT',KU - Det Natur- og Biovidenskabelige Fakultet
+Botanik -NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Bæredygtig afgrødeproduktion,KU - Det Natur- og Biovidenskabelige Fakultet
+Development Economics - NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Genetik -  NT,KU - Det Natur- og Biovidenskabelige Fakultet
+International economics -NT,KU - Det Natur- og Biovidenskabelige Fakultet
+Økologi,KU - Det Natur- og Biovidenskabelige Fakultet
+Faghistorie,KU - Det Samfundsvidenskabelige fakultet
+Antropologisk projektdesign,KU - Det Samfundsvidenskabelige fakultet
+Economies of tech,KU - Det Samfundsvidenskabelige fakultet
+The anthropology of migration,KU - Det Samfundsvidenskabelige fakultet
+Biologisk psykologi & neuropsykologi,KU - Det Samfundsvidenskabelige fakultet
+Personlighedspsykologi,KU - Det Samfundsvidenskabelige fakultet
+Statistik og kvantitative forskningsdesign II,KU - Det Samfundsvidenskabelige fakultet
+Klinisk psykologi II,KU - Det Samfundsvidenskabelige fakultet
+Pædagogisk psykologi,KU - Det Samfundsvidenskabelige fakultet
+Udviklingpsykologi,KU - Det Samfundsvidenskabelige fakultet
+Videregående anvendt teori og metode,KU - Det Samfundsvidenskabelige fakultet
+Fænomenologisk metode,KU - Det Samfundsvidenskabelige fakultet
+Klinisk psykologisk forskningsmetode,KU - Det Samfundsvidenskabelige fakultet
+Kvantitativ metode: Fra idé til analyse,KU - Det Samfundsvidenskabelige fakultet
+S2: Børneneuropsykologi,KU - Det Samfundsvidenskabelige fakultet
+Praktikanalyse A&O v. Janne Skakon,KU - Det Samfundsvidenskabelige fakultet
+Praktikanalyse KLINISK v. Birgit Jørgensen,KU - Det Samfundsvidenskabelige fakultet
+Praktikanalyse KLINISK v. Dea Siggaard Stenbæk,KU - Det Samfundsvidenskabelige fakultet
+Praktikanalyse KLINISK v. Jan Nielsen,KU - Det Samfundsvidenskabelige fakultet
+Praktikanalyse SUI v. Pernille Strøbæk,KU - Det Samfundsvidenskabelige fakultet
+Autisme og neurodiversitet,KU - Det Samfundsvidenskabelige fakultet
+Forståelser af stress og interventioner mod stress,KU - Det Samfundsvidenskabelige fakultet
+Impact by design,KU - Det Samfundsvidenskabelige fakultet
+Krop og psyke,KU - Det Samfundsvidenskabelige fakultet
+Løsningsfokuseret procesfacilitering i praksis,KU - Det Samfundsvidenskabelige fakultet
+Mentaliseringsinspireret og kontekstuelt arbejde,KU - Det Samfundsvidenskabelige fakultet
+Parforholdets psykologi,KU - Det Samfundsvidenskabelige fakultet
+Psykoanalysens teori og praksis,KU - Det Samfundsvidenskabelige fakultet
+Psykologiformidling,KU - Det Samfundsvidenskabelige fakultet
+Psykotraumatologi,KU - Det Samfundsvidenskabelige fakultet
+Socialisationsteori,KU - Det Samfundsvidenskabelige fakultet
+Supervision i teori og praksis,KU - Det Samfundsvidenskabelige fakultet
+The feeling of being,KU - Det Samfundsvidenskabelige fakultet
+Metode 1,KU - Det Samfundsvidenskabelige fakultet
+Politisk teori 2,KU - Det Samfundsvidenskabelige fakultet
+Sociologi 1,KU - Det Samfundsvidenskabelige fakultet
+International politik 2,KU - Det Samfundsvidenskabelige fakultet
+International politik 3,KU - Det Samfundsvidenskabelige fakultet
+Økonomi 2,KU - Det Samfundsvidenskabelige fakultet
+50 years of global environmental governance,KU - Det Samfundsvidenskabelige fakultet
+Analysing public policy,KU - Det Samfundsvidenskabelige fakultet
+Dansk udenrigspolitik: Teori og empiri,KU - Det Samfundsvidenskabelige fakultet
+Demokratiet i en klimakrise,KU - Det Samfundsvidenskabelige fakultet
+"Forgiveness, reconciliation, and apology in ...",KU - Det Samfundsvidenskabelige fakultet
+Hvad er juraen i international politik?,KU - Det Samfundsvidenskabelige fakultet
+Jean Monnet course: The EU as an international act,KU - Det Samfundsvidenskabelige fakultet
+Kvalitativ metode,KU - Det Samfundsvidenskabelige fakultet
+Marx i det 21.århundrede,KU - Det Samfundsvidenskabelige fakultet
+"Political advocacy, lobbying and the influence..",KU - Det Samfundsvidenskabelige fakultet
+Politologisk projektdesign,KU - Det Samfundsvidenskabelige fakultet
+Populism and the struggle for recognition,KU - Det Samfundsvidenskabelige fakultet
+Propaganda and disinformation on social media,KU - Det Samfundsvidenskabelige fakultet
+Psykologisk bias i offentlig forvaltning,KU - Det Samfundsvidenskabelige fakultet
+Securitization theory and its critics,KU - Det Samfundsvidenskabelige fakultet
+"Security, uncertainty and politics of complexity",KU - Det Samfundsvidenskabelige fakultet
+Statistical models beyond linear regression,KU - Det Samfundsvidenskabelige fakultet
+Theories of political representation,KU - Det Samfundsvidenskabelige fakultet
+Transnationalism in global climate politics,KU - Det Samfundsvidenskabelige fakultet
+Basic statistics,KU - Det Samfundsvidenskabelige fakultet
+Nyere statistiske analysestrategier,KU - Det Samfundsvidenskabelige fakultet
+Sociologisk teori og faghistorie,KU - Det Samfundsvidenskabelige fakultet
+Videnskab og samfund,KU - Det Samfundsvidenskabelige fakultet
+Kritisk læsning og re-analyse,KU - Det Samfundsvidenskabelige fakultet
+Sociologiske teoriudviklinger,KU - Det Samfundsvidenskabelige fakultet
+"Viden, organisation og politik",KU - Det Samfundsvidenskabelige fakultet
+Anvendt case-analyse,KU - Det Samfundsvidenskabelige fakultet
+Metodologi og undersøgelsesdesign,KU - Det Samfundsvidenskabelige fakultet
+Critical theory,KU - Det Samfundsvidenskabelige fakultet
+Experimental sociology,KU - Det Samfundsvidenskabelige fakultet
+Sociologisk projektdesign,KU - Det Samfundsvidenskabelige fakultet
+Offentlig politik,KU - Det Samfundsvidenskabelige fakultet
+"Forgiveness, reconciliation, and apology in...",KU - Det Samfundsvidenskabelige fakultet
+Jean Monnet Course: The EU as an international act,KU - Det Samfundsvidenskabelige fakultet
+"Political advocacy, lobbying and the influence...",KU - Det Samfundsvidenskabelige fakultet
+Erhvervsøkonomi,KU - Det Samfundsvidenskabelige fakultet
+Matematik B,KU - Det Samfundsvidenskabelige fakultet
+Samfundsbeskrivelse B,KU - Det Samfundsvidenskabelige fakultet
+Økonomiske principper B,KU - Det Samfundsvidenskabelige fakultet
+Makroøkonomi II,KU - Det Samfundsvidenskabelige fakultet
+Mikroøkonomi II,KU - Det Samfundsvidenskabelige fakultet
+Videnskabsteori for økonomer,KU - Det Samfundsvidenskabelige fakultet
+Økonometri I,KU - Det Samfundsvidenskabelige fakultet
+Økonomisk historie,KU - Det Samfundsvidenskabelige fakultet
+Anvendt økonomi med konsulentmetode,KU - Det Samfundsvidenskabelige fakultet
+Strategisk ledelse,KU - Det Samfundsvidenskabelige fakultet
+Topics in sovereign debt,KU - Det Samfundsvidenskabelige fakultet
+Advanced development economics - micro aspects,KU - Det Samfundsvidenskabelige fakultet
+Advanced empirical finance,KU - Det Samfundsvidenskabelige fakultet
+Advanced macroeconomics: Business cycles,KU - Det Samfundsvidenskabelige fakultet
+Advanced strategic management,KU - Det Samfundsvidenskabelige fakultet
+Analyse og dynamisk optimering,KU - Det Samfundsvidenskabelige fakultet
+Applied econometric policy evaluation,KU - Det Samfundsvidenskabelige fakultet
+Demography,KU - Det Samfundsvidenskabelige fakultet
+Development economics,KU - Det Samfundsvidenskabelige fakultet
+Econometrics II,KU - Det Samfundsvidenskabelige fakultet
+Economic sociology,KU - Det Samfundsvidenskabelige fakultet
+Economics of banking,KU - Det Samfundsvidenskabelige fakultet
+Economics of the environment and climate change,KU - Det Samfundsvidenskabelige fakultet
+Erhvervsret,KU - Det Samfundsvidenskabelige fakultet
+Field experiments,KU - Det Samfundsvidenskabelige fakultet
+Health economic evaluations,KU - Det Samfundsvidenskabelige fakultet
+Industrial organization,KU - Det Samfundsvidenskabelige fakultet
+International economics,KU - Det Samfundsvidenskabelige fakultet
+Pricing financial assets,KU - Det Samfundsvidenskabelige fakultet
+Tax policy,KU - Det Samfundsvidenskabelige fakultet
+Quantitative Genomics and Breeding-ANI SCI,KU - Det Sundhedsvidenskabelige Fakultet
+Lægemiddelmetabolisme og toksicitet FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Farmaceutisk biologi FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Farmaceutisk fysisk kemi I - thermodynamik... FARM,KU - Det Sundhedsvidenskabelige Fakultet
+Kvalitetsvurdering af farmaceutiske råvarer FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Organisk kemi II FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Farmaceutisk analytisk kemi FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Farmaci I - flydende og halv-faste læge.. FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Organfarmakologi FARMA,KU - Det Sundhedsvidenskabelige Fakultet
+Epidemiologi 2,KU - Det Sundhedsvidenskabelige Fakultet
+Statistik,KU - Det Sundhedsvidenskabelige Fakultet
+Sygdomslære for ikke-klinikere,KU - Det Sundhedsvidenskabelige Fakultet
+Miljø og bæredygtighed,KU - Det Sundhedsvidenskabelige Fakultet
+Sundhedsøkonomi,KU - Det Sundhedsvidenskabelige Fakultet
+Forvaltningslære og forvaltningsret,KU - Det Sundhedsvidenskabelige Fakultet
+Epidemiology (PH.D),KU - Det Sundhedsvidenskabelige Fakultet
+Perinatal and early life epidemiology,KU - Det Sundhedsvidenskabelige Fakultet
+Reproductive technologies and family ties,KU - Det Sundhedsvidenskabelige Fakultet
+Sundhedsprofessioner i forandring,KU - Det Sundhedsvidenskabelige Fakultet
+Pharmacology and Toxicology HUM BIO,KU - Det Sundhedsvidenskabelige Fakultet
+Course in Laboratory Animal Science HUMBIO,KU - Det Sundhedsvidenskabelige Fakultet
+Kemi (KemiBio) - husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Mikrobiologi - husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Introduktion til Erhvervsøkonomi - Husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Sundhed og Velfærd,KU - Det Sundhedsvidenskabelige Fakultet
+Sundhed og Velfærd - HUSDYR,KU - Det Sundhedsvidenskabelige Fakultet
+Dyrs ernæring og præstation - husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Produktionsøkonomi - husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Råvarekvalitet - husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Bæredygtig afgrødeproduktion,KU - Det Sundhedsvidenskabelige Fakultet
+Dyrs livsformer og funktion -husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Genetik - Husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Skin Immunology IMMUNOLOGY,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i basal humanbiologi og cellens kemiske kom,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i tidlig patientkontakt og førstehjælp MED,KU - Det Sundhedsvidenskabelige Fakultet
+Boghandleren anbefaler også disse:,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i excitable celler MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i medicinsk celle- og vævsbiologi MED,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i medicinsk genetik MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i medicinsk psykologi og sundhedspsykologi,KU - Det Sundhedsvidenskabelige Fakultet
+"Kursus i hoved,hals,bevægeapparatet MED",KU - Det Sundhedsvidenskabelige Fakultet
+Tidlig klinisk ophold MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+"Kursus i mave, tarm og lever MEDICIN",KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i medicinsk etik og filosofi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Forberedende kursus i bachelorprojekt MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i basal farmakologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i basal patologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+"Kursus i endokrinologi, reproduktion og blod",KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i immunologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i nyrer- og urinveje MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+CAMES: Ultralydsskanning og ledundersøgelse,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i diagnostiske fag MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Mikrobiologisk øvelseskursus MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Tema A: Mikrobiologi,KU - Det Sundhedsvidenskabelige Fakultet
+Tema C: Endokrinologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Grundlæggende klinik inkl. CAMES MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+"Tema G, Gastroenterologi MEDICIN",KU - Det Sundhedsvidenskabelige Fakultet
+Tema H:Nefro-urologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+CAMES: Kommunikation & stuegang/fællesundervisning,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i anæstesiologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i intern medicin MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i kirurgi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i oftalmologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i arbejds- og miljømedicin MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+"SEMS, statistik, epidimiologi... MEDICIN",KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i neurologi og neurokirurgi,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i socialmedicin og rehab.. MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i retsmedicin,KU - Det Sundhedsvidenskabelige Fakultet
+Psykiatri inklusive børne- og unge... MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i basal og klinisk sexologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i etiske dilemmaer indenfor medicin MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i gerontologi MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus og eksamen i klinisk beslutningslære,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i almen medicin MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i gynækologi og obstetrik MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk kursus i pædiatri MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i akut patient MEDICIN,KU - Det Sundhedsvidenskabelige Fakultet
+Anvendt Spektroskopi (AnvSpek) MEDKEM,KU - Det Sundhedsvidenskabelige Fakultet
+Kemisk binding (KemiBin) MED CHEM,KU - Det Sundhedsvidenskabelige Fakultet
+Lægemiddelmetabolisme og toksicitet MEDKEM,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i excitable celler ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i medicinsk celle- og vævsbiologi ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Tændernes udvikling og struktur ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Biokemi ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i klinisk introduktion ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i oral mikrobiologi ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i sundhedsinformatik ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Præklinisk kursus i materialelære... ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Radiologi 1 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Studium Generale ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Klinisk oral fysiologi 2 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i basal endodonti ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i basal parodontologi 2 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i indirekte enkelttandsrestaureringer ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i plastiske restaureringer 2 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+"Cariologi, plastiske restaureringer....  ODONT",KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i oral kirurgi 1 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i oral rehabilitering 2 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i pædodonti og klinisk genetik 1 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i udvidet parodontologi 2 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Oral Patologi og medicin 1 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Regenerativ parodontalkirurgi (valgfag) ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i oral kirurgi 3 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Kursus i samfunds- og retsodontologi ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Oral patologi og medicin 3 ODONT,KU - Det Sundhedsvidenskabelige Fakultet
+Epidemiologi SUNDHED OG INFO,KU - Det Sundhedsvidenskabelige Fakultet
+Organisationsanalyse SUNDHED OG INFO,KU - Det Sundhedsvidenskabelige Fakultet
+Kvantitative & kvalitative undersøge.. SUNDHED,KU - Det Sundhedsvidenskabelige Fakultet
+"Sygdomslære for ikke-klinikere, SUNDHED & INFO",KU - Det Sundhedsvidenskabelige Fakultet
+Kvalitative metoder.,KU - Det Sundhedsvidenskabelige Fakultet
+Forandringsledelse i sundhedsvæsenet,KU - Det Sundhedsvidenskabelige Fakultet
+"Psykologi, sundhedspsykologi: SUNDFAG KAND",KU - Det Sundhedsvidenskabelige Fakultet
+Basislitteratur Grundforløb TANDKLINIKASS.,KU - Det Sundhedsvidenskabelige Fakultet
+Basislitteratur Hovedforløb - Tandklinikass. SKT,KU - Det Sundhedsvidenskabelige Fakultet
+Specialevalgfag Hovedforløb TANDKLINIKASS.,KU - Det Sundhedsvidenskabelige Fakultet
+Oral radiologi TANDPLEJE,KU - Det Sundhedsvidenskabelige Fakultet
+"Sundhedsfremme, forebyggelse og relationer TANDPLE",KU - Det Sundhedsvidenskabelige Fakultet
+Tandpleje 1   Grundlæggende klinisk virksomhed,KU - Det Sundhedsvidenskabelige Fakultet
+Videnskabsteori og metode TANDPLEJE,KU - Det Sundhedsvidenskabelige Fakultet
+Tandpleje Modul 11,KU - Det Sundhedsvidenskabelige Fakultet
+Tandpleje Modul 7,KU - Det Sundhedsvidenskabelige Fakultet
+Tandpleje Modul 8,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinær genetik - vet.,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinær Anatomi og fysiologi - 2 VET,KU - Det Sundhedsvidenskabelige Fakultet
+Basal Statistik og Epidemiologi,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinær farmakologi og toksikologi - Vet,KU - Det Sundhedsvidenskabelige Fakultet
+Mikrobiel fødevaresikkerhed - VET,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinær farmakologi og toksikologi VET,KU - Det Sundhedsvidenskabelige Fakultet
+Anvendt Etologi,KU - Det Sundhedsvidenskabelige Fakultet
+Basal klinisk teori hos store husdyr,KU - Det Sundhedsvidenskabelige Fakultet
+Retsmedicin og Forsøgsdyrskundskab,KU - Det Sundhedsvidenskabelige Fakultet
+Speciel patologi og fjerkræsygdomme - Praktisk vet,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinær retsmedicin og dyrevelfærdsvurdering-VET,KU - Det Sundhedsvidenskabelige Fakultet
+Besætningsrådgivning og Veterinær Folkesundhed,KU - Det Sundhedsvidenskabelige Fakultet
+"Akutmedicin, obstetrik, intensiv terapi og kl. vet",KU - Det Sundhedsvidenskabelige Fakultet
+Biomedicine - VET,KU - Det Sundhedsvidenskabelige Fakultet
+Hestedifferentiering - klinisk praksis -VET,KU - Det Sundhedsvidenskabelige Fakultet
+Laboratory Animal Science  Function ABD -VET,KU - Det Sundhedsvidenskabelige Fakultet
+Praktisk besætningsrådgivning og kødkontrol - VET,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinary Paraclinics -VET,KU - Det Sundhedsvidenskabelige Fakultet
+Veterinary imaging -VET,KU - Det Sundhedsvidenskabelige Fakultet
+BA-2. semester: Etik og Religionsfilosofi 1,KU - Det Teologiske Fakultet
+"BA-4. semester: Hebraisk 1 - Hold A, B",KU - Det Teologiske Fakultet
+BA-4. semester: Kirke- og Teologihistorie 2 - B,KU - Det Teologiske Fakultet
+BA-6. semester: Det Gamle Testamentes Eksegese 1,KU - Det Teologiske Fakultet
+BA-6. semester: Dogmatik med Økumenisk Teologi 2 -,KU - Det Teologiske Fakultet
+VF Philosophy of Mental Health,KU - Det Teologiske Fakultet
+Politiskolen - Grundbøger,Politiskolen
+Course 4 - Finance HA/Business Adm.,RUC
+FMK 3C International Institutions & Global Governa,RUC
+Videnskabsteori og kvalitativmetode - Sommerskole,RUC
+"FMK 2, B1 Social Risici, frygt og tryghed",RUC
+Strategy and Competition,SDU – Esbjerg
+Matematik og statistik,SDU – Esbjerg
+EU-ret(ESB),SDU – Esbjerg
+Formueret(ESB),SDU – Esbjerg
+Boghandleren anbefaler også disse:,SDU – Esbjerg
+Quantitative Market Research Methods,SDU – Esbjerg
+Systematic Development of Interventions,SDU – Esbjerg
+"K3: Fordøjelseskanalen, ernæring og metabolisme",SDU – Esbjerg
+"K4: Kommunikation 1, tilknyttet medicinsk og kirur",SDU – Esbjerg
+"K8: Kvinde, mor og barn",SDU – Esbjerg
+Offentlig forvaltning,SDU – Esbjerg
+Statistik(BA ESB),SDU – Esbjerg
+Antropologisk feltarbejde,SDU – Esbjerg
+Kultursociologiske tematikker,SDU – Esbjerg
+Project planning,SDU – Esbjerg
+Marketing,SDU – HA – alle byer
+Matematik og statistik,SDU – HA – alle byer
+Virksomhedens IT værktøjer,SDU – HA – alle byer
+Erhvervsjura,SDU – HA – alle byer
+Regnskab ekstern del,SDU – HA – alle byer
+Videregående kvantitative analyser,SDU – HA – alle byer
+Strategi,SDU – HA – alle byer
+Videregående kvantitative analalyse,SDU – HA – alle byer
+Videregående kvantitaive analyse,SDU – HA – alle byer
+Virksomhedens informationssystemer,SDU – HA – alle byer
+Boghandleren anbefaler også disse:,SDU – HA – alle byer
+Kvalitative metoder og vidensproduktion,SDU – HA – alle byer
+Regnskab,SDU – HA – alle byer
+Human Resource Management,SDU – HA – alle byer
+Erhversvjura,SDU – HA – alle byer
+International Business(HA international business),SDU – HA – alle byer
+Tinglysning (HA-JUR),SDU – HA – alle byer
+Eu-ret,SDU – HA – alle byer
+Kreditsikring og civil tvangsfuldbyrdelse,SDU – HA – alle byer
+Selskabsret,SDU – HA – alle byer
+Obligationsret,SDU – HA – alle byer
+Brand Management and Marketing Communication,SDU – HA – alle byer
+Organisationsforståelse og -kulturanalyse,SDU – HA – alle byer
+Dataanalyse,SDU – HD – alle byer
+Erhvervsøkonomisk metode,SDU – HD – alle byer
+Virksomhedens finansielle planlægning,SDU – HD – alle byer
+Boghandleren anbefaler også disse:,SDU – HD – alle byer
+Digitalisering i en forretningsmæssig kontekst,SDU – HD – alle byer
+Forhandlingsteknik,SDU – HD – alle byer
+Serviceøkonomi,SDU – HD – alle byer
+Videregående erhvervsret,SDU – HD – alle byer
+Professionel rådgivning og salg,SDU – HD – alle byer
+Beslutningsprocesser(HDO),SDU – HD – alle byer
+Strategisk ledelse(HDO),SDU – HD – alle byer
+Forandringsledelse,SDU – HD – alle byer
+Projektledelse HDO valgfag,SDU – HD – alle byer
+Skatteret(HDR),SDU – HD – alle byer
+Økonomistyring(HDR),SDU – HD – alle byer
+American Business,SDU – Humaniora
+American Politics,SDU – Humaniora
+Temaer i Amerikansk litteratur og kultur,SDU – Humaniora
+Communicating American Studies,SDU – Humaniora
+American Business and Society,SDU – Humaniora
+Perspectives in American Studies,SDU – Humaniora
+Conspiracy America,SDU – Humaniora
+Psykologi for Audiologopæderne,SDU – Humaniora
+Sprog- og talevanskeligheder hos voksne personer m,SDU – Humaniora
+Sprogtilegnelse,SDU – Humaniora
+Stemmelidelser,SDU – Humaniora
+Alternativ og supplerende kommunikation,SDU – Humaniora
+Faglig kvalitetssikring i Audiologopædien,SDU – Humaniora
+Dansk litteraturhistorie,SDU – Humaniora
+Historisk læsning 4,SDU – Humaniora
+Skandinavisk litteratur,SDU – Humaniora
+Tekstproduktion 2,SDU – Humaniora
+Den engelsksprogede verdens moderne historie,SDU – Humaniora
+Engelsk grammatik,SDU – Humaniora
+Litteratur i tid og rum,SDU – Humaniora
+"Litteratur, kultur, medier",SDU – Humaniora
+History Workshop(Engelskstudiet),SDU – Humaniora
+Videregående studier i den engelsksprogede verdens,SDU – Humaniora
+Bestsellers,SDU – Humaniora
+Metafysik og erkendelsesteori,SDU – Humaniora
+Tidlig moderne filosofi 1500-1750,SDU – Humaniora
+Europa i verden 2,SDU – Humaniora
+Historiografi,SDU – Humaniora
+Historisk Metode 2,SDU – Humaniora
+"Område 4 Holocaust: forløb, årsager",SDU – Humaniora
+Område 4 Tiggerordenerene,SDU – Humaniora
+Område 5 Amerikanske forbindelser,SDU – Humaniora
+Videnskabsteori II,SDU – Humaniora
+"Kandidatområde K1/3 Danmark frit, besat og befriet",SDU – Humaniora
+Neolibralismens tidsalder,SDU – Humaniora
+Analysemetoder i anvendt sprogvidenskab,SDU – Humaniora
+Kulturanalyse i pædagogisk praksis,SDU – Humaniora
+Sprogbeskrivelse(Dansk som andetsprog),SDU – Humaniora
+Sprogvidenskab 2,SDU – Humaniora
+Digital kommunikation og markedsføring,SDU – Humaniora
+Medieteori II: Digital kommunikation (IVK),SDU – Humaniora
+Visuel analyse og design,SDU – Humaniora
+English Business Writing and The Discourse of Orga,SDU – Humaniora
+Interkulturel kommunikation,SDU – Humaniora
+Medieteori 3,SDU – Humaniora
+Metode og undersøgelsesdesign I(IVK),SDU – Humaniora
+Kommunikationsprojekt,SDU – Humaniora
+Kommunikations- og kampagneplanlægning,SDU – Humaniora
+Organizational communication in practice,SDU – Humaniora
+Strategic Writing and Communication,SDU – Humaniora
+Multimodal tekstforfatning,SDU – Humaniora
+Litteratur og kulturhistorie efter 1700,SDU – Humaniora
+Litterær analyse - epik,SDU – Humaniora
+Litterær periode 1,SDU – Humaniora
+"Litteratur, teknologi og medier",SDU – Humaniora
+Litterær periode 3: Victoriansk litteratur,SDU – Humaniora
+Redaktion(KRoF),SDU – Humaniora
+Manuskriptskrivning,SDU – Humaniora
+"Medieteori 3 Tværmedialitet, interaktivitet og",SDU – Humaniora
+Medieteori II Digital kommunikation,SDU – Humaniora
+Metode og undersøgelsesdesign I,SDU – Humaniora
+Metode og undersøgelsesdesign II Kvalitative metod,SDU – Humaniora
+Manuskriptudvikling til serielle formater,SDU – Humaniora
+Vidensproduktion i det digitale samfund,SDU – Humaniora
+Economics and Resources in the Middle East,SDU – Humaniora
+Ancient History and Society: The Hellenistic and R,SDU – Humaniora
+Introduktion til klassisk arkæologi,SDU – Humaniora
+Talentlatin II,SDU – Humaniora
+Vidensformer i pædagogisk arbejde,SDU – Humaniora
+Førmoderne kristendom,SDU – Humaniora
+Islam F24,SDU – Humaniora
+Originalsprogsbaseret emne,SDU – Humaniora
+Religiøse tekster - læsning og analyse,SDU – Humaniora
+Særligt studeret område Sekter og nye religioner,SDU – Humaniora
+Indføring i sprog og kulturvidenskab 2,SDU – Humaniora
+Litterært emnefag,SDU – Humaniora
+Sproglig forandring og variation,SDU – Humaniora
+It-pædagogik,SDU – Kolding
+Projektledelse,SDU – Kolding
+Opklaring af besvigelser,SDU – Kolding
+Produktionsstyring,SDU – Kolding
+Strategi,SDU – Kolding
+Forretningsudvikling i et økonomisk perspektiv,SDU – Kolding
+Innovation,SDU – Kolding
+Professionel rådgivning og salg,SDU – Kolding
+Regnskab II (CMA),SDU – Kolding
+Revision II,SDU – Kolding
+Skatteret II,SDU – Kolding
+Generationsskifte og omstrukturering i juridisk be,SDU – Kolding
+Boghandleren anbefaler også disse:,SDU – Kolding
+Aktuelle tendenser i dansk designkultur(6.sem),SDU – Kolding
+Projektudvikling og videnstransfer,SDU – Kolding
+Kulturanalyse i design og mode,SDU – Kolding
+Aktuelle tendenser i dansk designkultur(2.sem),SDU – Kolding
+Digital kommunikation (Kolding),SDU – Kolding
+International markedsanalyse og kommunikation,SDU – Kolding
+Market conditions and market communication,SDU – Kolding
+Moderne offentlig ledelse(MPQM),SDU – Master
+Sundhedsjura,SDU – Master
+Etisk lederskab,SDU – Master
+Introduktion til Master i offentlig ledelse,SDU – Master
+Metode(FMOL),SDU – Master
+Offentlig økonomistyring (FMOL),SDU – Master
+Organisationsteori,SDU – Master
+Strategisk kommunikation,SDU – Master
+Ledelse i ledelsesteams,SDU – Master
+Ledelse i politisk ledede organisationer,SDU – Master
+Camp: Program og porteføljeledelse,SDU – Master
+Innovation Strategy and Business Model Development,SDU – Master
+Forandringsledelse(MPI),SDU – Master
+Personaleledelse(MPI),SDU – Master
+Projektforløb,SDU – Master
+Markedsrelationer,SDU – Master
+Metodeprojekt,SDU – Master
+Personaleledelse,SDU – Master
+"Decision, Persuasion, and Negotiation",SDU – Master
+Forandringsledelse(MBA),SDU – Master
+Økonomistyring(MBA),SDU – Master
+Ledelse af ledere,SDU – Master
+"Ledelse: Incitamenter, motivation og normer",SDU – Master
+Nye Organisationsformer i den offentlige sektor,SDU – Master
+Udvikling af personlig ledelse,SDU – Master
+I politikkens vold: Offentlige lederes vilkår og m,SDU – Master
+MM533 Matematisk og numerisk analyse,SDU – Naturvidenskab
+MM541 Kombinatorisk matematik,SDU – Naturvidenskab
+DM507 Algoritmer og Datastrukturer (anv mat),SDU – Naturvidenskab
+BMB507: Fundamental mikrobiologi,SDU – Naturvidenskab
+BMB508 Advanced Molecular Biology,SDU – Naturvidenskab
+BMB536 Metabolsk og hormonel regulering,SDU – Naturvidenskab
+KE505 Organisk kemi (BMB),SDU – Naturvidenskab
+ST520 Anvendt statistik BMB,SDU – Naturvidenskab
+BMB847 Bakteriel molekylær genetik,SDU – Naturvidenskab
+BMB848 Avanceret molekylær mikrobiologi,SDU – Naturvidenskab
+FY528 Fysik for Biologi og Farmaci (BB),SDU – Naturvidenskab
+KE535 Kemi for biologer (BB),SDU – Naturvidenskab
+BB509 Mikrobiologi,SDU – Naturvidenskab
+BB511 Zoofysiologi,SDU – Naturvidenskab
+ST520 Anvendt statistik BB,SDU – Naturvidenskab
+BB855,SDU – Naturvidenskab
+BMB547 Molekylær Data Science (biomedicin),SDU – Naturvidenskab
+BMB550 Eksperimental Life Science (biomedicin),SDU – Naturvidenskab
+BMB531: Sygdomme hos mennesket,SDU – Naturvidenskab
+BMB546: Cellulær udvikling,SDU – Naturvidenskab
+BMB507 Fundamental mikrobiologi,SDU – Naturvidenskab
+ST520 Anvendt statistik Biomedicin,SDU – Naturvidenskab
+SU503 Farmakologi A (biomedicin),SDU – Naturvidenskab
+AI501 - Introduktion til Kunstig intelligens (DA),SDU – Naturvidenskab
+DM507 Algoritmer og Datastrukturer/DS814 (datalogi,SDU – Naturvidenskab
+DM575 Objektorienteret Programmering,SDU – Naturvidenskab
+DM576 Databasesystemer,SDU – Naturvidenskab
+DM510 Operativsystemer,SDU – Naturvidenskab
+DM584 Concurrent Programming,SDU – Naturvidenskab
+DM505 Databasedesign og -programmering,SDU – Naturvidenskab
+DM879 Kunstig Intelligens(KA),SDU – Naturvidenskab
+DM881 Informatikkens videnskabsteori,SDU – Naturvidenskab
+DS806 Databasesystemer,SDU – Naturvidenskab
+BMB528 Mikrobiologi for farmaci,SDU – Naturvidenskab
+FA508 Farmaceutisk Biologi,SDU – Naturvidenskab
+FY528 Fysik for Biologi og Farmaci (FA),SDU – Naturvidenskab
+KE505 Organisk kemi (farmaci),SDU – Naturvidenskab
+SU519 Fysiologi og Farmakologi,SDU – Naturvidenskab
+KE814 Videregående organisk syntese,SDU – Naturvidenskab
+FT505 Digital Elektronik og Programmering,SDU – Naturvidenskab
+FY537:Grundlæggende astronomi,SDU – Naturvidenskab
+FY549 Elektrodynamik,SDU – Naturvidenskab
+FY550 Statistisk fysik,SDU – Naturvidenskab
+FY545 Partikelfysik,SDU – Naturvidenskab
+FY535 Informationsteori inferens,SDU – Naturvidenskab
+FY833 Biofysik,SDU – Naturvidenskab
+KE505 Organisk kemi (kemi under FKF),SDU – Naturvidenskab
+MM572 Matematik for kemi,SDU – Naturvidenskab
+KE525 Uorganisk kemi A,SDU – Naturvidenskab
+KE541: Introduktion til lægemiddelformulering og f,SDU – Naturvidenskab
+KE518/814,SDU – Naturvidenskab
+KE553 Heterocyklisk kemi,SDU – Naturvidenskab
+KE835,SDU – Naturvidenskab
+KE812 Kemiske undervisningsforsøg,SDU – Naturvidenskab
+AI501 - Introduktion til Kunstig intelligens (AI),SDU – Naturvidenskab
+DM575 Objektorienteret Programmering (AI),SDU – Naturvidenskab
+DM576 Databasesystemer (AI),SDU – Naturvidenskab
+DM578 Algoritmer og Datastrukturer (AI),SDU – Naturvidenskab
+MM549: Topologi og Kompleks Analyse,SDU – Naturvidenskab
+MM570: Gruppe-teori,SDU – Naturvidenskab
+MM517/MM543/MM548,SDU – Naturvidenskab
+DM553/MM850 Complexity and Computability,SDU – Naturvidenskab
+ST818 Insurance Statistics,SDU – Naturvidenskab
+MM573 Metriske rum,SDU – Naturvidenskab
+MM533 Matematisk og numerisk analyse (MatØ),SDU – Naturvidenskab
+DM507 Algoritmer og Datastrukturer (MatØ),SDU – Naturvidenskab
+NAT818 Projektledelse i naturvidenskab,SDU – Naturvidenskab
+Corporate Strategy and Organization Design,SDU – Samfundsvidenskab
+Consumption Studies,SDU – Samfundsvidenskab
+Issues of Global Development,SDU – Samfundsvidenskab
+Corporate Communication,SDU – Samfundsvidenskab
+Amerikanske studier,SDU – Samfundsvidenskab
+Markedsanalyse,SDU – Samfundsvidenskab
+Forhandlingsteori og -træning (Engelsk),SDU – Samfundsvidenskab
+Advanced Economic Evaluation,SDU – Samfundsvidenskab
+Journalistisk Håndværk og Mediesprog 2,SDU – Samfundsvidenskab
+Research og analyse 2,SDU – Samfundsvidenskab
+Journalistikkens Virkeområder,SDU – Samfundsvidenskab
+Journalistisk håndværk og Mediesprog 4,SDU – Samfundsvidenskab
+Klar til praktik,SDU – Samfundsvidenskab
+Mediejura for journalister,SDU – Samfundsvidenskab
+Fortællende journalistik,SDU – Samfundsvidenskab
+Klimajournalistik,SDU – Samfundsvidenskab
+Mediesprog B,SDU – Samfundsvidenskab
+Business Analytics: Data Driven Decision Making,SDU – Samfundsvidenskab
+Asset Pricing,SDU – Samfundsvidenskab
+Industrial Organization,SDU – Samfundsvidenskab
+International Entrepreneurship,SDU – Samfundsvidenskab
+International Marketing Channels,SDU – Samfundsvidenskab
+Personnel Economics(CM),SDU – Samfundsvidenskab
+Pricing Strategies,SDU – Samfundsvidenskab
+Almen Statskunskab,SDU – Samfundsvidenskab
+Metode 2,SDU – Samfundsvidenskab
+Politisk teori,SDU – Samfundsvidenskab
+Politisk kommunikation,SDU – Samfundsvidenskab
+Forvaltningsret(Statskundskab),SDU – Samfundsvidenskab
+Metode 1 for sidefagsstuderende,SDU – Samfundsvidenskab
+Advanced applied quantitative methods,SDU – Samfundsvidenskab
+Finanspolitiske institutioner i et dansk og kompar,SDU – Samfundsvidenskab
+Kampen for demokrati under en autokratiseringsbølg,SDU – Samfundsvidenskab
+Political psychology and opinion formation,SDU – Samfundsvidenskab
+Forfatningsret,SDU – Samfundsvidenskab
+Formueret,SDU – Samfundsvidenskab
+Boghandleren anbefaler også disse:,SDU – Samfundsvidenskab
+Eu-ret,SDU – Samfundsvidenskab
+Selskabsret,SDU – Samfundsvidenskab
+Forvaltningsret,SDU – Samfundsvidenskab
+Kreditsikring og Civil Tvangsfuldbyrdelse,SDU – Samfundsvidenskab
+Obligationsret,SDU – Samfundsvidenskab
+Laws of New Wars,SDU – Samfundsvidenskab
+Anti-Discrimination Law(Sommerkursus),SDU – Samfundsvidenskab
+Drafting Contracts,SDU – Samfundsvidenskab
+Forretningsforståelse for jurister,SDU – Samfundsvidenskab
+Forsikringsret,SDU – Samfundsvidenskab
+Handel med Fast Ejendom,SDU – Samfundsvidenskab
+International Transport Law,SDU – Samfundsvidenskab
+Konfliktmægling og forhandling,SDU – Samfundsvidenskab
+Køb og Salg af Virksomheder,SDU – Samfundsvidenskab
+Miljøret,SDU – Samfundsvidenskab
+Skilsmisseret,SDU – Samfundsvidenskab
+Strafferetlig Regulering af Erhvervslivet,SDU – Samfundsvidenskab
+Sundhedsret,SDU – Samfundsvidenskab
+Videregående Ansættelsesret,SDU – Samfundsvidenskab
+Civilproces og anden konfliktkøsning,SDU – Samfundsvidenskab
+Markedsret,SDU – Samfundsvidenskab
+Tinglysning,SDU – Samfundsvidenskab
+"Retshistorie, retsfilosofi og retssociologi 3Xret",SDU – Samfundsvidenskab
+Folkeret,SDU – Samfundsvidenskab
+Kreditsikring og civil tvangsfuldbyrdelse,SDU – Samfundsvidenskab
+Forfatningsret Jura Deltid,SDU – Samfundsvidenskab
+Familie- og arveret,SDU – Samfundsvidenskab
+Obligationsret (Deltid),SDU – Samfundsvidenskab
+EU-ret (jura deltid),SDU – Samfundsvidenskab
+International Private Law and International Trade,SDU – Samfundsvidenskab
+Forvaltningsret(fra efterår 21 og frem),SDU – Samfundsvidenskab
+Drafting Contracts (deltid),SDU – Samfundsvidenskab
+Handel med Fast Ejendom (deltid),SDU – Samfundsvidenskab
+Miljøret (deltid),SDU – Samfundsvidenskab
+Udlændingeret,SDU – Samfundsvidenskab
+Videregående Ansættelsesret (deltid),SDU – Samfundsvidenskab
+Civilproces og anden konfliktkøsning (deltid),SDU – Samfundsvidenskab
+Anthropology of Development,SDU – Samfundsvidenskab
+Social and Economic Statistics,SDU – Samfundsvidenskab
+Anthropological Fieldwork Methods,SDU – Samfundsvidenskab
+Global Consumer Cultures,SDU – Samfundsvidenskab
+Perspectives on Law and Society,SDU – Samfundsvidenskab
+Strategi,SDU – Samfundsvidenskab
+Almen statskundskab,SDU – Samfundsvidenskab
+Metode 3,SDU – Samfundsvidenskab
+Forvaltningsret(KA i Samfundsfag),SDU – Samfundsvidenskab
+Statistics(MMA),SDU – Samfundsvidenskab
+Economic Growth and Historical,SDU – Samfundsvidenskab
+Branding,SDU – Slagelse
+Digital markedskommunikation,SDU – Slagelse
+Forbrugeradfærd,SDU – Slagelse
+Grafisk design og Layout,SDU – Slagelse
+Sprog og kultur i Storbritannien,SDU – Slagelse
+Visuel analyse og design,SDU – Slagelse
+Brand management og Public Relations,SDU – Slagelse
+Anatomi og fysiologi II,SDU – Sundhedsvidenskab (Incl. medicin)
+Psykologi for audiologer,SDU – Sundhedsvidenskab (Incl. medicin)
+Sprogtilegnelse(Audiologi),SDU – Sundhedsvidenskab (Incl. medicin)
+Cochlear Implant,SDU – Sundhedsvidenskab (Incl. medicin)
+Psykoakustik,SDU – Sundhedsvidenskab (Incl. medicin)
+Videregående Akustik,SDU – Sundhedsvidenskab (Incl. medicin)
+Humanistiske forskningstilgange inden for sundheds,SDU – Sundhedsvidenskab (Incl. medicin)
+Sundhedsøkonomi,SDU – Sundhedsvidenskab (Incl. medicin)
+Boghandleren anbefaler også disse:,SDU – Sundhedsvidenskab (Incl. medicin)
+Evidensbasering og kvalitetsudvikling,SDU – Sundhedsvidenskab (Incl. medicin)
+Evidensbaseret fysioterapi,SDU – Sundhedsvidenskab (Incl. medicin)
+Sundhedsteknologi og Brugerdreven Innovation,SDU – Sundhedsvidenskab (Incl. medicin)
+Brugerdreven innovation og teknologi i klinisk syg,SDU – Sundhedsvidenskab (Incl. medicin)
+Sundhedsøkonomisk evaluering,SDU – Sundhedsvidenskab (Incl. medicin)
+Epidemiologi,SDU – Sundhedsvidenskab (Incl. medicin)
+Kvalitative metoder,SDU – Sundhedsvidenskab (Incl. medicin)
+Offentlig sundhedsforvaltning,SDU – Sundhedsvidenskab (Incl. medicin)
+International sundhed,SDU – Sundhedsvidenskab (Incl. medicin)
+BL1 Læring og kognition,SDU – Sundhedsvidenskab (Incl. medicin)
+BL2 Friluftsliv og erfaringsbaseret læring,SDU – Sundhedsvidenskab (Incl. medicin)
+"FF5 Spring, biomekanik og funktionel anatomi",SDU – Sundhedsvidenskab (Incl. medicin)
+FF7 Videnskabsteori etik og akademisk håndværk,SDU – Sundhedsvidenskab (Incl. medicin)
+BL10,SDU – Sundhedsvidenskab (Incl. medicin)
+FF10 Kvantitative forskningsmetoder og statistik,SDU – Sundhedsvidenskab (Incl. medicin)
+VF1 Teamudvikling og sportspsykologi,SDU – Sundhedsvidenskab (Incl. medicin)
+Kropskultur og sundhedskultur,SDU – Sundhedsvidenskab (Incl. medicin)
+B03 Udviklingspsykologi,SDU – Sundhedsvidenskab (Incl. medicin)
+B04 Social and personality psychology,SDU – Sundhedsvidenskab (Incl. medicin)
+B07 Clinical Psychology,SDU – Sundhedsvidenskab (Incl. medicin)
+"B08: Pædagogisk psykologi, inkl. metode 7",SDU – Sundhedsvidenskab (Incl. medicin)
+B12 Bachelorprojekt,SDU – Sundhedsvidenskab (Incl. medicin)
+K05 Lovgivning og etik,SDU – Sundhedsvidenskab (Incl. medicin)
+K06 Anvendt arbejds og organisationspsykologi,SDU – Sundhedsvidenskab (Incl. medicin)
+K06 Arbejde med børn og unge,SDU – Sundhedsvidenskab (Incl. medicin)
+K06 Eksistentielle og religiøse temaer i psykologi,SDU – Sundhedsvidenskab (Incl. medicin)
+K08 Speciale,SDU – Sundhedsvidenskab (Incl. medicin)
+B11 Neuropsykologi,SDU – Sundhedsvidenskab (Incl. medicin)
+B11 Psykotraumatologi Valgfag,SDU – Sundhedsvidenskab (Incl. medicin)
+B11 Smertepsykologi,SDU – Sundhedsvidenskab (Incl. medicin)
+Fra molekyle til menneske,SDU – Sundhedsvidenskab (Incl. medicin)
+Sundhedsjura(kand i fysioterapi),SDU – Sundhedsvidenskab (Incl. medicin)
+Evidensbaseret Fysioterapi,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul B12 Fra rask til syg,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul 1 - celler og væv,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul 2 - Bevægeapparatet,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul B2 Bevægeapparatet,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul 3 - Molekylær medicin,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul B4 Genetik,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul B4 Videnskabelig metode I Biostatistik og,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul 6 - Ernæring og vækst,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul B6: Videnskabelig metode II: Videnskabsteori,SDU – Sundhedsvidenskab (Incl. medicin)
+B10 - Forskningsmetodologi,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul 10 Angreb og forsvar,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul 9 - Hjerne og sanser,SDU – Sundhedsvidenskab (Incl. medicin)
+B12 Fra rask til syg,SDU – Sundhedsvidenskab (Incl. medicin)
+Modul B11 - B12: Kommunikation: Det medicinske int,SDU – Sundhedsvidenskab (Incl. medicin)
+"K1: Hjerte, luftveje og ØNH",SDU – Sundhedsvidenskab (Incl. medicin)
+K2: Bevægeapparatet og bloddannende organer,SDU – Sundhedsvidenskab (Incl. medicin)
+"K4: Kommunikation 1, tilknyttet medicinsk og kirur",SDU – Sundhedsvidenskab (Incl. medicin)
+"Modul K3: Fordøjelseskanalen, ernæring og metaboli",SDU – Sundhedsvidenskab (Incl. medicin)
+K5-K6: Evidensbaseret medicin,SDU – Sundhedsvidenskab (Incl. medicin)
+"K5: Nervesystem, somatiske og psykiske sygdomme",SDU – Sundhedsvidenskab (Incl. medicin)
+"K6: Retsmedicin, nyrer og urinveje og kræft",SDU – Sundhedsvidenskab (Incl. medicin)
+"K8 Kvinde, mor og barn",SDU – Sundhedsvidenskab (Incl. medicin)
+"K9 Hud, øjne, anvendt farmakologi og ældre",SDU – Sundhedsvidenskab (Incl. medicin)
+EU Institutions and Administration,SDU – Sønderborg
+MC-MECH2 Dynamics,SDU – Sønderborg
+Advanced Object-Oriented Programming,SDU – Sønderborg
+"Advanced Materials, Reliabitlity and Failure Analy",SDU – Sønderborg
+Control of Grid Connected Converters,SDU – Sønderborg
+"MB-IFG4 Termodynamik, varmetransmission & fluidmek",SDU – Tekniske Fakultet
+MB-MAT3 - Matematik 3: Fourieranalyse og PDE,SDU – Tekniske Fakultet
+Svingningslære og FEM,SDU – Tekniske Fakultet
+Materialelære (civil),SDU – Tekniske Fakultet
+Videregående trækonstruktioner,SDU – Tekniske Fakultet
+15-FSD Grundlæggende Dynamik,SDU – Tekniske Fakultet
+FT505 Digital Elektronik og Programmering,SDU – Tekniske Fakultet
+E-SIG Digital Signalbehandling (FysTek),SDU – Tekniske Fakultet
+T-TEO Teoretisk og Eksperimentel Optik,SDU – Tekniske Fakultet
+Grundlæggende Biokemi og Mikrobiologi (civil),SDU – Tekniske Fakultet
+"KB-PTE2: Fluidmekanik, varmetransmission, termodyn",SDU – Tekniske Fakultet
+Materialelære (material chemistry) (civil),SDU – Tekniske Fakultet
+Analytisk kemi,SDU – Tekniske Fakultet
+Intrumentel Analytisk Kemi og Anvendt Statistik,SDU – Tekniske Fakultet
+K-TESP - Technical Spectroscopy,SDU – Tekniske Fakultet
+Industrial Fermentation and Modelling of Bioproces,SDU – Tekniske Fakultet
+Separation and Purification Technology,SDU – Tekniske Fakultet
+OM-SM - Operations Management Methods and Systems,SDU – Tekniske Fakultet
+Industrial Internet of Things in Operations,SDU – Tekniske Fakultet
+OM-PE - Programming for engineers,SDU – Tekniske Fakultet
+PDX-IDK - Industrielt Design: Markedsanalyse og,SDU – Tekniske Fakultet
+Semesterproject (Product Management),SDU – Tekniske Fakultet
+Datateknik (RobTek),SDU – Tekniske Fakultet
+Kinematik (RobTek Civil),SDU – Tekniske Fakultet
+RB2-ICP Introduktion til C++,SDU – Tekniske Fakultet
+Elektronik og Reguleringsteknik,SDU – Tekniske Fakultet
+Forstærkerteknik og Fejlberegninger (civil),SDU – Tekniske Fakultet
+Videregående Objektorienteret Programmering (SE),SDU – Tekniske Fakultet
+"SE4-DMAD Diskret matematik, algoritmer og datastru",SDU – Tekniske Fakultet
+Videregående Objektorienteret Programmering (Spil),SDU – Tekniske Fakultet
+Brugerinteraktion,SDU – Tekniske Fakultet
+Materialelære (diplom),SDU – Tekniske Fakultet
+Bærende Konstruktioner,SDU – Tekniske Fakultet
+E-ESY Elektroniske Systemer,SDU – Tekniske Fakultet
+Microcontroller & Programmering (EE),SDU – Tekniske Fakultet
+EE-HØVI - Højspændingsanlæg og Vindmøllesystemer,SDU – Tekniske Fakultet
+Statistik (E og EE),SDU – Tekniske Fakultet
+Microcontroller & Programmering (elektr),SDU – Tekniske Fakultet
+E-SIG Digital Signalbehandling (Elektronik),SDU – Tekniske Fakultet
+Integreret Produktudvikling 2,SDU – Tekniske Fakultet
+Grundlæggende Biokemi og Mikrobiologi (diplom),SDU – Tekniske Fakultet
+"KD-PTE Anvendt strømningslære, varmeoverførsel, te",SDU – Tekniske Fakultet
+Materialelære (material chemistry),SDU – Tekniske Fakultet
+"M-IFG4 Termodynamik, varmetransmission & fluidmeka",SDU – Tekniske Fakultet
+Statistik og Kvalitet 1,SDU – Tekniske Fakultet
+P-FTP2 Production of the Future (Vedligeholdelse),SDU – Tekniske Fakultet
+P-IFG4 - Ledelse 2,SDU – Tekniske Fakultet
+P-PTE4 - Økonomi 2,SDU – Tekniske Fakultet
+P-PTE4 Operations Management 4,SDU – Tekniske Fakultet
+RD2-DIF Digital Interfacing,SDU – Tekniske Fakultet
+Robotkinematik (RobTek Dipl),SDU – Tekniske Fakultet
+Forstærkerteknik og Fejlberegninger (dipl),SDU – Tekniske Fakultet
+Videregående Objektorienteret Programmering (ST),SDU – Tekniske Fakultet
+Teoretisk Pædagogikum (forårssemestret),SDU – Teoretisk Pædagogikum
+Studieskolen A2 - Engelsk - 3000-24,Studieskolen
+Studieskolen B1 - Engelsk - 3013-24,Studieskolen
+Studieskolen B1+ - Engelsk - 3018-24,Studieskolen
+Studieskolen B2 - Engelsk - 3025-24,Studieskolen
+Studieskolen C1 - Engelsk - 3035-24,Studieskolen
+"Studieskolen Niv.1, 2 - Japansk - 3557, 3558, 3559",Studieskolen
+"Studieskolen Niv.12, 14 - Japansk - 3565-, 3566-24",Studieskolen
+Studieskolen Niv.5 - Japansk - 3561-24,Studieskolen
+Studieskolen Niv.6 - Japansk - 3562-24,Studieskolen
+"Studieskolen Niv.8, 11 - Japansk - 3563-24 3564-24",Studieskolen
+"Studieskolen Niveau 4, 8 - Nygræsk - 3582- 3585-24",Studieskolen
+Studieskolen Niveau B2 - Nygræsk - 3586-24,Studieskolen
+Studieskolen A1 - Russisk - 3588- 3589- 3590-24,Studieskolen
+Studieskolen A1 - Spanish course for english speak,Studieskolen
+Studieskolen A1 - Spansk,Studieskolen
+Studieskolen A2 - Spansk,Studieskolen
+Studieskolen B1 - Spansk - 3334,Studieskolen
+Studieskolen B1 - Spansk - 3342,Studieskolen
+Studieskolen B1 - Spansk,Studieskolen
+Studieskolen B2 - Spansk,Studieskolen
+Studieskolen A1 - Tysk - 3101-24,Studieskolen
+Studieskolen A2.1 - Tysk - 3103-24,Studieskolen
+Studieskolen A2.2 - Tysk - 3105-24,Studieskolen
+Studieskolen B1.1 - Tysk - 3106-24 3107-24,Studieskolen
+Studieskolen B1.2 - Tysk - 3110-24,Studieskolen
+Analyse og metode,UCL FYN – Erhvervsakademi og Professionshøjskole
+Projektkoordinering,UCL FYN – Erhvervsakademi og Professionshøjskole
+Sagsbehandling,UCL FYN – Erhvervsakademi og Professionshøjskole
+Bioanalytikeruddannelsen 1. semester 2024,UCL FYN – Erhvervsakademi og Professionshøjskole
+Bioanalytikeruddannelsen 2. semester 2022,UCL FYN – Erhvervsakademi og Professionshøjskole
+Bioanalytikeruddannelsen 3.semester,UCL FYN – Erhvervsakademi og Professionshøjskole
+Afgangsprojekt,UCL FYN – Erhvervsakademi og Professionshøjskole
+Det personlige lederskab HOLD 2,UCL FYN – Erhvervsakademi og Professionshøjskole
+Det personlige lederskab og forandring for koordin,UCL FYN – Erhvervsakademi og Professionshøjskole
+Det personlige lederskab og forandring,UCL FYN – Erhvervsakademi og Professionshøjskole
+Forandringsledelse(Diplom i ledelse),UCL FYN – Erhvervsakademi og Professionshøjskole
+Kommunikation og organisation,UCL FYN – Erhvervsakademi og Professionshøjskole
+Ledelse af medarbejdere og faglig udvikling,UCL FYN – Erhvervsakademi og Professionshøjskole
+Ledelse og coaching,UCL FYN – Erhvervsakademi og Professionshøjskole
+Ledelse og facilitering,UCL FYN – Erhvervsakademi og Professionshøjskole
+Ledelse og økonomistyring,UCL FYN – Erhvervsakademi og Professionshøjskole
+Organisation udvikling og samskabelse,UCL FYN – Erhvervsakademi og Professionshøjskole
+Projektledelse,UCL FYN – Erhvervsakademi og Professionshøjskole
+Pædagogisk ledelse,UCL FYN – Erhvervsakademi og Professionshøjskole
+"Pædagogisk, didaktisk og datainformerret ledelse",UCL FYN – Erhvervsakademi og Professionshøjskole
+Strategisk ledelse(diplom i ledelse),UCL FYN – Erhvervsakademi og Professionshøjskole
+Teamledelse,UCL FYN – Erhvervsakademi og Professionshøjskole
+Videnskabsteori og metodekursus,UCL FYN – Erhvervsakademi og Professionshøjskole
+Boghandleren anbefaler også disse:,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeutuddannelsen 1. semester F2024,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeuuddannelsen 2. semester F24,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeutuddannelsen 3. semester 2023,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeutuddannelsen 4. semester 2023,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeutuddannelsen 5. semester 2023,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeutuddannelsen 6. semester 2023,UCL FYN – Erhvervsakademi og Professionshøjskole
+Fysioterapeutuddannelsen 7. semester 2023,UCL FYN – Erhvervsakademi og Professionshøjskole
+Pædagogen som forandringsagent Modul 5-6,UCL FYN – Erhvervsakademi og Professionshøjskole
+"Pædagog, Odense 1.semester",UCL FYN – Erhvervsakademi og Professionshøjskole
+Meritpædagoguddannelsen i Odense (årgang PUOE22,UCL FYN – Erhvervsakademi og Professionshøjskole
+Pædagogen som forandringsagent Modul 5/6,UCL FYN – Erhvervsakademi og Professionshøjskole
+Pædagogen som myndighedsperson,UCL FYN – Erhvervsakademi og Professionshøjskole
+Meritpædagoguddannelsen i Odense (årgang PUOF23 Me,UCL FYN – Erhvervsakademi og Professionshøjskole
+Pædagoguddannelsen Od-SV Merit E22-2 MU 8,UCL FYN – Erhvervsakademi og Professionshøjskole
+Social og specialpædagogisk spec 8,UCL FYN – Erhvervsakademi og Professionshøjskole
+Social og specialpædagogisk specialisering,UCL FYN – Erhvervsakademi og Professionshøjskole
+Pædagog Svendborg 1.semester,UCL FYN – Erhvervsakademi og Professionshøjskole
+Jura,UCL FYN – Erhvervsakademi og Professionshøjskole
+Sanitet,UCL FYN – Erhvervsakademi og Professionshøjskole
+Ventilation og indeklima,UCL FYN – Erhvervsakademi og Professionshøjskole

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Syllabus</title>
+</head>
+<body>
+    <h1>Syllabus Details</h1>
+    <p><strong>University:</strong> {{ university }}</p>
+    <p><strong>Major:</strong> {{ major }}</p>
+    <p><strong>Semester:</strong> {{ semester }}</p>
+
+    <h2>Subjects</h2>
+    {% if subject_books %}
+        <ul>
+            {% for subject, isbns in subject_books.items() %}
+                <li>{{ subject }}
+                    <ul>
+                        {% for isbn in isbns %}
+                            <li>ISBN: {{ isbn[0] }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No subjects found for the selected criteria.</p>
+    {% endif %}
+</body>
+</html>

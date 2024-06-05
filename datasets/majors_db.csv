@@ -1,4 +1,86 @@
-UNIVERSITY_ID,UNIVERSITY_TEXT,STUDY_ID,STUDY_TEXT
+university_id,university_text,study_id,study_text
+6273789,CBS - Copenhagen Business School,211,"BSc BLC Business, Language and Culture"
+6273789,CBS - Copenhagen Business School,141,BSc Business Administration & Service Management
+6273789,CBS - Copenhagen Business School,179,BSc DM Business administration & digital managemen
+6273789,CBS - Copenhagen Business School,234,BSc IBA - International Business in Asia
+6273789,CBS - Copenhagen Business School,232,BSc IBA Asian Lang. & Cul. - Interna. Buss. i Asia
+6273789,CBS - Copenhagen Business School,101,BSc International Business
+6273789,CBS - Copenhagen Business School,150,BSc International Business & Politics
+6273789,CBS - Copenhagen Business School,161,BSc in Business Administration and Sociology
+6273789,CBS - Copenhagen Business School,110,BSc in International Shipping and Trade
+6273789,CBS - Copenhagen Business School,133,Bachelor Valgfag
+6273789,CBS - Copenhagen Business School,111,CM Finansiering & Regnskab (FIR)
+6273789,CBS - Copenhagen Business School,130,CM Valgfag
+6273789,CBS - Copenhagen Business School,106,CM Økonomisk Markedsføring (EMF)
+6273789,CBS - Copenhagen Business School,117,Cand.merc.aud.
+6273789,CBS - Copenhagen Business School,119,Cand.merc.jur.
+6273789,CBS - Copenhagen Business School,120,Cand.merc.mat.
+6273789,CBS - Copenhagen Business School,157,Cand.merc.psyk
+6273789,CBS - Copenhagen Business School,102,HA (it.)
+6273789,CBS - Copenhagen Business School,154,HA Europæisk business
+6273789,CBS - Copenhagen Business School,183,HA Mak - Markeds- og Kulturanalyse
+6273789,CBS - Copenhagen Business School,172,HA pro. - Erhvervsøkonomi og projektledelse
+6273789,CBS - Copenhagen Business School,105,HA(fil.)
+6273789,CBS - Copenhagen Business School,103,HA(jur.)
+6273789,CBS - Copenhagen Business School,139,HA(kom.)
+6273789,CBS - Copenhagen Business School,104,HA(mat.)
+6273789,CBS - Copenhagen Business School,146,HA(psyk.)
+6273789,CBS - Copenhagen Business School,100,HA-Almen Erhvervsøkonomi
+6273789,CBS - Copenhagen Business School,122,HD 1. del
+6273789,CBS - Copenhagen Business School,149,HD 2. del: Finansiel Rådgivning
+6273789,CBS - Copenhagen Business School,124,HD 2. del: Finansiering
+6273789,CBS - Copenhagen Business School,128,HD 2. del: Organisation & Ledelse
+6273789,CBS - Copenhagen Business School,129,HD 2. del: Regnskab & Økonomistyring
+6273789,CBS - Copenhagen Business School,126,HD 2. del: Supply Chain Management
+6273789,CBS - Copenhagen Business School,186,HD 2.del: Business
+6273789,CBS - Copenhagen Business School,167,HD 2.del: International business
+6273789,CBS - Copenhagen Business School,166,HD 2.del: Strategisk Salg og Marketing
+6273789,CBS - Copenhagen Business School,233,MBD Master of business development
+6273789,CBS - Copenhagen Business School,116,MSc Applied Economics & Finance (AEF)
+6273789,CBS - Copenhagen Business School,212,MSc BLC Business and Development Studies (BADS)
+6273789,CBS - Copenhagen Business School,145,MSc Brand and Communications Management (BCM)
+6273789,CBS - Copenhagen Business School,180,MSc Business Admin. & Data Science (MSc DS)
+6273789,CBS - Copenhagen Business School,181,MSc Business Admin. & Information Systems (MSc IS)
+6273789,CBS - Copenhagen Business School,173,MSc Business Admin. Innovation in Health Car (IHC)
+6273789,CBS - Copenhagen Business School,175,MSc Business Administration and Digital Business
+6273789,CBS - Copenhagen Business School,147,MSc Finance & Strategic Management (FSM)
+6273789,CBS - Copenhagen Business School,113,MSc International Marketing & Management (IMM)
+6273789,CBS - Copenhagen Business School,108,MSc Supply Chain Management (SCM)
+6273789,CBS - Copenhagen Business School,190,MSc in General Management and Analytics (GMA)
+6273789,CBS - Copenhagen Business School,158,MSocSc Human Resource Management (HRM)
+6273789,CBS - Copenhagen Business School,193,MSocSc OIE SDE Strategic Design & Entrepreneurship
+6273789,CBS - Copenhagen Business School,230,Master i Skat
+6273789,CBS - Copenhagen Business School,197,Master of Public Governance
+16178988,DMJX - København,263,Kommunikation DMJX KBH
+16178988,DMJX - København,252,Medieproduktion og Ledelse DMJX KBH
+16178988,DMJX - København,251,TV - og Medietilrettelæggelse DMJX KBH
+16178988,DMJX - København,268,Visuel Kommunikation DMJX KBH
+6273804,Finanssektorens Arbejdsgiverforening (FA),554,Fysioterapeutuddannelsen Campus Nordsjælland
+6273804,Finanssektorens Arbejdsgiverforening (FA),553,Pædagoguddannelsen Campus Nordsjælland
+6273797,IT-Universitetet,777,Computer Science
+6273797,IT-Universitetet,770,Data Science/datavidenskab
+6273797,IT-Universitetet,767,Digital Design and Interactive Technologies
+6273797,IT-Universitetet,765,Global Business Informatics
+6273797,IT-Universitetet,775,Software Design
+6273797,IT-Universitetet,773,Software Development/Softwareudvikling
+6273811,KP - Campus Carlsberg,504,Læreruddannelsen Campus Carlsberg
+6273811,KP - Campus Carlsberg,506,Pædagoguddannelsen Campus Carlsberg
+6825844,KP - Campus Nordsjælland,554,Fysioterapeutuddannelsen Campus Nordsjælland
+6825844,KP - Campus Nordsjælland,553,Pædagoguddannelsen Campus Nordsjælland
+6825844,KP - Campus Nordsjælland,550,Sygeplejerske Campus Nordsjælland
+6273791,KP - Campus Sigurdsgade & Tagensvej,594,Administrationsbachelor - Tagensvej 86
+6273791,KP - Campus Sigurdsgade & Tagensvej,563,Bioanalytiker  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,597,"Diplomuddannelse i biotek.,  procestek. og kemi"
+6273791,KP - Campus Sigurdsgade & Tagensvej,568,Ergoterapeut  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,591,Ernæring og sundhed  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,562,Fysioterapeut  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,561,Jordemoder  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,564,Katastrofe og risikomanager  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,567,Laborant  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,560,Professionsbachelor i skat  Tagensvej 86
+6273791,KP - Campus Sigurdsgade & Tagensvej,569,Radiograf  Campus Sigurdsgade
+6273791,KP - Campus Sigurdsgade & Tagensvej,595,Sundhedsadministrative koordinatoruddannelse
+6273791,KP - Campus Sigurdsgade & Tagensvej,565,Sygeplejerske Campus Tagensvej
 6273796,KU - Det Humanistiske Fakultet,803,Audiologopædi
 6273796,KU - Det Humanistiske Fakultet,810,Danish culture courses
 6273796,KU - Det Humanistiske Fakultet,812,Dansk
@@ -89,3 +171,135 @@ UNIVERSITY_ID,UNIVERSITY_TEXT,STUDY_ID,STUDY_TEXT
 6273792,KU - Det Sundhedsvidenskabelige Fakultet,437,Veterinærmedicin - Kandidat
 6273799,KU - Det Teologiske Fakultet,910,Teologi Bachelor
 6273799,KU - Det Teologiske Fakultet,911,Teologi Kandidat
+6273812,Politiskolen,903,Politiskolen - Grunduddannelsen
+6273801,RUC,329,Erhvervsøkonomi HA/Business administration
+6273801,RUC,357,Internationale Studier
+6273801,RUC,309,RUC Sommerskole
+6273801,RUC,324,Socialvidenskab
+12052195,SDU – Esbjerg,2005,"Cand.merc. Marketing, Social Media"
+12052195,SDU – Esbjerg,2001,HA - Sports og Eventmanagement
+12052195,SDU – Esbjerg,2013,Jura Esbjerg
+12052195,SDU – Esbjerg,2015,MSc in Economics and Business Administration
+12052195,SDU – Esbjerg,2011,Master of Science in Public Health
+12052195,SDU – Esbjerg,2012,Medicin Kandidat Esbjerg
+12052195,SDU – Esbjerg,2004,Sociologi og Kulturanalyse
+12066797,SDU – HA – alle byer,2056,HA Digitalisering og Forretningsforståelse
+12066797,SDU – HA – alle byer,2057,HA Energi Management
+12066797,SDU – HA – alle byer,2058,HA Entreprenørskab og Innovation
+12066797,SDU – HA – alle byer,2055,HA Generel Erhvervsøkonomi
+12066797,SDU – HA – alle byer,2060,HA Human Resource Management
+12066797,SDU – HA – alle byer,2061,HA International Business
+12066797,SDU – HA – alle byer,2054,HA Jur
+12066797,SDU – HA – alle byer,2062,HA Marketing og Brand Management
+12066797,SDU – HA – alle byer,2063,HA Sports- og Eventmanagement
+12066805,SDU – HD – alle byer,2100,HD 1. Del
+12066805,SDU – HD – alle byer,2101,HD 2. Del - Finansiel Rådgivning
+12066805,SDU – HD – alle byer,2102,HD 2. Del - Organisation og Ledelse
+12066805,SDU – HD – alle byer,2103,HD 2. Del - Regnskab og Økonomistyring
+12066844,SDU – Humaniora,2150,Amerikanske Studier
+12066844,SDU – Humaniora,2168,Audiologopædi (BA og KA)
+12066844,SDU – Humaniora,2151,Dansk
+12066844,SDU – Humaniora,2153,Engelsk
+12066844,SDU – Humaniora,2154,Filosofi
+12066844,SDU – Humaniora,2155,Historie
+12066844,SDU – Humaniora,2156,Interkulturel Pædagogik og Dansk som Andetsprog
+12066844,SDU – Humaniora,2157,International Virksomhedskommunikation (IVK)
+12066844,SDU – Humaniora,2161,Litteraturvidenskab
+12066844,SDU – Humaniora,2162,Medievidenskab
+12066844,SDU – Humaniora,2163,Mellemøststudier
+12066844,SDU – Humaniora,2160,Oldtidskundskab
+12066844,SDU – Humaniora,2159,Pædagogik (kandidaten)
+12066844,SDU – Humaniora,2164,Religionsstudier
+12066844,SDU – Humaniora,2166,Tyske Studier
+12066853,SDU – Kolding,2200,"Biblioteksvidenskab, IT og Kommunikation"
+12066853,SDU – Kolding,2202,Cand.Merc. (Kolding)
+12066853,SDU – Kolding,2203,Cand.Merc.Aud.
+12066853,SDU – Kolding,2204,Designkultur (bachelor)
+12066853,SDU – Kolding,2205,Designkultur og Økonomi (bachelor)
+12066853,SDU – Kolding,2207,Designstudier (kandidat)
+12066853,SDU – Kolding,2208,"Informationsvidenskab, IT og Interaktionsdesign"
+12066853,SDU – Kolding,2209,International Virksomhedskommunikation (IVKKolding
+12066864,SDU – Master,2255,Master i Offentlig Kvalitet og Ledelse (MPQM)
+12066864,SDU – Master,2258,Master i Offentlig Ledelse (FMOL) Odense & Aarhus
+12066864,SDU – Master,2252,Master i Projekt- og Innovationsledelse
+12066864,SDU – Master,2254,Master i Public Management (MPM
+12066864,SDU – Master,2253,Master of Business Administration (MBA)
+12066864,SDU – Master,2259,TOM
+12066879,SDU – Naturvidenskab,2310,Anvendt Matematik (bachelor)
+12066879,SDU – Naturvidenskab,2301,Biokemi og Molekylær Biologi (BMB)
+12066879,SDU – Naturvidenskab,2300,Biologi (BB)
+12066879,SDU – Naturvidenskab,2304,Biomedicin
+12066879,SDU – Naturvidenskab,2309,Datalogi (under IMADA)
+12066879,SDU – Naturvidenskab,2314,Datascience (kandidat)
+12066879,SDU – Naturvidenskab,2307,Farmaci (under FKF - Bachelor)
+12066879,SDU – Naturvidenskab,2302,Fysik (under FKF)
+12066879,SDU – Naturvidenskab,2308,Kemi (under FKF)
+12066879,SDU – Naturvidenskab,2316,Kunstig Intelligens
+12066879,SDU – Naturvidenskab,2303,Matematik (under IMADA)
+12066879,SDU – Naturvidenskab,2311,Matematik-Økonomi
+12066879,SDU – Naturvidenskab,2315,Tværfaglie Kurser (NatVid)
+12066892,SDU – Samfundsvidenskab,2352,Cand.Merc
+12066892,SDU – Samfundsvidenskab,2353,Cand.Negot.
+12066892,SDU – Samfundsvidenskab,2354,Cand.Oecon. - Økonomi
+12066892,SDU – Samfundsvidenskab,2355,Center for Journalistik
+12066892,SDU – Samfundsvidenskab,2351,Economics and Business Administration
+12066892,SDU – Samfundsvidenskab,2357,Institut for Statskundskab (Social Sciences)
+12066892,SDU – Samfundsvidenskab,2358,Juridisk Institut
+12066892,SDU – Samfundsvidenskab,2362,Juridisk Institut - Deltid
+12066892,SDU – Samfundsvidenskab,2350,Market and Management Anthropology (MMA)
+12066892,SDU – Samfundsvidenskab,2359,Samfundsfag (bachelor)
+12066892,SDU – Samfundsvidenskab,2361,Økonomi/Oecon
+12066899,SDU – Slagelse,2400,International Virksomhedskommunikation (Slagelse)
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2500,Audiologi (BA og KA)
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2515,De Fem SUND-kandidater
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2521,Erhvervskandidatuddannelsen i Ergoterapi
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2522,Erhvervskandidatuddannelsen i Fysioterapi
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2520,Erhvervskandidatuddannelsen i jordemodervidenskab
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2519,Erhvervskandidatuddannelsen i klinisk sygepleje
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2516,Farmaci
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2502,Folkesundhed
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2503,Idræt og Biomekanik (IOB)
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2504,Institut for Psykologi (bachelor og kandidat)
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2511,"Kandidatudd. Klinisk sygepleje, Sundhedsfaglig kan"
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2507,Kandidatuddannelsen Sundhedsfaglig kandidat
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2517,Kandidatuddannelsen i Ergoterapi
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2518,Kandidatuddannelsen i Fysioterapi
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2510,Kandidatuddannelsen i jordemodervidenskab
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2512,Klinisk Biomekanik
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2505,Medicin (bachelor og kandidat)
+12066913,SDU – Sundhedsvidenskab (Incl. medicin),2508,Sundhedsfaglig erhvervskandidatuddannelse
+12066916,SDU – Sønderborg,2553,BSc. European Studies
+12066916,SDU – Sønderborg,2559,"Bsc Engineering, Innovation and Business (Sdrb)"
+12066916,SDU – Sønderborg,2560,Bsc Mechanical Engineering (Sønderborg)
+12066916,SDU – Sønderborg,2558,Bsc Mechatronics (Sønderborg)
+12066916,SDU – Sønderborg,2563,Bsc in Software Engineering (fra e2023)
+12066916,SDU – Sønderborg,2562,MSc in Electronics (Sønderborg)
+12066931,SDU – Tekniske Fakultet,2608,Civilingeniør -  Maskinteknik (2021)
+12066931,SDU – Tekniske Fakultet,2601,Civilingeniør - Bygningsteknik
+12066931,SDU – Tekniske Fakultet,2605,Civilingeniør - Fysik og Teknologi (FysTek)
+12066931,SDU – Tekniske Fakultet,2610,Civilingeniør - Kemi- og Bioteknologi
+12066931,SDU – Tekniske Fakultet,2611,Civilingeniør - Operations Management
+12066931,SDU – Tekniske Fakultet,2612,Civilingeniør - Product Development and Inn. (PDI)
+12066931,SDU – Tekniske Fakultet,2613,Civilingeniør - Robotteknologi
+12066931,SDU – Tekniske Fakultet,2614,Civilingeniør - Software Engineering
+12066931,SDU – Tekniske Fakultet,2615,Civilingeniør - Spiludvikling og Læringsteknologi
+12066931,SDU – Tekniske Fakultet,2616,Civilingeniør - Sundheds- og Velfærdsteknologi
+12066931,SDU – Tekniske Fakultet,2617,Diplomingeniør - Bygningsteknik
+12066931,SDU – Tekniske Fakultet,2619,Diplomingeniør - Elektrisk Energiteknologi (EE)
+12066931,SDU – Tekniske Fakultet,2618,Diplomingeniør - Elektronik
+12066931,SDU – Tekniske Fakultet,2621,Diplomingeniør - Integreret Design (ID)
+12066931,SDU – Tekniske Fakultet,2622,Diplomingeniør - Kemi- og Bioteknologi
+12066931,SDU – Tekniske Fakultet,2623,Diplomingeniør - Maskinteknik
+12066931,SDU – Tekniske Fakultet,2625,Diplomingeniør - Produktion
+12066931,SDU – Tekniske Fakultet,2626,Diplomingeniør - Robotteknologi
+12066931,SDU – Tekniske Fakultet,2627,Diplomingeniør - Softwareteknologi
+12066940,SDU – Teoretisk Pædagogikum,2650,Teoretisk Pædagogikum
+6273803,Studieskolen,579,Studieskolen
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2661,Akademiudd.Offentlig Forvaltning og Administration
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2663,Bioanalytikeruddannelsen
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2662,Diplomuddannelsen i Ledelse
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2665,Fysioterapeutuddannelsen
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2672,Meritpædagoguddannelsen
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2666,Pædagoguddannelsen (Odense)
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2667,Pædagoguddannelsen (Svendborg)
+12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2671,VVS-installatøruddannelsen
