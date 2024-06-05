@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Book finder
+{% endblock %}
+
+{% block css %}
+    <style>
+        ul {
+            margin-left: var(--margin-lg);
+        }
+
+        li {
+            margin: var(--margin-md) 0;
+        }
+
+        section {
+            margin: var(--margin-lg) 0;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+    <h1 class="title">
+        BOOK FINDER
+    </h1>
+    <section>
+        <h2>What is your current major and how far are you in your studies?</h2>
+        <ul>
+        
+            <li>
+                Se:
+                <select aria-label="select">
+                    <option value="null" selected disabled>Choose an option</option>
+                </select>
+            </li>
+            <li>
+                Checkboxes:
+                <input type="All_subsequent" aria-label="show all subsequent semesters"/>
+            </li>
+            <li>
+                Primary (CTA):
+                <button class="btn">Show books</button>
+            </li>
+        </ul>
+    </section>
+{% endblock %}
