@@ -22,7 +22,7 @@ Final project for the course "Database and Information Systems" at the Universit
 3. **Access the Web Interface**
    - Once the server is running, access the application through your web browser at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
-## Navigating Our Beutiful Website
+## Navigating Our Beautiful Website
 
 Our website is designed to be straightforward and easy to use:
 1. **Select a University:** Choose a university from the list provided.
