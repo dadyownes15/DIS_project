@@ -1,305 +1,304 @@
-university_id,university_text,study_id,study_text
-6273789,CBS - Copenhagen Business School,211,"BSc BLC Business, Language and Culture"
-6273789,CBS - Copenhagen Business School,141,BSc Business Administration & Service Management
-6273789,CBS - Copenhagen Business School,179,BSc DM Business administration & digital managemen
-6273789,CBS - Copenhagen Business School,234,BSc IBA - International Business in Asia
-6273789,CBS - Copenhagen Business School,232,BSc IBA Asian Lang. & Cul. - Interna. Buss. i Asia
-6273789,CBS - Copenhagen Business School,101,BSc International Business
-6273789,CBS - Copenhagen Business School,150,BSc International Business & Politics
-6273789,CBS - Copenhagen Business School,161,BSc in Business Administration and Sociology
-6273789,CBS - Copenhagen Business School,110,BSc in International Shipping and Trade
-6273789,CBS - Copenhagen Business School,133,Bachelor Valgfag
-6273789,CBS - Copenhagen Business School,111,CM Finansiering & Regnskab (FIR)
-6273789,CBS - Copenhagen Business School,130,CM Valgfag
-6273789,CBS - Copenhagen Business School,106,CM Økonomisk Markedsføring (EMF)
-6273789,CBS - Copenhagen Business School,117,Cand.merc.aud.
-6273789,CBS - Copenhagen Business School,119,Cand.merc.jur.
-6273789,CBS - Copenhagen Business School,120,Cand.merc.mat.
-6273789,CBS - Copenhagen Business School,157,Cand.merc.psyk
-6273789,CBS - Copenhagen Business School,102,HA (it.)
-6273789,CBS - Copenhagen Business School,154,HA Europæisk business
-6273789,CBS - Copenhagen Business School,183,HA Mak - Markeds- og Kulturanalyse
-6273789,CBS - Copenhagen Business School,172,HA pro. - Erhvervsøkonomi og projektledelse
-6273789,CBS - Copenhagen Business School,105,HA(fil.)
-6273789,CBS - Copenhagen Business School,103,HA(jur.)
-6273789,CBS - Copenhagen Business School,139,HA(kom.)
-6273789,CBS - Copenhagen Business School,104,HA(mat.)
-6273789,CBS - Copenhagen Business School,146,HA(psyk.)
-6273789,CBS - Copenhagen Business School,100,HA-Almen Erhvervsøkonomi
-6273789,CBS - Copenhagen Business School,122,HD 1. del
-6273789,CBS - Copenhagen Business School,149,HD 2. del: Finansiel Rådgivning
-6273789,CBS - Copenhagen Business School,124,HD 2. del: Finansiering
-6273789,CBS - Copenhagen Business School,128,HD 2. del: Organisation & Ledelse
-6273789,CBS - Copenhagen Business School,129,HD 2. del: Regnskab & Økonomistyring
-6273789,CBS - Copenhagen Business School,126,HD 2. del: Supply Chain Management
-6273789,CBS - Copenhagen Business School,186,HD 2.del: Business
-6273789,CBS - Copenhagen Business School,167,HD 2.del: International business
-6273789,CBS - Copenhagen Business School,166,HD 2.del: Strategisk Salg og Marketing
-6273789,CBS - Copenhagen Business School,233,MBD Master of business development
-6273789,CBS - Copenhagen Business School,116,MSc Applied Economics & Finance (AEF)
-6273789,CBS - Copenhagen Business School,212,MSc BLC Business and Development Studies (BADS)
-6273789,CBS - Copenhagen Business School,145,MSc Brand and Communications Management (BCM)
-6273789,CBS - Copenhagen Business School,180,MSc Business Admin. & Data Science (MSc DS)
-6273789,CBS - Copenhagen Business School,181,MSc Business Admin. & Information Systems (MSc IS)
-6273789,CBS - Copenhagen Business School,173,MSc Business Admin. Innovation in Health Car (IHC)
-6273789,CBS - Copenhagen Business School,175,MSc Business Administration and Digital Business
-6273789,CBS - Copenhagen Business School,147,MSc Finance & Strategic Management (FSM)
-6273789,CBS - Copenhagen Business School,113,MSc International Marketing & Management (IMM)
-6273789,CBS - Copenhagen Business School,108,MSc Supply Chain Management (SCM)
-6273789,CBS - Copenhagen Business School,190,MSc in General Management and Analytics (GMA)
-6273789,CBS - Copenhagen Business School,158,MSocSc Human Resource Management (HRM)
-6273789,CBS - Copenhagen Business School,193,MSocSc OIE SDE Strategic Design & Entrepreneurship
-6273789,CBS - Copenhagen Business School,230,Master i Skat
-6273789,CBS - Copenhagen Business School,197,Master of Public Governance
-16178988,DMJX - København,263,Kommunikation DMJX KBH
-16178988,DMJX - København,252,Medieproduktion og Ledelse DMJX KBH
-16178988,DMJX - København,251,TV - og Medietilrettelæggelse DMJX KBH
-16178988,DMJX - København,268,Visuel Kommunikation DMJX KBH
-6273804,Finanssektorens Arbejdsgiverforening (FA),554,Fysioterapeutuddannelsen Campus Nordsjælland
-6273804,Finanssektorens Arbejdsgiverforening (FA),553,Pædagoguddannelsen Campus Nordsjælland
-6273797,IT-Universitetet,777,Computer Science
-6273797,IT-Universitetet,770,Data Science/datavidenskab
-6273797,IT-Universitetet,767,Digital Design and Interactive Technologies
-6273797,IT-Universitetet,765,Global Business Informatics
-6273797,IT-Universitetet,775,Software Design
-6273797,IT-Universitetet,773,Software Development/Softwareudvikling
-6273811,KP - Campus Carlsberg,504,Læreruddannelsen Campus Carlsberg
-6273811,KP - Campus Carlsberg,506,Pædagoguddannelsen Campus Carlsberg
-6825844,KP - Campus Nordsjælland,554,Fysioterapeutuddannelsen Campus Nordsjælland
-6825844,KP - Campus Nordsjælland,553,Pædagoguddannelsen Campus Nordsjælland
-6825844,KP - Campus Nordsjælland,550,Sygeplejerske Campus Nordsjælland
-6273791,KP - Campus Sigurdsgade & Tagensvej,594,Administrationsbachelor - Tagensvej 86
-6273791,KP - Campus Sigurdsgade & Tagensvej,563,Bioanalytiker  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,597,"Diplomuddannelse i biotek.,  procestek. og kemi"
-6273791,KP - Campus Sigurdsgade & Tagensvej,568,Ergoterapeut  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,591,Ernæring og sundhed  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,562,Fysioterapeut  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,561,Jordemoder  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,564,Katastrofe og risikomanager  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,567,Laborant  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,560,Professionsbachelor i skat  Tagensvej 86
-6273791,KP - Campus Sigurdsgade & Tagensvej,569,Radiograf  Campus Sigurdsgade
-6273791,KP - Campus Sigurdsgade & Tagensvej,595,Sundhedsadministrative koordinatoruddannelse
-6273791,KP - Campus Sigurdsgade & Tagensvej,565,Sygeplejerske Campus Tagensvej
-6273796,KU - Det Humanistiske Fakultet,803,Audiologopædi
-6273796,KU - Det Humanistiske Fakultet,810,Danish culture courses
-6273796,KU - Det Humanistiske Fakultet,812,Dansk
-6273796,KU - Det Humanistiske Fakultet,813,Dansk som andetsprog
-6273796,KU - Det Humanistiske Fakultet,892,"EnGeRom - Engelsk, Germansk, Romanske Studier"
-6273796,KU - Det Humanistiske Fakultet,815,Engelsk
-6273796,KU - Det Humanistiske Fakultet,818,Film- og medievidenskab
-6273796,KU - Det Humanistiske Fakultet,819,Filosofi
-6273796,KU - Det Humanistiske Fakultet,822,Fransk sprog og kultur
-6273796,KU - Det Humanistiske Fakultet,826,Historie
-6273796,KU - Det Humanistiske Fakultet,831,Informationsstudier
-6273796,KU - Det Humanistiske Fakultet,840,Japanstudier
-6273796,KU - Det Humanistiske Fakultet,841,Kinastudier
-6273796,KU - Det Humanistiske Fakultet,844,Kommunikation
-6273796,KU - Det Humanistiske Fakultet,845,Kommunikation og IT
-6273796,KU - Det Humanistiske Fakultet,848,Kunsthistorie
-6273796,KU - Det Humanistiske Fakultet,852,Lingvistik
-6273796,KU - Det Humanistiske Fakultet,853,Litteraturvidenskab
-6273796,KU - Det Humanistiske Fakultet,855,Master in Applied Cultural Analysis (MACA)
-6273796,KU - Det Humanistiske Fakultet,857,Mellemøstens sprog og samfund
-6273796,KU - Det Humanistiske Fakultet,873,Pædagogik
-6273796,KU - Det Humanistiske Fakultet,874,Religionsvidenskab
-6273796,KU - Det Humanistiske Fakultet,876,Retorik
-6273796,KU - Det Humanistiske Fakultet,893,"SAXO Arkæologi, Etnologi, Historie, Græsk og Latin"
-6273796,KU - Det Humanistiske Fakultet,882,Teater- og performancestudier
-6273796,KU - Det Humanistiske Fakultet,885,Tværkulturelle studier
-6273796,KU - Det Humanistiske Fakultet,887,Tysk sprog og kultur
-6273796,KU - Det Humanistiske Fakultet,888,Visuel kultur
-6273796,KU - Det Humanistiske Fakultet,891,Østeuropastudier
-6273798,KU - Det Juridiske Fakultet,900,Jura Bachelor
-6273798,KU - Det Juridiske Fakultet,901,Jura Kandidat
-6273798,KU - Det Juridiske Fakultet,904,Jura Masteruddannelse
-6273798,KU - Det Juridiske Fakultet,903,Politiskolen - Grunduddannelsen
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,421,Agricultural Economics
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,422,Agriculture  Agronom
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,653,Biokemi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,654,Biologi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,400,Biologi - bioteknologi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,424,Biology-Biotechnology
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,440,Climate Change
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,655,Datalogi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,617,Datalogi-Økonomi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,656,De fysiske fag
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,657,De kemiske fag
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,426,Environmental & Natural Resource Economics
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,445,Environmental Science
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,427,Food Science & Technology
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,428,Forest & Nature Management
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,659,Forsikringsmatematik
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,401,Fødevarer og ernæring
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,715,Geografi & geoinformatik
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,716,Geologi & geoscience
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,666,Idræt og fysisk aktivitet
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,448,Integrated Food Studies
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,433,Landscape Architecture
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,406,Landskabsarkitektur og bydesign
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,616,Machine learning og datavidenskab
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,678,Matematik
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,669,Matematik-Økonomi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,670,Medicinalkemi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,405,Miljø- og fødevareøkonomi
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,673,Molekylær biomedicin
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,674,Nanoscience
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,441,Nature Management
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,446,Naturforvaltning
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,407,Naturressourcer
-6273800,KU - Det Natur- og Biovidenskabelige Fakultet,408,Skov- og landskabsingeniør
-6273795,KU - Det Samfundsvidenskabelige fakultet,700,Antropologi
-6273795,KU - Det Samfundsvidenskabelige fakultet,701,Psykologi
-6273795,KU - Det Samfundsvidenskabelige fakultet,706,Samfundsfag
-6273795,KU - Det Samfundsvidenskabelige fakultet,702,Sociologi
-6273795,KU - Det Samfundsvidenskabelige fakultet,703,Statskundskab
-6273795,KU - Det Samfundsvidenskabelige fakultet,704,Økonomi
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,423,Animal Science
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,620,Farmaceutuddannelsen
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,714,Folkesundhedsvidenskab
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,601,Humanbiologi
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,402,Husdyrvidenskab
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,614,Immunology and inflammation
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,600,Medicin
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,670,Medicinalkemi
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,607,Odontologi
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,602,Sundhed og Informatik (tidligere IT og Sundhed)
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,608,Sundhedsfaglig kandidat
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,609,Tandklinikassistent - SKT
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,610,Tandplejer - SKT
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,409,Veterinærmedicin -  Bachelor
-6273792,KU - Det Sundhedsvidenskabelige Fakultet,437,Veterinærmedicin - Kandidat
-6273799,KU - Det Teologiske Fakultet,910,Teologi Bachelor
-6273799,KU - Det Teologiske Fakultet,911,Teologi Kandidat
-6273812,Politiskolen,903,Politiskolen - Grunduddannelsen
-6273801,RUC,329,Erhvervsøkonomi HA/Business administration
-6273801,RUC,357,Internationale Studier
-6273801,RUC,309,RUC Sommerskole
-6273801,RUC,324,Socialvidenskab
-12052195,SDU – Esbjerg,2005,"Cand.merc. Marketing, Social Media"
-12052195,SDU – Esbjerg,2001,HA - Sports og Eventmanagement
-12052195,SDU – Esbjerg,2013,Jura Esbjerg
-12052195,SDU – Esbjerg,2015,MSc in Economics and Business Administration
-12052195,SDU – Esbjerg,2011,Master of Science in Public Health
-12052195,SDU – Esbjerg,2012,Medicin Kandidat Esbjerg
-12052195,SDU – Esbjerg,2004,Sociologi og Kulturanalyse
-12066797,SDU – HA – alle byer,2056,HA Digitalisering og Forretningsforståelse
-12066797,SDU – HA – alle byer,2057,HA Energi Management
-12066797,SDU – HA – alle byer,2058,HA Entreprenørskab og Innovation
-12066797,SDU – HA – alle byer,2055,HA Generel Erhvervsøkonomi
-12066797,SDU – HA – alle byer,2060,HA Human Resource Management
-12066797,SDU – HA – alle byer,2061,HA International Business
-12066797,SDU – HA – alle byer,2054,HA Jur
-12066797,SDU – HA – alle byer,2062,HA Marketing og Brand Management
-12066797,SDU – HA – alle byer,2063,HA Sports- og Eventmanagement
-12066805,SDU – HD – alle byer,2100,HD 1. Del
-12066805,SDU – HD – alle byer,2101,HD 2. Del - Finansiel Rådgivning
-12066805,SDU – HD – alle byer,2102,HD 2. Del - Organisation og Ledelse
-12066805,SDU – HD – alle byer,2103,HD 2. Del - Regnskab og Økonomistyring
-12066844,SDU – Humaniora,2150,Amerikanske Studier
-12066844,SDU – Humaniora,2168,Audiologopædi (BA og KA)
-12066844,SDU – Humaniora,2151,Dansk
-12066844,SDU – Humaniora,2153,Engelsk
-12066844,SDU – Humaniora,2154,Filosofi
-12066844,SDU – Humaniora,2155,Historie
-12066844,SDU – Humaniora,2156,Interkulturel Pædagogik og Dansk som Andetsprog
-12066844,SDU – Humaniora,2157,International Virksomhedskommunikation (IVK)
-12066844,SDU – Humaniora,2161,Litteraturvidenskab
-12066844,SDU – Humaniora,2162,Medievidenskab
-12066844,SDU – Humaniora,2163,Mellemøststudier
-12066844,SDU – Humaniora,2160,Oldtidskundskab
-12066844,SDU – Humaniora,2159,Pædagogik (kandidaten)
-12066844,SDU – Humaniora,2164,Religionsstudier
-12066844,SDU – Humaniora,2166,Tyske Studier
-12066853,SDU – Kolding,2200,"Biblioteksvidenskab, IT og Kommunikation"
-12066853,SDU – Kolding,2202,Cand.Merc. (Kolding)
-12066853,SDU – Kolding,2203,Cand.Merc.Aud.
-12066853,SDU – Kolding,2204,Designkultur (bachelor)
-12066853,SDU – Kolding,2205,Designkultur og Økonomi (bachelor)
-12066853,SDU – Kolding,2207,Designstudier (kandidat)
-12066853,SDU – Kolding,2208,"Informationsvidenskab, IT og Interaktionsdesign"
-12066853,SDU – Kolding,2209,International Virksomhedskommunikation (IVKKolding
-12066864,SDU – Master,2255,Master i Offentlig Kvalitet og Ledelse (MPQM)
-12066864,SDU – Master,2258,Master i Offentlig Ledelse (FMOL) Odense & Aarhus
-12066864,SDU – Master,2252,Master i Projekt- og Innovationsledelse
-12066864,SDU – Master,2254,Master i Public Management (MPM
-12066864,SDU – Master,2253,Master of Business Administration (MBA)
-12066864,SDU – Master,2259,TOM
-12066879,SDU – Naturvidenskab,2310,Anvendt Matematik (bachelor)
-12066879,SDU – Naturvidenskab,2301,Biokemi og Molekylær Biologi (BMB)
-12066879,SDU – Naturvidenskab,2300,Biologi (BB)
-12066879,SDU – Naturvidenskab,2304,Biomedicin
-12066879,SDU – Naturvidenskab,2309,Datalogi (under IMADA)
-12066879,SDU – Naturvidenskab,2314,Datascience (kandidat)
-12066879,SDU – Naturvidenskab,2307,Farmaci (under FKF - Bachelor)
-12066879,SDU – Naturvidenskab,2302,Fysik (under FKF)
-12066879,SDU – Naturvidenskab,2308,Kemi (under FKF)
-12066879,SDU – Naturvidenskab,2316,Kunstig Intelligens
-12066879,SDU – Naturvidenskab,2303,Matematik (under IMADA)
-12066879,SDU – Naturvidenskab,2311,Matematik-Økonomi
-12066879,SDU – Naturvidenskab,2315,Tværfaglie Kurser (NatVid)
-12066892,SDU – Samfundsvidenskab,2352,Cand.Merc
-12066892,SDU – Samfundsvidenskab,2353,Cand.Negot.
-12066892,SDU – Samfundsvidenskab,2354,Cand.Oecon. - Økonomi
-12066892,SDU – Samfundsvidenskab,2355,Center for Journalistik
-12066892,SDU – Samfundsvidenskab,2351,Economics and Business Administration
-12066892,SDU – Samfundsvidenskab,2357,Institut for Statskundskab (Social Sciences)
-12066892,SDU – Samfundsvidenskab,2358,Juridisk Institut
-12066892,SDU – Samfundsvidenskab,2362,Juridisk Institut - Deltid
-12066892,SDU – Samfundsvidenskab,2350,Market and Management Anthropology (MMA)
-12066892,SDU – Samfundsvidenskab,2359,Samfundsfag (bachelor)
-12066892,SDU – Samfundsvidenskab,2361,Økonomi/Oecon
-12066899,SDU – Slagelse,2400,International Virksomhedskommunikation (Slagelse)
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2500,Audiologi (BA og KA)
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2515,De Fem SUND-kandidater
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2521,Erhvervskandidatuddannelsen i Ergoterapi
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2522,Erhvervskandidatuddannelsen i Fysioterapi
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2520,Erhvervskandidatuddannelsen i jordemodervidenskab
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2519,Erhvervskandidatuddannelsen i klinisk sygepleje
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2516,Farmaci
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2502,Folkesundhed
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2503,Idræt og Biomekanik (IOB)
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2504,Institut for Psykologi (bachelor og kandidat)
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2511,"Kandidatudd. Klinisk sygepleje, Sundhedsfaglig kan"
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2507,Kandidatuddannelsen Sundhedsfaglig kandidat
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2517,Kandidatuddannelsen i Ergoterapi
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2518,Kandidatuddannelsen i Fysioterapi
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2510,Kandidatuddannelsen i jordemodervidenskab
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2512,Klinisk Biomekanik
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2505,Medicin (bachelor og kandidat)
-12066913,SDU – Sundhedsvidenskab (Incl. medicin),2508,Sundhedsfaglig erhvervskandidatuddannelse
-12066916,SDU – Sønderborg,2553,BSc. European Studies
-12066916,SDU – Sønderborg,2559,"Bsc Engineering, Innovation and Business (Sdrb)"
-12066916,SDU – Sønderborg,2560,Bsc Mechanical Engineering (Sønderborg)
-12066916,SDU – Sønderborg,2558,Bsc Mechatronics (Sønderborg)
-12066916,SDU – Sønderborg,2563,Bsc in Software Engineering (fra e2023)
-12066916,SDU – Sønderborg,2562,MSc in Electronics (Sønderborg)
-12066931,SDU – Tekniske Fakultet,2608,Civilingeniør -  Maskinteknik (2021)
-12066931,SDU – Tekniske Fakultet,2601,Civilingeniør - Bygningsteknik
-12066931,SDU – Tekniske Fakultet,2605,Civilingeniør - Fysik og Teknologi (FysTek)
-12066931,SDU – Tekniske Fakultet,2610,Civilingeniør - Kemi- og Bioteknologi
-12066931,SDU – Tekniske Fakultet,2611,Civilingeniør - Operations Management
-12066931,SDU – Tekniske Fakultet,2612,Civilingeniør - Product Development and Inn. (PDI)
-12066931,SDU – Tekniske Fakultet,2613,Civilingeniør - Robotteknologi
-12066931,SDU – Tekniske Fakultet,2614,Civilingeniør - Software Engineering
-12066931,SDU – Tekniske Fakultet,2615,Civilingeniør - Spiludvikling og Læringsteknologi
-12066931,SDU – Tekniske Fakultet,2616,Civilingeniør - Sundheds- og Velfærdsteknologi
-12066931,SDU – Tekniske Fakultet,2617,Diplomingeniør - Bygningsteknik
-12066931,SDU – Tekniske Fakultet,2619,Diplomingeniør - Elektrisk Energiteknologi (EE)
-12066931,SDU – Tekniske Fakultet,2618,Diplomingeniør - Elektronik
-12066931,SDU – Tekniske Fakultet,2621,Diplomingeniør - Integreret Design (ID)
-12066931,SDU – Tekniske Fakultet,2622,Diplomingeniør - Kemi- og Bioteknologi
-12066931,SDU – Tekniske Fakultet,2623,Diplomingeniør - Maskinteknik
-12066931,SDU – Tekniske Fakultet,2625,Diplomingeniør - Produktion
-12066931,SDU – Tekniske Fakultet,2626,Diplomingeniør - Robotteknologi
-12066931,SDU – Tekniske Fakultet,2627,Diplomingeniør - Softwareteknologi
-12066940,SDU – Teoretisk Pædagogikum,2650,Teoretisk Pædagogikum
-6273803,Studieskolen,579,Studieskolen
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2661,Akademiudd.Offentlig Forvaltning og Administration
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2663,Bioanalytikeruddannelsen
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2662,Diplomuddannelsen i Ledelse
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2665,Fysioterapeutuddannelsen
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2672,Meritpædagoguddannelsen
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2666,Pædagoguddannelsen (Odense)
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2667,Pædagoguddannelsen (Svendborg)
-12066952,UCL FYN – Erhvervsakademi og Professionshøjskole,2671,VVS-installatøruddannelsen
+university_text,study_text
+CBS,"BSc BLC Business, Language and Culture"
+CBS,BSc Business Administration & Service Management
+CBS,BSc DM Business administration & digital managemen
+CBS,BSc IBA - International Business in Asia
+CBS,BSc IBA Asian Lang. & Cul. - Interna. Buss. i Asia
+CBS,BSc International Business
+CBS,BSc International Business & Politics
+CBS,BSc in Business Administration and Sociology
+CBS,BSc in International Shipping and Trade
+CBS,Bachelor Valgfag
+CBS,CM Finansiering & Regnskab (FIR)
+CBS,CM Valgfag
+CBS,CM Økonomisk Markedsføring (EMF)
+CBS,Cand.merc.aud.
+CBS,Cand.merc.jur.
+CBS,Cand.merc.mat.
+CBS,Cand.merc.psyk
+CBS,HA (it.)
+CBS,HA Europæisk business
+CBS,HA Mak - Markeds- og Kulturanalyse
+CBS,HA pro. - Erhvervsøkonomi og projektledelse
+CBS,HA(fil.)
+CBS,HA(jur.)
+CBS,HA(kom.)
+CBS,HA(mat.)
+CBS,HA(psyk.)
+CBS,HA-Almen Erhvervsøkonomi
+CBS,HD 1. del
+CBS,HD 2. del: Finansiel Rådgivning
+CBS,HD 2. del: Finansiering
+CBS,HD 2. del: Organisation & Ledelse
+CBS,HD 2. del: Regnskab & Økonomistyring
+CBS,HD 2. del: Supply Chain Management
+CBS,HD 2.del: Business
+CBS,HD 2.del: International business
+CBS,HD 2.del: Strategisk Salg og Marketing
+CBS,MBD Master of business development
+CBS,MSc Applied Economics & Finance (AEF)
+CBS,MSc BLC Business and Development Studies (BADS)
+CBS,MSc Brand and Communications Management (BCM)
+CBS,MSc Business Admin. & Data Science (MSc DS)
+CBS,MSc Business Admin. & Information Systems (MSc IS)
+CBS,MSc Business Admin. Innovation in Health Car (IHC)
+CBS,MSc Business Administration and Digital Business
+CBS,MSc Finance & Strategic Management (FSM)
+CBS,MSc International Marketing & Management (IMM)
+CBS,MSc Supply Chain Management (SCM)
+CBS,MSc in General Management and Analytics (GMA)
+CBS,MSocSc Human Resource Management (HRM)
+CBS,MSocSc OIE SDE Strategic Design & Entrepreneurship
+CBS,Master i Skat
+CBS,Master of Public Governance
+DMJX,Kommunikation DMJX KBH
+DMJX,Medieproduktion og Ledelse DMJX KBH
+DMJX,TV - og Medietilrettelæggelse DMJX KBH
+DMJX,Visuel Kommunikation DMJX KBH
+Finanssektorens Arbejdsgiverforening (FA),Fysioterapeutuddannelsen Campus Nordsjælland
+Finanssektorens Arbejdsgiverforening (FA),Pædagoguddannelsen Campus Nordsjælland
+IT-Universitetet,Computer Science
+IT-Universitetet,Data Science/datavidenskab
+IT-Universitetet,Digital Design and Interactive Technologies
+IT-Universitetet,Global Business Informatics
+IT-Universitetet,Software Design
+IT-Universitetet,Software Development/Softwareudvikling
+KP,Læreruddannelsen Campus Carlsberg
+KP,Pædagoguddannelsen Campus Carlsberg
+KP,Fysioterapeutuddannelsen Campus Nordsjælland
+KP,Pædagoguddannelsen Campus Nordsjælland
+KP,Sygeplejerske Campus Nordsjælland
+KP,Administrationsbachelor - Tagensvej 86
+KP,Bioanalytiker  Campus Sigurdsgade
+KP,"Diplomuddannelse i biotek.,  procestek. og kemi"
+KP,Ergoterapeut  Campus Sigurdsgade
+KP,Ernæring og sundhed  Campus Sigurdsgade
+KP,Fysioterapeut  Campus Sigurdsgade
+KP,Jordemoder  Campus Sigurdsgade
+KP,Katastrofe og risikomanager  Campus Sigurdsgade
+KP,Laborant  Campus Sigurdsgade
+KP,Professionsbachelor i skat  Tagensvej 86
+KP,Radiograf  Campus Sigurdsgade
+KP,Sundhedsadministrative koordinatoruddannelse
+KP,Sygeplejerske Campus Tagensvej
+KU,Audiologopædi
+KU,Danish culture courses
+KU,Dansk
+KU,Dansk som andetsprog
+KU,"EnGeRom - Engelsk, Germansk, Romanske Studier"
+KU,Engelsk
+KU,Film- og medievidenskab
+KU,Filosofi
+KU,Fransk sprog og kultur
+KU,Historie
+KU,Informationsstudier
+KU,Japanstudier
+KU,Kinastudier
+KU,Kommunikation
+KU,Kommunikation og IT
+KU,Kunsthistorie
+KU,Lingvistik
+KU,Litteraturvidenskab
+KU,Master in Applied Cultural Analysis (MACA)
+KU,Mellemøstens sprog og samfund
+KU,Pædagogik
+KU,Religionsvidenskab
+KU,Retorik
+KU,"SAXO Arkæologi, Etnologi, Historie, Græsk og Latin"
+KU,Teater- og performancestudier
+KU,Tværkulturelle studier
+KU,Tysk sprog og kultur
+KU,Visuel kultur
+KU,Østeuropastudier
+KU,Jura Bachelor
+KU,Jura Kandidat
+KU,Jura Masteruddannelse
+KU,Politiskolen - Grunduddannelsen
+KU,Agricultural Economics
+KU,Agriculture  Agronom
+KU,Biokemi
+KU,Biologi
+KU,Biologi - bioteknologi
+KU,Biology-Biotechnology
+KU,Climate Change
+KU,Datalogi
+KU,Datalogi-Økonomi
+KU,De fysiske fag
+KU,De kemiske fag
+KU,Environmental & Natural Resource Economics
+KU,Environmental Science
+KU,Food Science & Technology
+KU,Forest & Nature Management
+KU,Forsikringsmatematik
+KU,Fødevarer og ernæring
+KU,Geografi & geoinformatik
+KU,Geologi & geoscience
+KU,Idræt og fysisk aktivitet
+KU,Integrated Food Studies
+KU,Landscape Architecture
+KU,Landskabsarkitektur og bydesign
+KU,Machine learning og datavidenskab
+KU,Matematik
+KU,Matematik-Økonomi
+KU,Medicinalkemi
+KU,Miljø- og fødevareøkonomi
+KU,Molekylær biomedicin
+KU,Nanoscience
+KU,Nature Management
+KU,Naturforvaltning
+KU,Naturressourcer
+KU,Skov- og landskabsingeniør
+KU,Antropologi
+KU,Psykologi
+KU,Samfundsfag
+KU,Sociologi
+KU,Statskundskab
+KU,Økonomi
+KU,Animal Science
+KU,Farmaceutuddannelsen
+KU,Folkesundhedsvidenskab
+KU,Humanbiologi
+KU,Husdyrvidenskab
+KU,Immunology and inflammation
+KU,Medicin
+KU,Odontologi
+KU,Sundhed og Informatik (tidligere IT og Sundhed)
+KU,Sundhedsfaglig kandidat
+KU,Tandklinikassistent - SKT
+KU,Tandplejer - SKT
+KU,Veterinærmedicin -  Bachelor
+KU,Veterinærmedicin - Kandidat
+KU,Teologi Bachelor
+KU,Teologi Kandidat
+Politiskolen,Politiskolen - Grunduddannelsen
+RUC,Erhvervsøkonomi HA/Business administration
+RUC,Internationale Studier
+RUC,RUC Sommerskole
+RUC,Socialvidenskab
+SDU,"Cand.merc. Marketing, Social Media"
+SDU,HA - Sports og Eventmanagement
+SDU,Jura Esbjerg
+SDU,MSc in Economics and Business Administration
+SDU,Master of Science in Public Health
+SDU,Medicin Kandidat Esbjerg
+SDU,Sociologi og Kulturanalyse
+SDU,HA Digitalisering og Forretningsforståelse
+SDU,HA Energi Management
+SDU,HA Entreprenørskab og Innovation
+SDU,HA Generel Erhvervsøkonomi
+SDU,HA Human Resource Management
+SDU,HA International Business
+SDU,HA Jur
+SDU,HA Marketing og Brand Management
+SDU,HA Sports- og Eventmanagement
+SDU,HD 1. Del
+SDU,HD 2. Del - Finansiel Rådgivning
+SDU,HD 2. Del - Organisation og Ledelse
+SDU,HD 2. Del - Regnskab og Økonomistyring
+SDU,Amerikanske Studier
+SDU,Audiologopædi (BA og KA)
+SDU,Dansk
+SDU,Engelsk
+SDU,Filosofi
+SDU,Historie
+SDU,Interkulturel Pædagogik og Dansk som Andetsprog
+SDU,International Virksomhedskommunikation (IVK)
+SDU,Litteraturvidenskab
+SDU,Medievidenskab
+SDU,Mellemøststudier
+SDU,Oldtidskundskab
+SDU,Pædagogik (kandidaten)
+SDU,Religionsstudier
+SDU,Tyske Studier
+SDU,"Biblioteksvidenskab, IT og Kommunikation"
+SDU,Cand.Merc. (Kolding)
+SDU,Cand.Merc.Aud.
+SDU,Designkultur (bachelor)
+SDU,Designkultur og Økonomi (bachelor)
+SDU,Designstudier (kandidat)
+SDU,"Informationsvidenskab, IT og Interaktionsdesign"
+SDU,International Virksomhedskommunikation (IVKKolding
+SDU,Master i Offentlig Kvalitet og Ledelse (MPQM)
+SDU,Master i Offentlig Ledelse (FMOL) Odense & Aarhus
+SDU,Master i Projekt- og Innovationsledelse
+SDU,Master i Public Management (MPM
+SDU,Master of Business Administration (MBA)
+SDU,TOM
+SDU,Anvendt Matematik (bachelor)
+SDU,Biokemi og Molekylær Biologi (BMB)
+SDU,Biologi (BB)
+SDU,Biomedicin
+SDU,Datalogi (under IMADA)
+SDU,Datascience (kandidat)
+SDU,Farmaci (under FKF - Bachelor)
+SDU,Fysik (under FKF)
+SDU,Kemi (under FKF)
+SDU,Kunstig Intelligens
+SDU,Matematik (under IMADA)
+SDU,Matematik-Økonomi
+SDU,Tværfaglie Kurser (NatVid)
+SDU,Cand.Merc
+SDU,Cand.Negot.
+SDU,Cand.Oecon. - Økonomi
+SDU,Center for Journalistik
+SDU,Economics and Business Administration
+SDU,Institut for Statskundskab (Social Sciences)
+SDU,Juridisk Institut
+SDU,Juridisk Institut - Deltid
+SDU,Market and Management Anthropology (MMA)
+SDU,Samfundsfag (bachelor)
+SDU,Økonomi/Oecon
+SDU,International Virksomhedskommunikation (Slagelse)
+SDU,Audiologi (BA og KA)
+SDU,De Fem SUND-kandidater
+SDU,Erhvervskandidatuddannelsen i Ergoterapi
+SDU,Erhvervskandidatuddannelsen i Fysioterapi
+SDU,Erhvervskandidatuddannelsen i jordemodervidenskab
+SDU,Erhvervskandidatuddannelsen i klinisk sygepleje
+SDU,Farmaci
+SDU,Folkesundhed
+SDU,Idræt og Biomekanik (IOB)
+SDU,Institut for Psykologi (bachelor og kandidat)
+SDU,"Kandidatudd. Klinisk sygepleje, Sundhedsfaglig kan"
+SDU,Kandidatuddannelsen Sundhedsfaglig kandidat
+SDU,Kandidatuddannelsen i Ergoterapi
+SDU,Kandidatuddannelsen i Fysioterapi
+SDU,Kandidatuddannelsen i jordemodervidenskab
+SDU,Klinisk Biomekanik
+SDU,Medicin (bachelor og kandidat)
+SDU,Sundhedsfaglig erhvervskandidatuddannelse
+SDU,BSc. European Studies
+SDU,"Bsc Engineering, Innovation and Business (Sdrb)"
+SDU,Bsc Mechanical Engineering (Sønderborg)
+SDU,Bsc Mechatronics (Sønderborg)
+SDU,Bsc in Software Engineering (fra e2023)
+SDU,MSc in Electronics (Sønderborg)
+SDU,Civilingeniør -  Maskinteknik (2021)
+SDU,Civilingeniør - Bygningsteknik
+SDU,Civilingeniør - Fysik og Teknologi (FysTek)
+SDU,Civilingeniør - Kemi- og Bioteknologi
+SDU,Civilingeniør - Operations Management
+SDU,Civilingeniør - Product Development and Inn. (PDI)
+SDU,Civilingeniør - Robotteknologi
+SDU,Civilingeniør - Software Engineering
+SDU,Civilingeniør - Spiludvikling og Læringsteknologi
+SDU,Civilingeniør - Sundheds- og Velfærdsteknologi
+SDU,Diplomingeniør - Bygningsteknik
+SDU,Diplomingeniør - Elektrisk Energiteknologi (EE)
+SDU,Diplomingeniør - Elektronik
+SDU,Diplomingeniør - Integreret Design (ID)
+SDU,Diplomingeniør - Kemi- og Bioteknologi
+SDU,Diplomingeniør - Maskinteknik
+SDU,Diplomingeniør - Produktion
+SDU,Diplomingeniør - Robotteknologi
+SDU,Diplomingeniør - Softwareteknologi
+SDU,Teoretisk Pædagogikum
+Studieskolen,Studieskolen
+UCL FYN,Akademiudd.Offentlig Forvaltning og Administration
+UCL FYN,Bioanalytikeruddannelsen
+UCL FYN,Diplomuddannelsen i Ledelse
+UCL FYN,Fysioterapeutuddannelsen
+UCL FYN,Meritpædagoguddannelsen
+UCL FYN,Pædagoguddannelsen (Odense)
+UCL FYN,Pædagoguddannelsen (Svendborg)
+UCL FYN,VVS-installatøruddannelsen

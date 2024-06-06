@@ -1,4 +1,8 @@
+# For website
 flask
 psycopg2
 dotenv
 os
+## For data cleaning
+pandas
+re

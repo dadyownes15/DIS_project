@@ -34,8 +34,8 @@ def init_db():
 
             for _, row in majors.iterrows():
                 cur.execute(
-                    "INSERT INTO Majors (university_id, university_text, study_id, study_text) VALUES (%s, %s, %s, %s)",
-                    (row['university_id'], row['university_text'], row['study_id'], row['study_text'])
+                    "INSERT INTO Majors (university_text, study_text) VALUES ( %s, %s)",
+                    ( row['university_text'], row['study_text'])
                 ),
 
             # Read and insert data courses
@@ -54,9 +54,9 @@ def init_db():
             for _, row in books.iterrows():
                 cur.execute(
                     "INSERT INTO Books (isbn) VALUES (%s)",
-                    (str(row['ISBN']),)  # Ensuring ISBN is treated as a string
+                    (str(row['isbn']),)  # Ensuring ISBN is treated as a string
                 )
-            data = pd.read_csv('datasets/syllabus_data_29_04_2024.csv')
+            data = pd.read_csv('datasets/syllabus_db.csv')
 
             # Iterate through each row to insert data
             for index, row in data.iterrows():
@@ -73,8 +73,6 @@ def init_db():
                 except Exception as e:
                     print(f"Error inserting data at row {index}: {e}")
                     
-                    
-    
             conn.commit()
             
             

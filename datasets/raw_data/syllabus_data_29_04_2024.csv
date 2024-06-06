@@ -1,4 +1,4 @@
-fetch_date,semester_id,semester_text,university_id,university_text,study_id,study_text,subject_id,subject_text,isbn
+FETCH_DATE,SEMESTER_ID,SEMESTER_TEXT,UNIVERSITY_ID,UNIVERSITY_TEXT,STUDY_ID,STUDY_TEXT,SUBJECT_ID,SUBJECT_TEXT,ISBN
 2024-04-29T16:57:18.896Z,10044,2. semester,6273789,CBS - Copenhagen Business School,211,"BSc BLC Business, Language and Culture","BSc BLC Area Studies 2 - German: Markets, institut","BSc BLC Area Studies 2 - German: Markets, institut",9780008142001
 2024-04-29T16:57:18.896Z,10044,2. semester,6273789,CBS - Copenhagen Business School,211,"BSc BLC Business, Language and Culture","BSc BLC Area Studies 2 - German: Markets, institut","BSc BLC Area Studies 2 - German: Markets, institut",9783126750370
 2024-04-29T16:57:18.896Z,10044,2. semester,6273789,CBS - Copenhagen Business School,211,"BSc BLC Business, Language and Culture","BSc BLC Area Studies 2 - German: Markets, institut","BSc BLC Area Studies 2 - German: Markets, institut",9783126750677
