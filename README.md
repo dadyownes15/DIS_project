@@ -7,6 +7,26 @@
 ## Description
 Final project for the course "Database and Information Systems" at the University of Copenhagen, DIKU department.
 
+
+
+## Initialisation procedure
+Clone / download repository files and run the following to install the required packages (within a venv):
+```
+    pip install -r requirements.txt
+```
+
+Create a new database in pgAdmin (preferably named BOOKS) and add the following to your .env file (normally
+.env should be a private file containing user secrets, in this case we have kept it inside the project files for easy
+access for the TAs):
+
+```
+    SECRET_KEY=<secret_key>
+    DB_USERNAME=postgres || <postgres_user_name>
+    DB_PASSWORD=<postgres_user_password>
+    DB_NAME=BOOKS || <postgres_db_name>
+```
+
+
 ## Running Our Curriculum Finder
 
 1. **Set Up Your Working Directory**
